@@ -1,0 +1,4975 @@
+﻿SIGLA UF;COD. UF;COD. MUNICIPIO;MUNICIPIO;POPULACAO
+RO;11;1;Alta Floresta D'Oeste;41.574
+RO;11;40;Alto Paraíso;10.458
+RO;11;34;Alvorada D'Oeste;25.629
+RO;11;2;Ariquemes;72.206
+RO;11;3;Cabixi;9.753
+RO;11;60;Cacaulândia;6.436
+RO;11;4;Cacoal;79.162
+RO;11;70;Campo Novo de Rondônia;5.130
+RO;11;80;Candeias do Jamari;8.642
+RO;11;90;Castanheiras;5.314
+RO;11;5;Cerejeiras;27.383
+RO;11;6;Colorado do Oeste;30.881
+RO;11;7;Corumbiara;14.768
+RO;11;8;Costa Marques;12.993
+RO;11;9;Espigão D'Oeste;28.264
+RO;11;100;Governador Jorge Teixeira;7.802
+RO;11;10;Guajará-Mirim;36.835
+RO;11;110;Itapuã do Oeste;5.357
+RO;11;11;Jaru;58.428
+RO;11;12;Ji-Paraná;114.226
+RO;11;13;Machadinho D'Oeste;18.572
+RO;11;120;Ministro Andreazza;13.256
+RO;11;130;Mirante da Serra;13.787
+RO;11;140;Monte Negro;6.995
+RO;11;14;Nova Brasilândia D'Oeste;17.591
+RO;11;33;Nova Mamoré;6.553
+RO;11;50;Novo Horizonte do Oeste;13.858
+RO;11;15;Ouro Preto do Oeste;61.684
+RO;11;18;Pimenta Bueno;59.220
+RO;11;20;Porto Velho;318.859
+RO;11;25;Presidente Médici;33.920
+RO;11;26;Rio Crespo;5.715
+RO;11;28;Rolim de Moura;53.399
+RO;11;29;Santa Luzia D'Oeste;14.485
+RO;11;32;São Miguel do Guaporé;17.696
+RO;11;150;Seringueiras;7.343
+RO;11;160;Theobroma;7.977
+RO;11;170;Urupá;12.908
+RO;11;180;Vale do Paraíso;10.604
+RO;11;30;Vilhena;43.844
+AC;12;1;Acrelândia;6.211
+AC;12;5;Assis Brasil;3.419
+AC;12;10;Brasiléia;15.406
+AC;12;13;Bujari;3.599
+AC;12;17;Capixaba;2.512
+AC;12;20;Cruzeiro do Sul;51.544
+AC;12;25;Epitaciolândia;7.993
+AC;12;30;Feijó;17.188
+AC;12;32;Jordão;4.176
+AC;12;33;Mâncio Lima;8.545
+AC;12;34;Manoel Urbano;4.477
+AC;12;35;Marechal Thaumaturgo;8.706
+AC;12;38;Plácido de Castro;13.998
+AC;12;80;Porto Acre;10.352
+AC;12;39;Porto Walter;6.950
+AC;12;40;Rio Branco;207.307
+AC;12;42;Rodrigues Alves;7.189
+AC;12;43;Santa Rosa do Purus;652
+AC;12;50;Sena Madureira;24.403
+AC;12;45;Senador Guiomard;17.349
+AC;12;60;Tarauacá;23.258
+AC;12;70;Xapuri;10.008
+AM;13;2;Alvarães;10.063
+AM;13;6;Amaturá;4.816
+AM;13;8;Anamã;6.354
+AM;13;10;Anori;8.484
+AM;13;14;Apuí;6.271
+AM;13;20;Atalaia do Norte;8.430
+AM;13;30;Autazes;17.533
+AM;13;40;Barcelos;11.669
+AM;13;50;Barreirinha;16.722
+AM;13;60;Benjamin Constant;21.422
+AM;13;63;Beruri;7.843
+AM;13;68;Boa Vista do Ramos;8.209
+AM;13;70;Boca do Acre;26.336
+AM;13;80;Borba;15.861
+AM;13;83;Caapiranga;7.475
+AM;13;90;Canutama;14.377
+AM;13;100;Carauari;21.198
+AM;13;110;Careiro;37.786
+AM;13;115;Careiro da Várzea;18.613
+AM;13;120;Coari;37.410
+AM;13;130;Codajás;14.236
+AM;13;140;Eirunepé;22.611
+AM;13;150;Envira;16.746
+AM;13;160;Fonte Boa;17.388
+AM;13;165;Guajará;11.911
+AM;13;170;Humaitá;43.056
+AM;13;180;Ipixuna;10.002
+AM;13;185;Iranduba;20.734
+AM;13;190;Itacoatiara;60.976
+AM;13;195;Itamarati;9.802
+AM;13;200;Itapiranga;5.418
+AM;13;210;Japurá;12.751
+AM;13;220;Juruá;4.761
+AM;13;230;Jutaí;16.356
+AM;13;240;Lábrea;36.685
+AM;13;250;Manacapuru;60.216
+AM;13;255;Manaquiri;10.627
+AM;13;260;Manaus;1.138.198
+AM;13;270;Manicoré;39.872
+AM;13;280;Maraã;12.519
+AM;13;290;Maués;32.122
+AM;13;300;Nhamundá;13.138
+AM;13;310;Nova Olinda do Norte;12.839
+AM;13;320;Novo Airão;16.405
+AM;13;330;Novo Aripuanã;12.552
+AM;13;340;Parintins;61.911
+AM;13;350;Pauini;19.930
+AM;13;353;Presidente Figueiredo;8.405
+AM;13;356;Rio Preto da Eva;7.132
+AM;13;360;Santa Isabel do Rio Negro;18.040
+AM;13;370;Santo Antônio do Içá;20.137
+AM;13;380;São Gabriel da Cachoeira;24.371
+AM;13;390;São Paulo de Olivença;14.698
+AM;13;395;São Sebastião do Uatumã;5.382
+AM;13;400;Silves;5.382
+AM;13;406;Tabatinga;33.162
+AM;13;410;Tapauá;28.176
+AM;13;420;Tefé;64.097
+AM;13;423;Tonantins;10.826
+AM;13;426;Uarini;5.703
+AM;13;430;Urucará;13.402
+AM;13;440;Urucurituba;20.674
+RR;14;5;Alto Alegre;13.705
+RR;14;10;Boa Vista;174.092
+RR;14;15;Bonfim;11.075
+RR;14;20;Caracaraí;10.160
+RR;14;30;Mucajaí;16.578
+RR;14;40;Normandia;12.308
+RR;14;50;São João da Baliza;12.919
+RR;14;60;São Luiz;11.364
+PA;15;10;Abaetetuba;109.235
+PA;15;13;Abel Figueiredo;4.990
+PA;15;20;Acará;39.188
+PA;15;30;Afuá;18.934
+PA;15;34;Água Azul do Norte;8.189
+PA;15;40;Alenquer;55.617
+PA;15;50;Almeirim;33.758
+PA;15;60;Altamira;72.465
+PA;15;70;Anajás;15.022
+PA;15;80;Ananindeua;273.525
+PA;15;90;Augusto Corrêa;31.957
+PA;15;95;Aurora do Pará;13.006
+PA;15;100;Aveiro;11.815
+PA;15;110;Bagre;15.811
+PA;15;120;Baião;21.272
+PA;15;130;Barcarena;54.989
+PA;15;140;Belém;1.167.841
+PA;15;150;Benevides;71.457
+PA;15;157;Bom Jesus do Tocantins;13.228
+PA;15;160;Bonito;8.759
+PA;15;170;Bragança;102.224
+PA;15;172;Brasil Novo;13.788
+PA;15;175;Brejo Grande do Araguaia;6.157
+PA;15;178;Breu Branco;15.041
+PA;15;180;Breves;78.811
+PA;15;190;Bujaru;14.493
+PA;15;200;Cachoeira do Arari;13.931
+PA;15;210;Cametá;87.189
+PA;15;220;Capanema;53.839
+PA;15;230;Capitão Poço;49.655
+PA;15;240;Castanhal;113.939
+PA;15;250;Chaves;17.816
+PA;15;260;Colares;8.769
+PA;15;270;Conceição do Araguaia;59.977
+PA;15;275;Concórdia do Pará;15.653
+PA;15;276;Cumaru do Norte;6.871
+PA;15;277;Curionópolis;32.972
+PA;15;280;Curralinho;15.990
+PA;15;290;Curuçá;20.694
+PA;15;293;Dom Eliseu;29.338
+PA;15;295;Eldorado dos Carajás;13.907
+PA;15;300;Faro;3.351
+PA;15;307;Garrafão do Norte;22.539
+PA;15;309;Goianésia do Pará;12.210
+PA;15;310;Gurupá;20.103
+PA;15;320;Igarapé-Açu;28.779
+PA;15;330;Igarapé-Miri;42.827
+PA;15;340;Inhangapi;6.404
+PA;15;345;Ipixuna do Pará;9.775
+PA;15;350;Irituia;32.786
+PA;15;360;Itaituba;112.264
+PA;15;370;Itupiranga;44.866
+PA;15;375;Jacareacanga;11.672
+PA;15;380;Jacundá;35.958
+PA;15;390;Juruti;23.818
+PA;15;400;Limoeiro do Ajuru;17.460
+PA;15;405;Mãe do Rio;31.955
+PA;15;410;Magalhães Barata;7.710
+PA;15;420;Marabá;151.374
+PA;15;430;Maracanã;26.953
+PA;15;440;Marapanim;20.568
+PA;15;445;Medicilândia;23.863
+PA;15;450;Melgaço;15.793
+PA;15;460;Mocajuba;20.362
+PA;15;470;Moju;44.118
+PA;15;480;Monte Alegre;49.404
+PA;15;490;Muaná;23.704
+PA;15;495;Nova Esperança do Piriá;6.805
+PA;15;500;Nova Timboteua;9.054
+PA;15;503;Novo Progresso;6.812
+PA;15;506;Novo Repartimento;32.455
+PA;15;510;Óbidos;43.301
+PA;15;520;Oeiras do Pará;20.688
+PA;15;530;Oriximiná;44.654
+PA;15;540;Ourém;14.015
+PA;15;543;Ourilândia do Norte;27.942
+PA;15;548;Pacajá;37.165
+PA;15;549;Palestina do Pará;5.310
+PA;15;550;Paragominas;71.374
+PA;15;553;Parauapebas;55.644
+PA;15;555;Pau D'Arco;5.588
+PA;15;560;Peixe-Boi;5.730
+PA;15;570;Ponta de Pedras;17.486
+PA;15;580;Portel;31.039
+PA;15;590;Porto de Moz;16.253
+PA;15;600;Prainha;29.409
+PA;15;610;Primavera;17.542
+PA;15;613;Redenção;61.396
+PA;15;616;Rio Maria;32.168
+PA;15;618;Rondon do Pará;34.212
+PA;15;619;Rurópolis;23.444
+PA;15;620;Salinópolis;24.958
+PA;15;630;Salvaterra;12.504
+PA;15;635;Santa Bárbara do Pará;10.484
+PA;15;640;Santa Cruz do Arari;4.901
+PA;15;650;Santa Isabel do Pará;36.599
+PA;15;655;Santa Luzia do Pará;20.637
+PA;15;658;Santa Maria das Barreiras;7.852
+PA;15;660;Santa Maria do Pará;19.019
+PA;15;670;Santana do Araguaia;18.185
+PA;15;680;Santarém;288.628
+PA;15;690;Santarém Novo;4.309
+PA;15;700;Santo Antônio do Tauá;18.856
+PA;15;710;São Caetano de Odivelas;21.631
+PA;15;715;São Domingos do Araguaia;17.206
+PA;15;720;São Domingos do Capim;21.967
+PA;15;730;São Félix do Xingu;29.975
+PA;15;740;São Francisco do Pará;11.928
+PA;15;745;São Geraldo do Araguaia;46.719
+PA;15;747;São João de Pirabas;17.900
+PA;15;750;São João do Araguaia;6.667
+PA;15;760;São Miguel do Guamá;34.708
+PA;15;770;São Sebastião da Boa Vista;15.697
+PA;15;780;Senador José Porfírio;38.364
+PA;15;790;Soure;17.899
+PA;15;795;Tailândia;21.324
+PA;15;796;Terra Alta;5.325
+PA;15;797;Terra Santa;11.121
+PA;15;800;Tomé-Açu;42.376
+PA;15;805;Trairão;10.737
+PA;15;808;Tucumã;38.034
+PA;15;810;Tucuruí;60.220
+PA;15;812;Ulianópolis;8.903
+PA;15;815;Uruará;30.515
+PA;15;820;Vigia;41.089
+PA;15;830;Viseu;57.237
+PA;15;835;Vitória do Xingu;14.434
+PA;15;840;Xinguara;57.476
+AP;16;10;Amapá;7.117
+AP;16;20;Calçoene;5.932
+AP;16;21;Cutias;1.882
+AP;16;23;Ferreira Gomes;2.329
+AP;16;25;Itaubal;1.347
+AP;16;27;Laranjal do Jari;24.008
+AP;16;30;Macapá;189.080
+AP;16;40;Mazagão;9.449
+AP;16;50;Oiapoque;8.370
+AP;16;15;Pedra Branca do Amaparí;1.640
+AP;16;53;Porto Grande;5.885
+AP;16;55;Pracuúba;1.518
+AP;16;60;Santana;60.200
+AP;16;5;Serra do Navio;2.128
+AP;16;70;Tartarugalzinho;5.303
+TO;17;25;Abreulândia;1.966
+TO;17;35;Aliança do Tocantins;6.451
+TO;17;40;Almas;8.111
+TO;17;70;Alvorada;11.065
+TO;17;100;Ananás;9.200
+TO;17;105;Angico;2.950
+TO;17;110;Aparecida do Rio Negro;3.290
+TO;17;130;Aragominas;3.173
+TO;17;190;Araguacema;4.599
+TO;17;200;Araguaçu;9.654
+TO;17;210;Araguaína;99.127
+TO;17;215;Araguanã;2.381
+TO;17;220;Araguatins;22.976
+TO;17;230;Arapoema;9.877
+TO;17;240;Arraias;11.298
+TO;17;255;Augustinópolis;11.564
+TO;17;270;Aurora do Tocantins;4.697
+TO;17;290;Axixá do Tocantins;10.579
+TO;17;300;Babaçulândia;9.134
+TO;17;310;Barrolândia;6.699
+TO;17;320;Bernardo Sayão;4.547
+TO;17;330;Bom Jesus do Tocantins;2.758
+TO;17;360;Brasilândia do Tocantins;1.601
+TO;17;370;Brejinho de Nazaré;7.010
+TO;17;380;Buriti do Tocantins;8.541
+TO;17;382;Cachoeirinha;1.705
+TO;17;384;Campos Lindos;3.570
+TO;17;386;Cariri do Tocantins;3.016
+TO;17;388;Carmolândia;1.966
+TO;17;389;Carrasco Bonito;1.589
+TO;17;390;Caseara;2.924
+TO;17;410;Centenário;1.891
+TO;17;550;Colinas do Tocantins;22.197
+TO;17;1670;Colméia;8.582
+TO;17;555;Combinado;5.265
+TO;17;560;Conceição do Tocantins;4.545
+TO;17;600;Couto de Magalhães;5.455
+TO;17;610;Cristalândia;8.997
+TO;17;650;Darcinópolis;3.374
+TO;17;700;Dianópolis;13.662
+TO;17;710;Divinópolis do Tocantins;6.565
+TO;17;720;Dois Irmãos do Tocantins;7.813
+TO;17;730;Dueré;4.240
+TO;17;740;Esperantina;5.425
+TO;17;755;Fátima;5.008
+TO;17;765;Figueirópolis;5.717
+TO;17;770;Filadélfia;7.364
+TO;17;820;Formoso do Araguaia;18.659
+TO;17;825;Fortaleza do Tabocão;1.515
+TO;17;830;Goianorte;5.288
+TO;17;900;Goiatins;15.523
+TO;17;930;Guaraí;20.475
+TO;17;950;Gurupi;60.479
+TO;17;1050;Itacajá;6.985
+TO;17;1070;Itaguatins;6.104
+TO;17;1090;Itapiratins;2.759
+TO;17;1110;Itaporã do Tocantins;3.539
+TO;17;1150;Jaú do Tocantins;2.817
+TO;17;1180;Juarina;2.079
+TO;17;1190;Lagoa da Confusão;2.254
+TO;17;1195;Lagoa do Tocantins;2.117
+TO;17;1200;Lajeado;843
+TO;17;1240;Lizarda;4.390
+TO;17;1250;Marianópolis do Tocantins;2.459
+TO;17;1270;Mateiros;1.153
+TO;17;1280;Maurilândia do Tocantins;1.998
+TO;17;1320;Miracema do Tocantins;21.433
+TO;17;1330;Miranorte;10.721
+TO;17;1360;Monte do Carmo;6.717
+TO;17;1395;Muricilândia;3.023
+TO;17;1420;Natividade;10.592
+TO;17;1430;Nazaré;6.229
+TO;17;1488;Nova Olinda;7.188
+TO;17;1500;Nova Rosalândia;3.125
+TO;17;1510;Novo Acordo;2.496
+TO;17;1515;Novo Alegre;1.916
+TO;17;1525;Novo Jardim;1.561
+TO;17;2100;Palmas;59.961
+TO;17;1570;Palmeirante;3.476
+TO;17;1380;Palmeiras do Tocantins;2.925
+TO;17;1575;Palmeirópolis;9.838
+TO;17;1610;Paraíso do Tocantins;31.997
+TO;17;1620;Paranã;11.623
+TO;17;1630;Pau D'Arco;3.768
+TO;17;1650;Pedro Afonso;10.038
+TO;17;1660;Peixe;9.238
+TO;17;1665;Pequizeiro;3.187
+TO;17;1700;Pindorama do Tocantins;5.215
+TO;17;1720;Piraquê;1.183
+TO;17;1750;Pium;9.398
+TO;17;1780;Ponte Alta do Bom Jesus;5.150
+TO;17;1790;Ponte Alta do Tocantins;5.863
+TO;17;1800;Porto Alegre do Tocantins;2.135
+TO;17;1820;Porto Nacional;47.980
+TO;17;1830;Praia Norte;4.885
+TO;17;1840;Presidente Kennedy;3.344
+TO;17;1850;Recursolândia;2.070
+TO;17;1855;Riachinho;3.955
+TO;17;1865;Rio da Conceição;767
+TO;17;1870;Rio dos Bois;1.672
+TO;17;1875;Rio Sono;7.414
+TO;17;1880;Sampaio;3.328
+TO;17;1884;Sandolândia;2.768
+TO;17;1886;Santa Fé do Araguaia;3.878
+TO;17;1888;Santa Maria do Tocantins;2.114
+TO;17;1890;Santa Rosa do Tocantins;4.028
+TO;17;1900;Santa Tereza do Tocantins;1.832
+TO;17;2010;São Bento do Tocantins;5.348
+TO;17;2015;São Félix do Tocantins;841
+TO;17;2020;São Miguel do Tocantins;7.270
+TO;17;2025;São Salvador do Tocantins;2.745
+TO;17;2030;São Sebastião do Tocantins;2.632
+TO;17;2049;São Valério da Natividade;3.946
+TO;17;2065;Silvanópolis;6.499
+TO;17;2080;Sítio Novo do Tocantins;7.319
+TO;17;2085;Sucupira;1.708
+TO;17;2090;Taguatinga;11.688
+TO;17;2093;Taipas do Tocantins;2.391
+TO;17;2110;Tocantínia;6.192
+TO;17;2120;Tocantinópolis;21.265
+TO;17;2130;Tupiratins;1.145
+TO;17;2208;Wanderlândia;9.815
+TO;17;2210;Xambioá;10.652
+MA;21;5;Açailândia;93.530
+MA;21;10;Afonso Cunha;4.977
+MA;21;20;Alcântara;19.991
+MA;21;30;Aldeias Altas;19.658
+MA;21;40;Altamira do Maranhão;19.170
+MA;21;50;Alto Parnaíba;11.231
+MA;21;60;Amarante do Maranhão;25.655
+MA;21;70;Anajatuba;19.666
+MA;21;80;Anapurus;10.692
+MA;21;90;Araioses;43.842
+MA;21;95;Arame;37.853
+MA;21;100;Arari;25.862
+MA;21;110;Axixá;9.517
+MA;21;120;Bacabal;103.863
+MA;21;130;Bacuri;23.234
+MA;21;140;Balsas;46.472
+MA;21;150;Barão de Grajaú;14.083
+MA;21;160;Barra do Corda;95.480
+MA;21;170;Barreirinhas;30.876
+MA;21;180;Benedito Leite;9.113
+MA;21;190;Bequimão;21.817
+MA;21;200;Bom Jardim;45.272
+MA;21;210;Brejo;27.719
+MA;21;220;Buriti;23.064
+MA;21;230;Buriti Bravo;22.122
+MA;21;240;Cajapió;11.852
+MA;21;250;Cajari;15.351
+MA;21;260;Cândido Mendes;35.807
+MA;21;270;Cantanhede;24.636
+MA;21;280;Carolina;25.694
+MA;21;290;Carutapera;35.577
+MA;21;300;Caxias;152.242
+MA;21;310;Cedral;15.804
+MA;21;320;Chapadinha;57.992
+MA;21;330;Codó;112.935
+MA;21;340;Coelho Neto;44.264
+MA;21;350;Colinas;36.968
+MA;21;360;Coroatá;70.168
+MA;21;370;Cururupu;42.153
+MA;21;380;Dom Pedro;20.132
+MA;21;390;Duque Bacelar;7.422
+MA;21;400;Esperantinópolis;27.956
+MA;21;405;Estreito;25.576
+MA;21;410;Fortaleza dos Nogueiras;13.504
+MA;21;420;Fortuna;16.587
+MA;21;430;Godofredo Viana;31.444
+MA;21;440;Gonçalves Dias;15.845
+MA;21;450;Governador Archer;10.108
+MA;21;460;Governador Eugênio Barros;23.217
+MA;21;470;Graça Aranha;5.991
+MA;21;480;Grajaú;57.195
+MA;21;490;Guimarães;12.169
+MA;21;500;Humberto de Campos;20.485
+MA;21;510;Icatu;21.105
+MA;21;520;Igarapé Grande;14.581
+MA;21;530;Imperatriz;310.894
+MA;21;540;Itapecuru Mirim;45.052
+MA;21;550;João Lisboa;59.417
+MA;21;560;Joselândia;14.632
+MA;21;570;Lago da Pedra;47.808
+MA;21;580;Lago do Junco;19.673
+MA;21;590;Lago Verde;14.365
+MA;21;600;Lima Campos;12.212
+MA;21;610;Loreto;9.874
+MA;21;620;Luís Domingues;9.932
+MA;21;630;Magalhães de Almeida;11.584
+MA;21;640;Mata Roma;10.788
+MA;21;650;Matinha;19.175
+MA;21;660;Matões;25.845
+MA;21;670;Mirador;17.489
+MA;21;675;Miranda do Norte;15.513
+MA;21;680;Mirinzal;17.203
+MA;21;690;Monção;28.165
+MA;21;700;Montes Altos;20.796
+MA;21;710;Morros;19.116
+MA;21;720;Nina Rodrigues;7.382
+MA;21;730;Nova Iorque;4.972
+MA;21;740;Olho d'Água das Cunhãs;16.584
+MA;21;750;Paço do Lumiar;59.357
+MA;21;760;Palmeirândia;15.886
+MA;21;770;Paraibano;16.507
+MA;21;780;Parnarama;28.656
+MA;21;790;Passagem Franca;23.121
+MA;21;800;Pastos Bons;14.276
+MA;21;810;Paulo Ramos;27.223
+MA;21;820;Pedreiras;51.608
+MA;21;830;Penalva;30.509
+MA;21;840;Peri Mirim;13.953
+MA;21;850;Pindaré-Mirim;32.896
+MA;21;860;Pinheiro;86.662
+MA;21;870;Pio XII;28.439
+MA;21;880;Pirapemas;20.395
+MA;21;890;Poção de Pedras;22.390
+MA;21;900;Porto Franco;35.984
+MA;21;910;Presidente Dutra;43.570
+MA;21;920;Presidente Juscelino;6.713
+MA;21;930;Presidente Vargas;7.733
+MA;21;940;Primeira Cruz;18.799
+MA;21;950;Riachão;29.228
+MA;21;960;Rosário;45.656
+MA;21;970;Sambaíba;5.841
+MA;21;980;Santa Helena;24.176
+MA;21;990;Santa Inês;72.209
+MA;21;1000;Santa Luzia;127.460
+MA;21;1003;Santa Luzia do Paruá;51.760
+MA;21;1010;Santa Quitéria do Maranhão;21.907
+MA;21;1020;Santa Rita;22.670
+MA;21;1030;Santo Antônio dos Lopes;16.895
+MA;21;1040;São Benedito do Rio Preto;15.755
+MA;21;1050;São Bento;29.206
+MA;21;1060;São Bernardo;25.181
+MA;21;1070;São Domingos do Maranhão;36.169
+MA;21;1080;São Félix de Balsas;6.350
+MA;21;1090;São Francisco do Maranhão;12.717
+MA;21;1100;São João Batista;19.596
+MA;21;1110;São João dos Patos;26.618
+MA;21;1120;São José de Ribamar;78.746
+MA;21;1130;São Luís;775.965
+MA;21;1140;São Luís Gonzaga do Maranhão;23.857
+MA;21;1150;São Mateus do Maranhão;34.158
+MA;21;1160;São Raimundo das Mangabeiras;14.758
+MA;21;1170;São Vicente Ferrer;17.698
+MA;21;1180;Sítio Novo;14.820
+MA;21;1190;Sucupira do Norte;10.501
+MA;21;1200;Tasso Fragoso;6.465
+MA;21;1210;Timbiras;23.918
+MA;21;1220;Timon;118.088
+MA;21;1230;Tuntum;36.424
+MA;21;1240;Turiaçu;44.186
+MA;21;1250;Tutóia;44.173
+MA;21;1260;Urbano Santos;24.364
+MA;21;1270;Vargem Grande;32.757
+MA;21;1280;Viana;41.982
+MA;21;1290;Vitória do Mearim;50.080
+MA;21;1300;Vitorino Freire;31.528
+MA;21;1400;Zé Doca;64.732
+PI;22;10;Agricolândia;6.123
+PI;22;20;Água Branca;16.644
+PI;22;25;Alagoinha do Piauí;8.643
+PI;22;27;Alegrete do Piauí;4.806
+PI;22;30;Alto Longá;15.205
+PI;22;40;Altos;36.552
+PI;22;50;Amarante;17.306
+PI;22;60;Angical do Piauí;6.390
+PI;22;70;Anísio de Abreu;10.156
+PI;22;80;Antônio Almeida;5.255
+PI;22;90;Aroazes;5.749
+PI;22;100;Arraial;5.725
+PI;22;110;Avelino Lopes;12.570
+PI;22;115;Baixa Grande do Ribeiro;6.558
+PI;22;120;Barras;44.049
+PI;22;130;Barreiras do Piauí;4.338
+PI;22;140;Barro Duro;7.128
+PI;22;150;Batalha;21.048
+PI;22;160;Beneditinos;10.833
+PI;22;170;Bertolínia;9.152
+PI;22;180;Bocaina;3.928
+PI;22;190;Bom Jesus;19.267
+PI;22;191;Bom Princípio do Piauí;5.562
+PI;22;192;Bonfim do Piauí;5.103
+PI;22;196;Brasileira;8.387
+PI;22;200;Buriti dos Lopes;32.103
+PI;22;202;Buriti dos Montes;6.228
+PI;22;205;Cabeceiras do Piauí;7.968
+PI;22;209;Caldeirão Grande do Piauí;5.490
+PI;22;210;Campinas do Piauí;5.724
+PI;22;220;Campo Maior;65.241
+PI;22;225;Canavieira;4.107
+PI;22;230;Canto do Buriti;27.881
+PI;22;240;Capitão de Campos;10.621
+PI;22;250;Caracol;12.547
+PI;22;260;Castelo do Piauí;22.765
+PI;22;270;Cocal;27.674
+PI;22;273;Coivaras;4.034
+PI;22;275;Colônia do Gurguéia;4.475
+PI;22;277;Colônia do Piauí;7.110
+PI;22;280;Conceição do Canindé;7.853
+PI;22;285;Coronel José Dias;4.345
+PI;22;290;Corrente;26.077
+PI;22;300;Cristalândia do Piauí;6.383
+PI;22;310;Cristino Castro;11.736
+PI;22;320;Curimatá;13.620
+PI;22;330;Demerval Lobão;12.793
+PI;22;335;Dirceu Arcoverde;6.277
+PI;22;340;Dom Expedito Lopes;5.414
+PI;22;345;Dom Inocêncio;9.399
+PI;22;342;Domingos Mourão;4.455
+PI;22;350;Elesbão Veloso;14.933
+PI;22;360;Eliseu Martins;4.887
+PI;22;370;Esperantina;37.830
+PI;22;375;Fartura do Piauí;4.977
+PI;22;380;Flores do Piauí;4.897
+PI;22;390;Floriano;53.791
+PI;22;400;Francinópolis;5.447
+PI;22;410;Francisco Ayres;5.157
+PI;22;420;Francisco Santos;7.545
+PI;22;430;Fronteiras;9.413
+PI;22;440;Gilbués;10.423
+PI;22;450;Guadalupe;9.884
+PI;22;460;Hugo Napoleão;3.889
+PI;22;470;Inhuma;13.794
+PI;22;480;Ipiranga do Piauí;8.055
+PI;22;490;Isaías Coelho;7.861
+PI;22;500;Itainópolis;13.617
+PI;22;510;Itaueira;11.317
+PI;22;515;Jacobina do Piauí;5.884
+PI;22;520;Jaicós;24.375
+PI;22;525;Jardim do Mulato;4.321
+PI;22;530;Jerumenha;4.127
+PI;22;540;Joaquim Pires;14.749
+PI;22;550;José de Freitas;30.765
+PI;22;555;Lagoa Alegre;5.429
+PI;22;556;Lagoa do Barro do Piauí;4.273
+PI;22;560;Landri Sales;5.517
+PI;22;570;Luís Correia;29.126
+PI;22;580;Luzilândia;36.928
+PI;22;590;Manoel Emídio;7.107
+PI;22;595;Marcolândia;5.021
+PI;22;600;Marcos Parente;4.733
+PI;22;610;Matias Olímpio;12.272
+PI;22;620;Miguel Alves;27.919
+PI;22;630;Miguel Leão;1.218
+PI;22;640;Monsenhor Gil;11.293
+PI;22;650;Monsenhor Hipólito;6.718
+PI;22;660;Monte Alegre do Piauí;9.873
+PI;22;670;Nazaré do Piauí;7.917
+PI;22;680;Nossa Senhora dos Remédios;6.233
+PI;22;690;Novo Oriente do Piauí;7.093
+PI;22;700;Oeiras;38.263
+PI;22;720;Padre Marcos;14.589
+PI;22;730;Paes Landim;5.667
+PI;22;740;Palmeira do Piauí;4.488
+PI;22;750;Palmeirais;11.315
+PI;22;760;Parnaguá;13.263
+PI;22;770;Parnaíba;131.748
+PI;22;775;Passagem Franca do Piauí;4.572
+PI;22;777;Patos do Piauí;5.638
+PI;22;780;Paulistana;26.992
+PI;22;790;Pedro II;45.771
+PI;22;800;Picos;78.540
+PI;22;810;Pimenteiras;10.884
+PI;22;820;Pio IX;17.141
+PI;22;830;Piracuruca;26.031
+PI;22;840;Piripiri;60.893
+PI;22;850;Porto;14.999
+PI;22;860;Prata do Piauí;2.901
+PI;22;865;Queimada Nova;7.803
+PI;22;870;Redenção do Gurguéia;7.367
+PI;22;880;Regeneração;17.377
+PI;22;890;Ribeiro Gonçalves;6.105
+PI;22;900;Rio Grande do Piauí;10.076
+PI;22;910;Santa Cruz do Piauí;9.808
+PI;22;915;Santa Cruz dos Milagres;3.037
+PI;22;920;Santa Filomena;6.012
+PI;22;930;Santa Luz;4.501
+PI;22;937;Santa Rosa do Piauí;7.836
+PI;22;935;Santana do Piauí;4.301
+PI;22;940;Santo Antônio de Lisboa;4.926
+PI;22;950;Santo Inácio do Piauí;5.676
+PI;22;955;São Braz do Piauí;3.915
+PI;22;960;São Félix do Piauí;5.377
+PI;22;970;São Francisco do Piauí;6.575
+PI;22;980;São Gonçalo do Piauí;5.566
+PI;22;985;São João da Canabrava;7.039
+PI;22;990;São João da Serra;7.179
+PI;22;1000;São João do Piauí;34.868
+PI;22;1005;São José do Divino;4.107
+PI;22;1010;São José do Peixe;6.076
+PI;22;1020;São José do Piauí;6.820
+PI;22;1030;São Julião;5.607
+PI;22;1035;São Lourenço do Piauí;4.135
+PI;22;1040;São Miguel do Tapuio;25.044
+PI;22;1050;São Pedro do Piauí;11.842
+PI;22;1060;São Raimundo Nonato;24.131
+PI;22;1065;Sigefredo Pacheco;8.852
+PI;22;1070;Simões;23.399
+PI;22;1080;Simplício Mendes;14.084
+PI;22;1090;Socorro do Piauí;5.401
+PI;22;1100;Teresina;670.669
+PI;22;1110;União;36.202
+PI;22;1120;Uruçuí;16.358
+PI;22;1130;Valença do Piauí;21.123
+PI;22;1135;Várzea Branca;4.229
+PI;22;1140;Várzea Grande;8.444
+CE;23;10;Abaiara;8.445
+CE;23;15;Acarapé;10.514
+CE;23;20;Acaraú;49.214
+CE;23;30;Acopiara;47.970
+CE;23;40;Aiuaba;12.874
+CE;23;50;Alcântaras;8.386
+CE;23;60;Altaneira;4.958
+CE;23;70;Alto Santo;13.755
+CE;23;75;Amontada;25.398
+CE;23;80;Antonina do Norte;4.956
+CE;23;90;Apuiarés;9.646
+CE;23;100;Aquiraz;50.079
+CE;23;110;Aracati;55.220
+CE;23;120;Aracoiaba;23.157
+CE;23;125;Ararendá;9.599
+CE;23;130;Araripe;18.541
+CE;23;140;Aratuba;10.308
+CE;23;150;Arneiroz;7.488
+CE;23;160;Assaré;19.244
+CE;23;170;Aurora;24.033
+CE;23;180;Baixio;5.486
+CE;23;185;Banabuiú;13.989
+CE;23;190;Barbalha;41.562
+CE;23;195;Barreira;15.718
+CE;23;200;Barro;19.558
+CE;23;205;Barroquinha;13.769
+CE;23;210;Baturité;27.929
+CE;23;220;Beberibe;37.157
+CE;23;230;Bela Cruz;27.955
+CE;23;240;Boa Viagem;48.382
+CE;23;250;Brejo Santo;36.470
+CE;23;260;Camocim;55.195
+CE;23;270;Campos Sales;23.953
+CE;23;280;Canindé;62.425
+CE;23;290;Capistrano;15.725
+CE;23;300;Caridade;12.564
+CE;23;310;Cariré;17.415
+CE;23;320;Caririaçu;20.920
+CE;23;330;Cariús;17.243
+CE;23;340;Carnaubal;14.511
+CE;23;350;Cascavel;51.358
+CE;23;360;Catarina;12.710
+CE;23;365;Catunda;8.638
+CE;23;370;Caucaia;187.982
+CE;23;380;Cedro;23.146
+CE;23;390;Chaval;11.305
+CE;23;393;Choró;10.877
+CE;23;395;Chorozinho;15.657
+CE;23;400;Coreaú;17.731
+CE;23;410;Crateús;67.297
+CE;23;420;Crato;93.226
+CE;23;423;Croatá;15.851
+CE;23;425;Cruz;14.326
+CE;23;426;Deputado Irapuan Pinheiro;7.795
+CE;23;427;Ererê;6.273
+CE;23;428;Eusébio;21.974
+CE;23;430;Farias Brito;17.791
+CE;23;435;Forquilha;15.696
+CE;23;440;Fortaleza;1.917.236
+CE;23;445;Fortim;10.414
+CE;23;450;Frecheirinha;9.837
+CE;23;460;General Sampaio;5.957
+CE;23;465;Graça;13.990
+CE;23;470;Granja;41.903
+CE;23;480;Granjeiro;4.893
+CE;23;490;Groaíras;8.335
+CE;23;495;Guaiúba;18.907
+CE;23;500;Guaraciaba do Norte;32.783
+CE;23;510;Guaramiranga;5.158
+CE;23;520;Hidrolândia;18.069
+CE;23;523;Horizonte;19.684
+CE;23;526;Ibaretama;10.959
+CE;23;530;Ibiapina;21.566
+CE;23;533;Ibicuitinga;8.379
+CE;23;535;Icapuí;14.549
+CE;23;540;Icó;62.275
+CE;23;550;Iguatu;77.912
+CE;23;560;Independência;23.582
+CE;23;565;Ipaporanga;10.572
+CE;23;570;Ipaumirim;11.404
+CE;23;580;Ipu;36.756
+CE;23;590;Ipueiras;35.439
+CE;23;600;Iracema;13.649
+CE;23;610;Irauçuba;17.337
+CE;23;620;Itaiçaba;5.882
+CE;23;625;Itaitinga;24.687
+CE;23;630;Itapagé;34.651
+CE;23;640;Itapipoca;79.574
+CE;23;650;Itapiúna;12.518
+CE;23;655;Itarema;27.505
+CE;23;660;Itatira;13.491
+CE;23;670;Jaguaretama;17.746
+CE;23;680;Jaguaribara;7.521
+CE;23;690;Jaguaribe;33.307
+CE;23;700;Jaguaruana;26.161
+CE;23;710;Jardim;24.190
+CE;23;720;Jati;6.688
+CE;23;725;Jijoca de Jericoacoara;5.961
+CE;23;730;Juazeiro do Norte;185.798
+CE;23;740;Jucás;21.299
+CE;23;750;Lavras da Mangabeira;31.049
+CE;23;760;Limoeiro do Norte;45.099
+CE;23;763;Madalena;13.035
+CE;23;765;Maracanaú;195.591
+CE;23;770;Maranguape;77.550
+CE;23;780;Marco;22.290
+CE;23;790;Martinópole;6.282
+CE;23;800;Massapê;23.912
+CE;23;810;Mauriti;37.513
+CE;23;820;Meruoca;10.425
+CE;23;830;Milagres;26.040
+CE;23;835;Milhã;12.147
+CE;23;837;Miraíma;9.795
+CE;23;840;Missão Velha;29.503
+CE;23;850;Mombaça;39.765
+CE;23;860;Monsenhor Tabosa;15.121
+CE;23;870;Morada Nova;60.674
+CE;23;880;Moraújo;6.112
+CE;23;890;Morrinhos;14.956
+CE;23;900;Mucambo;11.640
+CE;23;910;Mulungu;7.949
+CE;23;920;Nova Olinda;11.690
+CE;23;930;Nova Russas;29.365
+CE;23;940;Novo Oriente;27.076
+CE;23;945;Ocara;21.347
+CE;23;950;Orós;22.648
+CE;23;960;Pacajus;34.392
+CE;23;970;Pacatuba;40.364
+CE;23;980;Pacoti;10.079
+CE;23;990;Pacujá;5.359
+CE;23;1000;Palhano;8.198
+CE;23;1010;Palmácia;9.975
+CE;23;1020;Paracuru;22.546
+CE;23;1025;Paraipaba;21.307
+CE;23;1030;Parambu;30.362
+CE;23;1040;Paramoti;10.778
+CE;23;1050;Pedra Branca;39.961
+CE;23;1060;Penaforte;6.639
+CE;23;1070;Pentecoste;32.564
+CE;23;1080;Pereiro;14.949
+CE;23;1085;Pindoretama;12.207
+CE;23;1090;Piquet Carneiro;12.755
+CE;23;1095;Pires Ferreira;9.230
+CE;23;1100;Poranga;11.408
+CE;23;1110;Porteiras;15.472
+CE;23;1120;Potengi;8.407
+CE;23;1123;Potiretama;5.636
+CE;23;1126;Quiterianópolis;16.892
+CE;23;1130;Quixadá;62.046
+CE;23;1135;Quixelô;15.846
+CE;23;1140;Quixeramobim;60.868
+CE;23;1150;Quixeré;14.210
+CE;23;1160;Redenção;23.413
+CE;23;1170;Reriutaba;17.489
+CE;23;1180;Russas;50.362
+CE;23;1190;Saboeiro;15.057
+CE;23;1195;Salitre;13.467
+CE;23;1220;Santa Quitéria;39.414
+CE;23;1200;Santana do Acaraú;22.028
+CE;23;1210;Santana do Cariri;15.001
+CE;23;1230;São Benedito;39.691
+CE;23;1240;São Gonçalo do Amarante;31.530
+CE;23;1250;São João do Jaguaribe;7.813
+CE;23;1260;São Luís do Curu;11.357
+CE;23;1270;Senador Pompeu;26.100
+CE;23;1280;Senador Sá;5.339
+CE;23;1290;Sobral;135.134
+CE;23;1300;Solonópole;15.848
+CE;23;1310;Tabuleiro do Norte;25.830
+CE;23;1320;Tamboril;26.507
+CE;23;1325;Tarrafas;10.826
+CE;23;1330;Tauá;52.875
+CE;23;1335;Tejuçuoca;12.155
+CE;23;1340;Tianguá;47.592
+CE;23;1350;Trairi;39.306
+CE;23;1355;Tururu;10.231
+CE;23;1360;Ubajara;24.048
+CE;23;1370;Umari;7.694
+CE;23;1375;Umirim;15.785
+CE;23;1380;Uruburetama;13.918
+CE;23;1390;Uruoca;9.959
+CE;23;1395;Varjota;13.864
+CE;23;1400;Várzea Alegre;31.634
+CE;23;1410;Viçosa do Ceará;42.087
+RN;24;10;Acari;10.817
+RN;24;20;Açu;47.766
+RN;24;30;Afonso Bezerra;11.670
+RN;24;40;Água Nova;2.415
+RN;24;50;Alexandria;14.656
+RN;24;60;Almino Afonso;5.633
+RN;24;70;Alto do Rodrigues;8.967
+RN;24;80;Angicos;15.134
+RN;24;90;Antônio Martins;7.432
+RN;24;100;Apodi;32.018
+RN;24;110;Areia Branca;23.248
+RN;24;120;Arês;11.454
+RN;24;130;Augusto Severo;12.773
+RN;24;140;Baía Formosa;7.958
+RN;24;145;Baraúna;15.890
+RN;24;150;Barcelona;3.509
+RN;24;160;Bento Fernandes;4.285
+RN;24;170;Bom Jesus;7.930
+RN;24;180;Brejinho;8.734
+RN;24;190;Caiçara do Rio do Vento;2.620
+RN;24;200;Caicó;55.490
+RN;24;210;Campo Redondo;9.375
+RN;24;220;Canguaretama;25.114
+RN;24;230;Caraúbas;20.796
+RN;24;240;Carnaúba dos Dantas;5.726
+RN;24;250;Carnaubais;10.756
+RN;24;260;Ceará-Mirim;57.152
+RN;24;270;Cerro Corá;11.037
+RN;24;280;Coronel Ezequiel;5.842
+RN;24;290;Coronel João Pessoa;4.965
+RN;24;300;Cruzeta;8.256
+RN;24;310;Currais Novos;42.056
+RN;24;320;Doutor Severiano;6.776
+RN;24;330;Encanto;4.960
+RN;24;340;Equador;5.620
+RN;24;350;Espírito Santo;11.005
+RN;24;360;Extremoz;16.372
+RN;24;370;Felipe Guerra;6.657
+RN;24;380;Florânia;12.760
+RN;24;390;Francisco Dantas;3.136
+RN;24;400;Frutuoso Gomes;4.750
+RN;24;410;Galinhos;1.214
+RN;24;420;Goianinha;19.172
+RN;24;430;Governador Dix-Sept Rosado;10.954
+RN;24;440;Grossos;9.758
+RN;24;450;Guamaré;6.701
+RN;24;460;Ielmo Marinho;8.948
+RN;24;470;Ipanguaçu;17.555
+RN;24;480;Ipueira;1.737
+RN;24;490;Itaú;5.400
+RN;24;500;Jaçanã;7.557
+RN;24;510;Jandaíra;5.998
+RN;24;520;Janduís;6.123
+RN;24;530;Januário Cicco;6.583
+RN;24;540;Japi;6.214
+RN;24;550;Jardim de Angicos;2.341
+RN;24;560;Jardim de Piranhas;10.441
+RN;24;570;Jardim do Seridó;12.415
+RN;24;580;João Câmara;27.030
+RN;24;590;João Dias;2.548
+RN;24;600;José da Penha;5.468
+RN;24;610;Jucurutu;15.081
+RN;24;620;Lagoa d'Anta;5.329
+RN;24;630;Lagoa de Pedras;5.167
+RN;24;640;Lagoa de Velhos;1.889
+RN;24;650;Lagoa Nova;11.728
+RN;24;660;Lagoa Salgada;6.442
+RN;24;670;Lajes;8.932
+RN;24;680;Lajes Pintadas;4.663
+RN;24;690;Lucrécia;3.103
+RN;24;700;Luís Gomes;11.887
+RN;24;710;Macaíba;47.611
+RN;24;720;Macau;26.688
+RN;24;730;Marcelino Vieira;9.062
+RN;24;740;Martins;12.188
+RN;24;750;Maxaranguape;14.133
+RN;24;760;Messias Targino;3.418
+RN;24;770;Montanhas;10.091
+RN;24;780;Monte Alegre;16.593
+RN;24;790;Monte das Gameleiras;2.819
+RN;24;800;Mossoró;212.031
+RN;24;810;Natal;668.119
+RN;24;820;Nísia Floresta;15.268
+RN;24;830;Nova Cruz;31.420
+RN;24;840;Olho-d'Água do Borges;4.524
+RN;24;850;Ouro Branco;4.551
+RN;24;860;Paraná;3.799
+RN;24;870;Paraú;4.092
+RN;24;880;Parazinho;4.064
+RN;24;890;Parelhas;18.374
+RN;24;325;Parnamirim;69.375
+RN;24;910;Passa e Fica;6.855
+RN;24;920;Passagem;2.500
+RN;24;930;Patu;11.773
+RN;24;940;Pau dos Ferros;22.822
+RN;24;950;Pedra Grande;3.562
+RN;24;960;Pedra Preta;2.602
+RN;24;970;Pedro Avelino;12.003
+RN;24;980;Pedro Velho;13.336
+RN;24;990;Pendências;11.592
+RN;24;1000;Pilões;2.206
+RN;24;1010;Poço Branco;10.963
+RN;24;1020;Portalegre;6.505
+RN;24;1030;Presidente Juscelino;6.300
+RN;24;1040;Pureza;7.152
+RN;24;1050;Rafael Fernandes;3.607
+RN;24;1060;Rafael Godeiro;2.860
+RN;24;1070;Riacho da Cruz;2.612
+RN;24;1080;Riacho de Santana;4.064
+RN;24;1090;Riachuelo;5.750
+RN;24;1100;Rodolfo Fernandes;5.380
+RN;24;1110;Ruy Barbosa;3.172
+RN;24;1120;Santa Cruz;31.398
+RN;24;1140;Santana do Matos;17.033
+RN;24;1142;Santana do Seridó;2.513
+RN;24;1150;Santo Antônio;19.737
+RN;24;1160;São Bento do Norte;9.195
+RN;24;1170;São Bento do Trairí;3.110
+RN;24;1180;São Fernando;3.578
+RN;24;1190;São Francisco do Oeste;2.923
+RN;24;1200;São Gonçalo do Amarante;49.815
+RN;24;1210;São João do Sabugi;5.762
+RN;24;1220;São José de Mipibu;30.847
+RN;24;1230;São José do Campestre;11.620
+RN;24;1240;São José do Seridó;3.244
+RN;24;1250;São Miguel;22.254
+RN;24;1260;São Paulo do Potengi;14.953
+RN;24;1270;São Pedro;6.939
+RN;24;1280;São Rafael;8.064
+RN;24;1290;São Tomé;11.497
+RN;24;1300;São Vicente;5.000
+RN;24;1310;Senador Elói de Souza;4.399
+RN;24;1320;Senador Georgino Avelino;2.883
+RN;24;1330;Serra de São Bento;6.222
+RN;24;1335;Serra do Mel;8.716
+RN;24;1340;Serra Negra do Norte;7.419
+RN;24;1350;Serrinha;6.913
+RN;24;1360;Severiano Melo;11.305
+RN;24;1370;Sítio Novo;4.548
+RN;24;1380;Taboleiro Grande;2.166
+RN;24;1390;Taipu;10.745
+RN;24;1400;Tangará;10.709
+RN;24;1410;Tenente Ananias;9.363
+RN;24;1420;Tibau do Sul;6.267
+RN;24;1430;Timbaúba dos Batistas;2.095
+RN;24;1440;Touros;29.633
+RN;24;1450;Umarizal;10.891
+RN;24;1460;Upanema;9.062
+RN;24;1470;Várzea;9.276
+RN;24;1480;Vera Cruz;8.666
+RN;24;1490;Viçosa;1.369
+RN;24;1500;Vila Flor;2.486
+PB;25;10;Água Branca;8.373
+PB;25;20;Aguiar;7.012
+PB;25;30;Alagoa Grande;29.977
+PB;25;40;Alagoa Nova;22.909
+PB;25;50;Alagoinha;10.729
+PB;25;60;Alhandra;14.200
+PB;25;80;Araçagi;18.277
+PB;25;90;Arara;10.331
+PB;25;100;Araruna;17.477
+PB;25;110;Areia;28.282
+PB;25;120;Areial;6.391
+PB;25;130;Aroeiras;29.536
+PB;25;140;Baía da Traição;5.770
+PB;25;150;Bananeiras;22.614
+PB;25;160;Barra de Santa Rosa;17.426
+PB;25;170;Barra de São Miguel;5.157
+PB;25;180;Bayeux;82.699
+PB;25;190;Belém;16.741
+PB;25;200;Belém do Brejo do Cruz;7.864
+PB;25;210;Boa Ventura;6.102
+PB;25;220;Bom Jesus;1.869
+PB;25;230;Bom Sucesso;6.063
+PB;25;240;Bonito de Santa Fé;9.514
+PB;25;250;Boqueirão;34.106
+PB;25;270;Borborema;3.952
+PB;25;280;Brejo do Cruz;13.810
+PB;25;290;Brejo dos Santos;6.021
+PB;25;300;Caaporã;16.059
+PB;25;310;Cabaceiras;6.201
+PB;25;320;Cabedelo;31.004
+PB;25;330;Cachoeira dos Índios;7.066
+PB;25;340;Cacimba de Areia;2.918
+PB;25;350;Cacimba de Dentro;18.124
+PB;25;360;Caiçara;10.200
+PB;25;370;Cajazeiras;52.586
+PB;25;380;Caldas Brandão;4.540
+PB;25;390;Camalaú;5.672
+PB;25;400;Campina Grande;351.606
+PB;25;1640;Campo de Santana;10.082
+PB;25;410;Carrapateira;2.016
+PB;25;420;Catingueira;4.911
+PB;25;430;Catolé do Rocha;25.094
+PB;25;440;Conceição;23.341
+PB;25;450;Condado;7.147
+PB;25;460;Conde;11.119
+PB;25;470;Congo;4.125
+PB;25;480;Coremas;14.831
+PB;25;490;Cruz do Espírito Santo;12.256
+PB;25;500;Cubati;6.065
+PB;25;510;Cuité;23.278
+PB;25;520;Cuitegi;7.353
+PB;25;530;Curral Velho;2.547
+PB;25;540;Desterro;13.076
+PB;25;560;Diamante;7.739
+PB;25;570;Dona Inês;9.790
+PB;25;580;Duas Estradas;7.315
+PB;25;590;Emas;3.198
+PB;25;600;Esperança;29.449
+PB;25;610;Fagundes;13.510
+PB;25;620;Frei Martinho;2.662
+PB;25;630;Guarabira;51.924
+PB;25;640;Gurinhém;13.066
+PB;25;650;Gurjão;6.198
+PB;25;660;Ibiara;6.545
+PB;25;260;Igaracy;5.707
+PB;25;670;Imaculada;10.282
+PB;25;680;Ingá;22.277
+PB;25;690;Itabaiana;26.331
+PB;25;700;Itaporanga;20.321
+PB;25;710;Itapororoca;13.756
+PB;25;720;Itatuba;9.172
+PB;25;730;Jacaraú;18.443
+PB;25;740;Jericó;9.950
+PB;25;750;João Pessoa;551.640
+PB;25;760;Juarez Távora;7.595
+PB;25;770;Juazeirinho;18.556
+PB;25;780;Junco do Seridó;6.212
+PB;25;790;Juripiranga;9.895
+PB;25;800;Juru;10.774
+PB;25;810;Lagoa;5.437
+PB;25;820;Lagoa de Dentro;7.072
+PB;25;830;Lagoa Seca;23.116
+PB;25;840;Lastro;3.351
+PB;25;850;Livramento;7.395
+PB;25;860;Lucena;8.100
+PB;25;870;Mãe d'Água;4.458
+PB;25;880;Malta;5.988
+PB;25;890;Mamanguape;53.240
+PB;25;900;Manaíra;11.646
+PB;25;910;Mari;22.093
+PB;25;920;Massaranduba;11.654
+PB;25;930;Mataraca;5.374
+PB;25;940;Mogeiro;13.372
+PB;25;950;Montadas;4.131
+PB;25;960;Monte Horebe;4.143
+PB;25;970;Monteiro;27.198
+PB;25;980;Mulungu;10.581
+PB;25;990;Natuba;11.691
+PB;25;1000;Nazarezinho;7.167
+PB;25;1010;Nova Floresta;7.408
+PB;25;1020;Nova Olinda;6.521
+PB;25;1030;Nova Palmeira;3.394
+PB;25;1040;Olho d'Água;9.057
+PB;25;1050;Olivedos;3.204
+PB;25;1060;Ouro Velho;2.669
+PB;25;1070;Passagem;3.253
+PB;25;1080;Patos;86.762
+PB;25;1090;Paulista;11.267
+PB;25;1100;Pedra Branca;3.840
+PB;25;1110;Pedra Lavrada;6.816
+PB;25;1120;Pedras de Fogo;28.403
+PB;25;1130;Piancó;16.341
+PB;25;1140;Picuí;18.997
+PB;25;1150;Pilar;14.102
+PB;25;1160;Pilões;7.921
+PB;25;1170;Pilõezinhos;5.511
+PB;25;1180;Pirpirituba;10.849
+PB;25;1190;Pitimbu;10.126
+PB;25;1200;Pocinhos;14.425
+PB;25;1210;Pombal;39.313
+PB;25;1220;Prata;3.128
+PB;25;1230;Princesa Isabel;23.728
+PB;25;1240;Puxinanã;11.849
+PB;25;1250;Queimadas;34.743
+PB;25;1260;Quixabá;1.565
+PB;25;1270;Remígio;17.577
+PB;25;1280;Riacho dos Cavalos;9.140
+PB;25;1290;Rio Tinto;27.822
+PB;25;1300;Salgadinho;2.560
+PB;25;1310;Salgado de São Félix;12.467
+PB;25;1320;Santa Cruz;7.157
+PB;25;1330;Santa Helena;6.254
+PB;25;1340;Santa Luzia;13.351
+PB;25;1370;Santa Rita;100.758
+PB;25;1380;Santa Teresinha;4.648
+PB;25;1350;Santana de Mangueira;6.636
+PB;25;1360;Santana dos Garrotes;7.789
+PB;25;1390;São Bento;23.029
+PB;25;1400;São João do Cariri;7.494
+PB;25;70;São João do Rio do Peixe;21.667
+PB;25;1410;São João do Tigre;3.916
+PB;25;1420;São José da Lagoa Tapada;7.389
+PB;25;1430;São José de Caiana;5.034
+PB;25;1440;São José de Espinharas;5.666
+PB;25;1450;São José de Piranhas;17.537
+PB;25;1460;São José do Bonfim;2.652
+PB;25;1470;São José do Sabugi;3.779
+PB;25;1480;São José dos Cordeiros;5.969
+PB;25;1490;São Mamede;8.231
+PB;25;1500;São Miguel de Taipu;4.179
+PB;25;1510;São Sebastião de Lagoa de Roça;9.252
+PB;25;1520;São Sebastião do Umbuzeiro;4.412
+PB;25;1530;Sapé;62.448
+PB;25;1540;Seridó;8.280
+PB;25;1550;Serra Branca;13.170
+PB;25;1560;Serra da Raiz;3.785
+PB;25;1570;Serra Grande;2.608
+PB;25;1580;Serra Redonda;7.263
+PB;25;1590;Serraria;9.262
+PB;25;1600;Solânea;33.570
+PB;25;1610;Soledade;11.958
+PB;25;1620;Sousa;81.161
+PB;25;1630;Sumé;17.330
+PB;25;1650;Taperoá;15.285
+PB;25;1660;Tavares;14.684
+PB;25;1670;Teixeira;18.001
+PB;25;1680;Triunfo;10.859
+PB;25;1690;Uiraúna;20.032
+PB;25;1700;Umbuzeiro;17.456
+PB;25;1710;Várzea;2.089
+PB;25;550;Vista Serrana;3.287
+PE;26;5;Abreu e Lima;83.953
+PE;26;10;Afogados da Ingazeira;31.608
+PE;26;20;Afrânio;13.759
+PE;26;30;Agrestina;18.607
+PE;26;40;Água Preta;25.705
+PE;26;50;Águas Belas;39.065
+PE;26;60;Alagoinha;11.394
+PE;26;70;Aliança;37.133
+PE;26;80;Altinho;22.791
+PE;26;90;Amaraji;20.285
+PE;26;100;Angelim;8.490
+PE;26;110;Araripina;66.026
+PE;26;120;Arcoverde;60.785
+PE;26;130;Barra de Guabiraba;10.674
+PE;26;140;Barreiros;44.212
+PE;26;150;Belém de Maria;12.621
+PE;26;160;Belém de São Francisco;22.651
+PE;26;170;Belo Jardim;66.106
+PE;26;180;Betânia;10.912
+PE;26;190;Bezerros;53.099
+PE;26;200;Bodocó;29.540
+PE;26;210;Bom Conselho;40.823
+PE;26;220;Bom Jardim;37.479
+PE;26;230;Bonito;35.692
+PE;26;240;Brejão;8.464
+PE;26;250;Brejinho;7.511
+PE;26;260;Brejo da Madre de Deus;33.304
+PE;26;270;Buenos Aires;12.638
+PE;26;280;Buíque;38.829
+PE;26;290;Cabo de Santo Agostinho;134.411
+PE;26;300;Cabrobó;24.833
+PE;26;310;Cachoeirinha;17.027
+PE;26;320;Caetés;22.012
+PE;26;330;Calçado;9.702
+PE;26;340;Calumbi;7.369
+PE;26;345;Camaragibe;101.248
+PE;26;350;Camocim de São Félix;14.852
+PE;26;360;Camutanga;7.597
+PE;26;370;Canhotinho;24.201
+PE;26;380;Capoeiras;19.853
+PE;26;390;Carnaíba;18.751
+PE;26;392;Carnaubeira da Penha;11.203
+PE;26;400;Carpina;57.045
+PE;26;410;Caruaru;226.966
+PE;26;420;Catende;32.661
+PE;26;430;Cedro;9.648
+PE;26;440;Chã de Alegria;11.678
+PE;26;450;Chã Grande;15.718
+PE;26;460;Condado;19.080
+PE;26;470;Correntes;15.735
+PE;26;480;Cortês;12.839
+PE;26;490;Cumaru;17.468
+PE;26;500;Cupira;23.511
+PE;26;510;Custódia;29.265
+PE;26;515;Dormentes;14.664
+PE;26;520;Escada;56.875
+PE;26;530;Exu;31.453
+PE;26;540;Feira Nova;19.158
+PE;26;545;Fernando de Noronha;1.806
+PE;26;550;Ferreiros;11.087
+PE;26;560;Flores;21.477
+PE;26;570;Floresta;21.208
+PE;26;580;Frei Miguelinho;14.298
+PE;26;590;Gameleira;20.353
+PE;26;600;Garanhuns;108.596
+PE;26;610;Glória do Goitá;26.399
+PE;26;620;Goiana;66.557
+PE;26;630;Granito;6.122
+PE;26;640;Gravatá;63.792
+PE;26;650;Iati;18.591
+PE;26;660;Ibimirim;29.990
+PE;26;670;Ibirajuba;7.337
+PE;26;680;Igarassu;87.007
+PE;26;690;Iguaraci;10.925
+PE;26;760;Ilha de Itamaracá;12.435
+PE;26;700;Inajá;24.757
+PE;26;710;Ingazeira;4.306
+PE;26;720;Ipojuca;47.128
+PE;26;730;Ipubi;22.000
+PE;26;740;Itacuruba;3.157
+PE;26;750;Itaíba;26.728
+PE;26;765;Itambé;37.326
+PE;26;770;Itapetim;15.192
+PE;26;775;Itapissuma;17.624
+PE;26;780;Itaquitinga;15.067
+PE;26;790;Jaboatão dos Guararapes;537.630
+PE;26;800;Jataúba;14.654
+PE;26;810;João Alfredo;28.413
+PE;26;820;Joaquim Nabuco;16.238
+PE;26;825;Jucati;8.368
+PE;26;830;Jupi;12.217
+PE;26;840;Jurema;12.867
+PE;26;845;Lagoa do Carro;11.512
+PE;26;850;Lagoa do Itaenga;17.732
+PE;26;860;Lagoa do Ouro;11.057
+PE;26;870;Lagoa dos Gatos;16.263
+PE;26;880;Lajedo;30.795
+PE;26;890;Limoeiro;54.388
+PE;26;900;Macaparana;21.610
+PE;26;910;Machados;9.153
+PE;26;920;Maraial;22.270
+PE;26;930;Mirandiba;13.306
+PE;26;1430;Moreilândia;11.547
+PE;26;940;Moreno;40.600
+PE;26;950;Nazaré da Mata;26.922
+PE;26;960;Olinda;360.473
+PE;26;970;Orobó;20.925
+PE;26;980;Orocó;11.498
+PE;26;990;Ouricuri;65.510
+PE;26;1000;Palmares;57.234
+PE;26;1010;Palmeirina;8.079
+PE;26;1020;Panelas;26.975
+PE;26;1030;Paranatama;11.096
+PE;26;1040;Parnamirim;20.136
+PE;26;1050;Passira;30.191
+PE;26;1060;Paudalho;41.094
+PE;26;1070;Paulista;241.422
+PE;26;1080;Pedra;19.030
+PE;26;1090;Pesqueira;59.784
+PE;26;1100;Petrolândia;35.923
+PE;26;1110;Petrolina;183.662
+PE;26;1120;Poção;9.724
+PE;26;1130;Pombos;21.556
+PE;26;1140;Primavera;11.630
+PE;26;1150;Quipapá;21.437
+PE;26;1153;Quixaba;7.554
+PE;26;1160;Recife;1.329.768
+PE;26;1170;Riacho das Almas;18.194
+PE;26;1180;Ribeirão;42.561
+PE;26;1190;Rio Formoso;34.459
+PE;26;1200;Sairé;10.803
+PE;26;1210;Salgadinho;6.010
+PE;26;1220;Salgueiro;48.982
+PE;26;1230;Saloá;14.395
+PE;26;1240;Sanharó;15.236
+PE;26;1245;Santa Cruz;10.775
+PE;26;1247;Santa Cruz da Baixa Verde;12.251
+PE;26;1250;Santa Cruz do Capibaribe;41.775
+PE;26;1260;Santa Maria da Boa Vista;45.778
+PE;26;1270;Santa Maria do Cambucá;11.751
+PE;26;1280;Santa Terezinha;9.890
+PE;26;1290;São Benedito do Sul;9.609
+PE;26;1300;São Bento do Una;43.821
+PE;26;1310;São Caitano;31.588
+PE;26;1320;São João;19.179
+PE;26;1330;São Joaquim do Monte;16.776
+PE;26;1340;São José da Coroa Grande;12.357
+PE;26;1350;São José do Belmonte;31.462
+PE;26;1360;São José do Egito;29.715
+PE;26;1370;São Lourenço da Mata;93.572
+PE;26;1380;São Vicente Ferrer;14.656
+PE;26;1390;Serra Talhada;73.680
+PE;26;1400;Serrita;19.277
+PE;26;1410;Sertânia;31.029
+PE;26;1420;Sirinhaém;34.506
+PE;26;1440;Solidão;5.618
+PE;26;1450;Surubim;61.211
+PE;26;1460;Tabira;23.549
+PE;26;1470;Tacaimbó;12.509
+PE;26;1480;Tacaratu;18.638
+PE;26;1500;Taquaritinga do Norte;17.676
+PE;26;1510;Terezinha;6.599
+PE;26;1520;Terra Nova;7.154
+PE;26;1530;Timbaúba;58.316
+PE;26;1540;Toritama;16.012
+PE;26;1550;Tracunhaém;12.108
+PE;26;1560;Trindade;20.193
+PE;26;1570;Triunfo;15.822
+PE;26;1580;Tupanatinga;19.418
+PE;26;1590;Tuparetama;7.618
+PE;26;1600;Venturosa;12.965
+PE;26;1610;Verdejante;8.251
+PE;26;1618;Vertente do Lério;8.896
+PE;26;1620;Vertentes;13.832
+PE;26;1630;Vicência;28.422
+PE;26;1640;Vitória de Santo Antão;111.246
+PE;26;1650;Xexéu;10.589
+AL;27;10;Água Branca;18.662
+AL;27;20;Anadia;16.804
+AL;27;30;Arapiraca;177.957
+AL;27;40;Atalaia;37.703
+AL;27;50;Barra de Santo Antônio;8.254
+AL;27;60;Barra de São Miguel;5.551
+AL;27;70;Batalha;13.784
+AL;27;80;Belém;5.633
+AL;27;90;Belo Monte;7.517
+AL;27;100;Boca da Mata;23.482
+AL;27;110;Branquinha;7.904
+AL;27;120;Cacimbinhas;12.685
+AL;27;130;Cajueiro;20.357
+AL;27;140;Campo Alegre;40.780
+AL;27;150;Campo Grande;10.293
+AL;27;160;Canapi;18.719
+AL;27;170;Capela;18.867
+AL;27;180;Carneiros;5.836
+AL;27;190;Chã Preta;7.800
+AL;27;200;Coité do Nóia;10.045
+AL;27;210;Colônia Leopoldina;17.217
+AL;27;220;Coqueiro Seco;5.089
+AL;27;230;Coruripe;54.610
+AL;27;235;Craíbas;19.502
+AL;27;240;Delmiro Gouveia;45.709
+AL;27;250;Dois Riachos;10.588
+AL;27;255;Estrela de Alagoas;16.537
+AL;27;260;Feira Grande;19.596
+AL;27;270;Feliz Deserto;3.657
+AL;27;280;Flexeiras;11.845
+AL;27;290;Girau do Ponciano;29.375
+AL;27;300;Ibateguara;17.098
+AL;27;310;Igaci;26.853
+AL;27;320;Igreja Nova;19.944
+AL;27;330;Inhapi;15.643
+AL;27;340;Jacaré dos Homens;5.049
+AL;27;350;Jacuípe;7.519
+AL;27;360;Japaratinga;7.954
+AL;27;370;Jaramataia;4.903
+AL;27;380;Joaquim Gomes;26.840
+AL;27;390;Jundiá;16.761
+AL;27;400;Junqueiro;23.517
+AL;27;410;Lagoa da Canoa;16.828
+AL;27;420;Limoeiro de Anadia;20.003
+AL;27;430;Maceió;703.096
+AL;27;440;Major Isidoro;17.750
+AL;27;490;Mar Vermelho;3.773
+AL;27;450;Maragogi;16.872
+AL;27;460;Maravilha;11.143
+AL;27;470;Marechal Deodoro;25.499
+AL;27;480;Maribondo;14.654
+AL;27;500;Mata Grande;27.211
+AL;27;510;Matriz de Camaragibe;22.380
+AL;27;520;Messias;11.746
+AL;27;530;Minador do Negrão;7.658
+AL;27;540;Monteirópolis;6.301
+AL;27;550;Murici;29.522
+AL;27;560;Novo Lino;14.249
+AL;27;570;Olho d'Água das Flores;16.100
+AL;27;580;Olho d'Água do Casado;7.193
+AL;27;590;Olho d'Água Grande;4.200
+AL;27;600;Olivença;10.384
+AL;27;610;Ouro Branco;9.581
+AL;27;620;Palestina;4.068
+AL;27;630;Palmeira dos Índios;69.541
+AL;27;640;Pão de Açúcar;22.761
+AL;27;642;Pariconha;8.636
+AL;27;644;Paripueira;7.684
+AL;27;650;Passo de Camaragibe;14.903
+AL;27;660;Paulo Jacinto;6.773
+AL;27;670;Penedo;57.943
+AL;27;680;Piaçabuçu;18.514
+AL;27;690;Pilar;30.910
+AL;27;700;Pindoba;3.567
+AL;27;710;Piranhas;16.076
+AL;27;720;Poço das Trincheiras;11.777
+AL;27;730;Porto Calvo;23.305
+AL;27;740;Porto de Pedras;9.414
+AL;27;750;Porto Real do Colégio;18.581
+AL;27;760;Quebrangulo;11.164
+AL;27;770;Rio Largo;56.976
+AL;27;780;Roteiro;8.349
+AL;27;790;Santa Luzia do Norte;6.500
+AL;27;800;Santana do Ipanema;37.091
+AL;27;810;Santana do Mundaú;11.761
+AL;27;820;São Brás;6.008
+AL;27;830;São José da Laje;22.101
+AL;27;840;São José da Tapera;28.175
+AL;27;850;São Luís do Quitunde;33.006
+AL;27;860;São Miguel dos Campos;53.558
+AL;27;870;São Miguel dos Milagres;4.922
+AL;27;880;São Sebastião;26.094
+AL;27;890;Satuba;10.214
+AL;27;895;Senador Rui Palmeira;9.955
+AL;27;900;Tanque d'Arca;7.754
+AL;27;910;Taquarana;17.790
+AL;27;915;Teotônio Vilela;32.899
+AL;27;920;Traipu;24.003
+AL;27;930;União dos Palmares;59.021
+AL;27;940;Viçosa;23.045
+SE;28;10;Amparo de São Francisco;1.958
+SE;28;20;Aquidabã;16.444
+SE;28;30;Aracaju;437.543
+SE;28;40;Arauá;10.909
+SE;28;50;Areia Branca;11.682
+SE;28;60;Barra dos Coqueiros;14.023
+SE;28;67;Boquim;24.361
+SE;28;70;Brejo Grande;6.560
+SE;28;100;Campo do Brito;13.976
+SE;28;110;Canhoba;3.747
+SE;28;120;Canindé de São Francisco;12.642
+SE;28;130;Capela;26.059
+SE;28;140;Carira;15.316
+SE;28;150;Carmópolis;7.515
+SE;28;160;Cedro de São João;5.182
+SE;28;170;Cristinápolis;12.045
+SE;28;190;Cumbe;3.225
+SE;28;200;Divina Pastora;2.809
+SE;28;210;Estância;63.109
+SE;28;220;Feira Nova;4.469
+SE;28;230;Frei Paulo;10.701
+SE;28;240;Gararu;10.244
+SE;28;250;General Maynard;2.224
+SE;28;260;Gracho Cardoso;5.021
+SE;28;270;Ilha das Flores;6.975
+SE;28;280;Indiaroba;12.789
+SE;28;290;Itabaiana;68.630
+SE;28;300;Itabaianinha;32.059
+SE;28;310;Itabi;4.890
+SE;28;320;Itaporanga d'Ajuda;21.513
+SE;28;330;Japaratuba;13.802
+SE;28;340;Japoatã;11.623
+SE;28;350;Lagarto;76.363
+SE;28;360;Laranjeiras;22.194
+SE;28;370;Macambira;5.143
+SE;28;380;Malhada dos Bois;2.580
+SE;28;390;Malhador;10.592
+SE;28;400;Maruim;16.179
+SE;28;410;Moita Bonita;9.430
+SE;28;420;Monte Alegre de Sergipe;9.984
+SE;28;430;Muribeca;6.957
+SE;28;440;Neópolis;16.487
+SE;28;445;Nossa Senhora Aparecida;8.403
+SE;28;450;Nossa Senhora da Glória;24.371
+SE;28;460;Nossa Senhora das Dores;20.351
+SE;28;470;Nossa Senhora de Lourdes;4.832
+SE;28;480;Nossa Senhora do Socorro;79.165
+SE;28;490;Pacatuba;11.977
+SE;28;500;Pedra Mole;2.277
+SE;28;510;Pedrinhas;8.096
+SE;28;520;Pinhão;4.586
+SE;28;530;Pirambu;5.329
+SE;28;540;Poço Redondo;21.334
+SE;28;550;Poço Verde;18.750
+SE;28;560;Porto da Folha;23.674
+SE;28;570;Propriá;26.558
+SE;28;580;Riachão do Dantas;16.880
+SE;28;590;Riachuelo;8.012
+SE;28;600;Ribeirópolis;14.614
+SE;28;610;Rosário do Catete;6.249
+SE;28;620;Salgado;18.420
+SE;28;630;Santa Luzia do Itanhy;10.477
+SE;28;650;Santa Rosa de Lima;3.481
+SE;28;640;Santana do São Francisco;6.176
+SE;28;660;Santo Amaro das Brotas;11.706
+SE;28;670;São Cristóvão;55.716
+SE;28;680;São Domingos;8.226
+SE;28;690;São Francisco;2.248
+SE;28;700;São Miguel do Aleixo;3.169
+SE;28;710;Simão Dias;34.079
+SE;28;720;Siriri;6.556
+SE;28;730;Telha;2.342
+SE;28;740;Tobias Barreto;39.775
+SE;28;750;Tomar do Geru;11.395
+SE;28;760;Umbaúba;16.079
+BA;29;10;Abaíra;8.484
+BA;29;20;Abaré;12.145
+BA;29;30;Acajutiba;13.292
+BA;29;35;Adustina;15.272
+BA;29;40;Água Fria;14.582
+BA;29;60;Aiquara;6.408
+BA;29;70;Alagoinhas;123.455
+BA;29;80;Alcobaça;17.161
+BA;29;90;Almadina;10.304
+BA;29;100;Amargosa;28.964
+BA;29;110;Amélia Rodrigues;24.237
+BA;29;115;América Dourada;16.935
+BA;29;120;Anagé;44.167
+BA;29;130;Andaraí;15.153
+BA;29;135;Andorinha;18.944
+BA;29;140;Angical;17.710
+BA;29;150;Anguera;7.909
+BA;29;160;Antas;18.871
+BA;29;170;Antônio Cardoso;10.937
+BA;29;180;Antônio Gonçalves;15.682
+BA;29;190;Aporá;16.698
+BA;29;195;Apuarema;9.140
+BA;29;205;Araças;9.903
+BA;29;200;Aracatu;15.942
+BA;29;210;Araci;50.696
+BA;29;220;Aramari;7.400
+BA;29;225;Arataca;13.125
+BA;29;230;Aratuípe;7.861
+BA;29;240;Aurelino Leal;15.194
+BA;29;250;Baianópolis;15.394
+BA;29;260;Baixa Grande;22.291
+BA;29;265;Banzaê;11.844
+BA;29;270;Barra;41.139
+BA;29;280;Barra da Estiva;19.028
+BA;29;290;Barra do Choça;26.412
+BA;29;300;Barra do Mendes;15.348
+BA;29;310;Barra do Rocha;9.751
+BA;29;320;Barreiras;103.581
+BA;29;323;Barro Alto;13.429
+BA;29;340;Belmonte;21.390
+BA;29;350;Belo Campo;14.743
+BA;29;360;Biritinga;16.281
+BA;29;370;Boa Nova;13.039
+BA;29;380;Boa Vista do Tupim;17.250
+BA;29;390;Bom Jesus da Lapa;54.687
+BA;29;395;Bom Jesus da Serra;10.865
+BA;29;400;Boninal;15.193
+BA;29;405;Bonito;12.344
+BA;29;410;Boquira;19.546
+BA;29;420;Botuporã;10.319
+BA;29;430;Brejões;13.833
+BA;29;440;Brejolândia;11.953
+BA;29;450;Brotas de Macaúbas;14.704
+BA;29;460;Brumado;60.785
+BA;29;470;Buerarema;21.472
+BA;29;475;Buritirama;12.927
+BA;29;480;Caatiba;9.407
+BA;29;485;Cabaceiras do Paraguaçu;16.173
+BA;29;490;Cachoeira;28.430
+BA;29;500;Caculé;18.353
+BA;29;510;Caém;18.884
+BA;29;515;Caetanos;11.802
+BA;29;520;Caetité;41.732
+BA;29;530;Cafarnaum;15.147
+BA;29;540;Cairu;16.946
+BA;29;550;Caldeirão Grande;17.612
+BA;29;560;Camacan;36.295
+BA;29;570;Camaçari;127.882
+BA;29;580;Camamu;33.950
+BA;29;590;Campo Alegre de Lourdes;27.774
+BA;29;600;Campo Formoso;66.025
+BA;29;610;Canápolis;9.535
+BA;29;620;Canarana;22.256
+BA;29;630;Canavieiras;35.103
+BA;29;640;Candeal;10.397
+BA;29;650;Candeias;72.230
+BA;29;660;Candiba;13.000
+BA;29;670;Cândido Sales;25.077
+BA;29;680;Cansanção;32.854
+BA;29;682;Canudos;15.326
+BA;29;685;Capela do Alto Alegre;18.913
+BA;29;687;Capim Grosso;20.918
+BA;29;689;Caraíbas;17.260
+BA;29;690;Caravelas;19.747
+BA;29;700;Cardeal da Silva;7.089
+BA;29;710;Carinhanha;28.584
+BA;29;720;Casa Nova;49.795
+BA;29;730;Castro Alves;26.246
+BA;29;740;Catolândia;3.295
+BA;29;750;Catu;44.884
+BA;29;755;Caturama;10.436
+BA;29;760;Central;15.150
+BA;29;770;Chorrochó;9.307
+BA;29;780;Cícero Dantas;28.112
+BA;29;790;Cipó;13.667
+BA;29;800;Coaraci;32.104
+BA;29;810;Cocos;16.082
+BA;29;820;Conceição da Feira;16.555
+BA;29;830;Conceição do Almeida;18.639
+BA;29;840;Conceição do Coité;55.642
+BA;29;850;Conceição do Jacuípe;24.371
+BA;29;860;Conde;16.640
+BA;29;870;Condeúba;18.442
+BA;29;880;Contendas do Sincorá;4.616
+BA;29;890;Coração de Maria;22.603
+BA;29;900;Cordeiros;11.812
+BA;29;910;Coribe;13.679
+BA;29;920;Coronel João Sá;18.903
+BA;29;930;Correntina;29.773
+BA;29;940;Cotegipe;12.866
+BA;29;950;Cravolândia;4.574
+BA;29;960;Crisópolis;17.852
+BA;29;970;Cristópolis;13.420
+BA;29;980;Cruz das Almas;48.753
+BA;29;990;Curaçá;26.467
+BA;29;1000;Dário Meira;13.590
+BA;29;1005;Dias d'Ávila;34.952
+BA;29;1010;Dom Basílio;10.022
+BA;29;1020;Dom Macedo Costa;3.784
+BA;29;1030;Elísio Medrado;7.889
+BA;29;1040;Encruzilhada;23.569
+BA;29;1050;Entre Rios;29.468
+BA;29;50;Érico Cardoso;11.586
+BA;29;1060;Esplanada;24.691
+BA;29;1070;Euclides da Cunha;55.083
+BA;29;1072;Eunápolis;78.877
+BA;29;1075;Fátima;18.815
+BA;29;1077;Feira da Mata;6.739
+BA;29;1080;Feira de Santana;443.497
+BA;29;1085;Filadélfia;18.750
+BA;29;1090;Firmino Alves;5.353
+BA;29;1100;Floresta Azul;13.459
+BA;29;1110;Formosa do Rio Preto;16.355
+BA;29;1120;Gandu;28.131
+BA;29;1125;Gavião;7.884
+BA;29;1130;Gentio do Ouro;11.767
+BA;29;1140;Glória;13.594
+BA;29;1150;Gongogi;9.219
+BA;29;330;Governador Lomanto Júnior;11.263
+BA;29;1160;Governador Mangabeira;18.401
+BA;29;1165;Guajeru;8.271
+BA;29;1170;Guanambi;73.339
+BA;29;1180;Guaratinga;24.941
+BA;29;1185;Heliópolis;10.984
+BA;29;1190;Iaçu;26.194
+BA;29;1200;Ibiassucê;12.266
+BA;29;1210;Ibicaraí;29.959
+BA;29;1220;Ibicoara;9.666
+BA;29;1230;Ibicuí;15.733
+BA;29;1240;Ibipeba;19.252
+BA;29;1250;Ibipitanga;13.654
+BA;29;1260;Ibiquera;5.658
+BA;29;1270;Ibirapitanga;28.475
+BA;29;1280;Ibirapuã;8.034
+BA;29;1290;Ibirataia;23.383
+BA;29;1300;Ibitiara;18.765
+BA;29;1310;Ibititá;17.810
+BA;29;1320;Ibotirama;25.674
+BA;29;1330;Ichu;9.522
+BA;29;1340;Igaporã;14.915
+BA;29;1345;Igrapiúna;14.137
+BA;29;1350;Iguaí;22.276
+BA;29;1360;Ilhéus;253.500
+BA;29;1370;Inhambupe;26.640
+BA;29;1380;Ipecaetá;15.872
+BA;29;1390;Ipiaú;46.760
+BA;29;1400;Ipirá;64.770
+BA;29;1410;Ipupiara;8.536
+BA;29;1420;Irajuba;6.158
+BA;29;1430;Iramaia;18.976
+BA;29;1440;Iraquara;18.095
+BA;29;1450;Irará;24.594
+BA;29;1460;Irecê;56.921
+BA;29;1465;Itabela;20.206
+BA;29;1470;Itaberaba;57.135
+BA;29;1480;Itabuna;198.517
+BA;29;1490;Itacaré;20.335
+BA;29;1500;Itaeté;13.803
+BA;29;1510;Itagi;15.004
+BA;29;1520;Itagibá;20.521
+BA;29;1530;Itagimirim;7.937
+BA;29;1535;Itaguaçu da Bahia;19.133
+BA;29;1540;Itaju do Colônia;9.471
+BA;29;1550;Itajuípe;24.441
+BA;29;1560;Itamaraju;64.626
+BA;29;1570;Itamari;9.096
+BA;29;1580;Itambé;23.165
+BA;29;1590;Itanagra;5.900
+BA;29;1600;Itanhém;22.510
+BA;29;1610;Itaparica;16.766
+BA;29;1620;Itapé;17.421
+BA;29;1630;Itapebi;11.146
+BA;29;1640;Itapetinga;55.266
+BA;29;1650;Itapicuru;26.420
+BA;29;1660;Itapitanga;10.540
+BA;29;1670;Itaquara;6.958
+BA;29;1680;Itarantim;17.306
+BA;29;1685;Itatim;10.666
+BA;29;1690;Itiruçu;13.389
+BA;29;1700;Itiúba;35.555
+BA;29;1710;Itororó;19.878
+BA;29;1720;Ituaçu;17.125
+BA;29;1730;Ituberá;21.177
+BA;29;1733;Iuiú;12.008
+BA;29;1735;Jaborandi;11.764
+BA;29;1740;Jacaraci;13.458
+BA;29;1750;Jacobina;81.348
+BA;29;1760;Jaguaquara;41.857
+BA;29;1770;Jaguarari;34.819
+BA;29;1780;Jaguaripe;14.681
+BA;29;1790;Jandaíra;8.739
+BA;29;1800;Jequié;153.766
+BA;29;1810;Jeremoabo;42.990
+BA;29;1820;Jiquiriçá;12.478
+BA;29;1830;Jitaúna;22.165
+BA;29;1835;João Dourado;20.441
+BA;29;1840;Juazeiro;139.845
+BA;29;1845;Jucuruçu;16.498
+BA;29;1850;Jussara;14.435
+BA;29;1855;Jussari;8.209
+BA;29;1860;Jussiape;10.536
+BA;29;1870;Lafaiete Coutinho;5.279
+BA;29;1875;Lagoa Real;12.225
+BA;29;1880;Laje;18.875
+BA;29;1890;Lajedão;3.700
+BA;29;1900;Lajedinho;6.033
+BA;29;1905;Lajedo do Tabocal;6.881
+BA;29;1910;Lamarão;10.583
+BA;29;1915;Lapão;22.252
+BA;29;1920;Lauro de Freitas;77.451
+BA;29;1930;Lençóis;8.401
+BA;29;1940;Licínio de Almeida;14.524
+BA;29;1950;Livramento de Nossa Senhora;36.513
+BA;29;1960;Macajuba;10.793
+BA;29;1970;Macarani;13.572
+BA;29;1980;Macaúbas;35.715
+BA;29;1990;Macururé;6.561
+BA;29;1992;Madre de Deus;9.458
+BA;29;1995;Maetinga;11.519
+BA;29;2000;Maiquinique;8.068
+BA;29;2010;Mairi;20.130
+BA;29;2020;Malhada;15.680
+BA;29;2030;Malhada de Pedras;7.497
+BA;29;2040;Manoel Vitorino;17.114
+BA;29;2045;Mansidão;10.933
+BA;29;2050;Maracás;28.868
+BA;29;2060;Maragogipe;38.048
+BA;29;2070;Maraú;18.616
+BA;29;2080;Marcionílio Souza;15.213
+BA;29;2090;Mascote;20.791
+BA;29;2100;Mata de São João;29.934
+BA;29;2105;Matina;9.154
+BA;29;2110;Medeiros Neto;22.349
+BA;29;2120;Miguel Calmon;26.106
+BA;29;2130;Milagres;9.357
+BA;29;2140;Mirangaba;15.104
+BA;29;2145;Mirante;7.936
+BA;29;2150;Monte Santo;54.517
+BA;29;2160;Morpará;7.458
+BA;29;2170;Morro do Chapéu;32.830
+BA;29;2180;Mortugaba;13.691
+BA;29;2190;Mucugê;11.447
+BA;29;2200;Mucuri;18.141
+BA;29;2205;Mulungu do Morro;15.302
+BA;29;2210;Mundo Novo;34.498
+BA;29;2220;Muniz Ferreira;6.320
+BA;29;2225;Muquém de São Francisco;9.146
+BA;29;2230;Muritiba;25.355
+BA;29;2240;Mutuípe;21.803
+BA;29;2250;Nazaré;26.823
+BA;29;2260;Nilo Peçanha;13.686
+BA;29;2265;Nordestina;9.897
+BA;29;2270;Nova Canaã;13.900
+BA;29;2273;Nova Fátima;11.570
+BA;29;2275;Nova Ibiá;11.633
+BA;29;2280;Nova Itarana;6.431
+BA;29;2285;Nova Redenção;10.627
+BA;29;2290;Nova Soure;25.500
+BA;29;2300;Nova Viçosa;28.590
+BA;29;2303;Novo Horizonte;10.489
+BA;29;2305;Novo Triunfo;11.753
+BA;29;2310;Olindina;22.836
+BA;29;2320;Oliveira dos Brejinhos;21.746
+BA;29;2330;Ouriçangas;7.254
+BA;29;2335;Ourolândia;12.978
+BA;29;2340;Palmas de Monte Alto;21.788
+BA;29;2350;Palmeiras;7.356
+BA;29;2360;Paramirim;20.524
+BA;29;2370;Paratinga;25.708
+BA;29;2380;Paripiranga;25.515
+BA;29;2390;Pau Brasil;15.681
+BA;29;2400;Paulo Afonso;92.087
+BA;29;2405;Pé de Serra;18.809
+BA;29;2410;Pedrão;6.603
+BA;29;2420;Pedro Alexandre;16.483
+BA;29;2430;Piatã;18.864
+BA;29;2440;Pilão Arcado;33.019
+BA;29;2450;Pindaí;17.636
+BA;29;2460;Pindobaçu;26.887
+BA;29;2465;Pintadas;10.084
+BA;29;2467;Piraí do Norte;15.322
+BA;29;2470;Piripá;10.482
+BA;29;2480;Piritiba;27.031
+BA;29;2490;Planaltino;10.642
+BA;29;2500;Planalto;24.241
+BA;29;2510;Poções;40.222
+BA;29;2520;Pojuca;24.808
+BA;29;2525;Ponto Novo;18.945
+BA;29;2530;Porto Seguro;38.755
+BA;29;2540;Potiraguá;10.068
+BA;29;2550;Prado;24.970
+BA;29;2560;Presidente Dutra;14.261
+BA;29;2570;Presidente Jânio Quadros;14.983
+BA;29;2575;Presidente Tancredo Neves;20.450
+BA;29;2580;Queimadas;24.645
+BA;29;2590;Quijingue;25.470
+BA;29;2593;Quixabeira;15.509
+BA;29;2595;Rafael Jambeiro;22.690
+BA;29;2600;Remanso;36.551
+BA;29;2610;Retirolândia;11.649
+BA;29;2620;Riachão das Neves;20.898
+BA;29;2630;Riachão do Jacuípe;42.052
+BA;29;2640;Riacho de Santana;28.172
+BA;29;2650;Ribeira do Amparo;14.373
+BA;29;2660;Ribeira do Pombal;45.193
+BA;29;2665;Ribeirão do Largo;11.258
+BA;29;2670;Rio de Contas;14.155
+BA;29;2680;Rio do Antônio;13.734
+BA;29;2690;Rio do Pires;12.475
+BA;29;2700;Rio Real;31.064
+BA;29;2710;Rodelas;4.165
+BA;29;2720;Ruy Barbosa;29.461
+BA;29;2730;Salinas da Margarida;9.157
+BA;29;2740;Salvador;2.262.731
+BA;29;2750;Santa Bárbara;17.277
+BA;29;2760;Santa Brígida;14.800
+BA;29;2770;Santa Cruz Cabrália;6.333
+BA;29;2780;Santa Cruz da Vitória;6.448
+BA;29;2790;Santa Inês;10.676
+BA;29;2805;Santa Luzia;16.404
+BA;29;2810;Santa Maria da Vitória;44.150
+BA;29;2840;Santa Rita de Cássia;24.728
+BA;29;2850;Santa Teresinha;8.587
+BA;29;2800;Santaluz;32.568
+BA;29;2820;Santana;25.495
+BA;29;2830;Santanópolis;9.042
+BA;29;2860;Santo Amaro;55.973
+BA;29;2870;Santo Antônio de Jesus;71.929
+BA;29;2880;Santo Estêvão;39.343
+BA;29;2890;São Desidério;20.192
+BA;29;2895;São Domingos;11.383
+BA;29;2910;São Felipe;20.718
+BA;29;2900;São Félix;11.762
+BA;29;2905;São Félix do Coribe;12.640
+BA;29;2920;São Francisco do Conde;20.853
+BA;29;2925;São Gabriel;19.732
+BA;29;2930;São Gonçalo dos Campos;25.101
+BA;29;2935;São José da Vitória;9.712
+BA;29;2937;São José do Jacuípe;15.702
+BA;29;2940;São Miguel das Matas;9.024
+BA;29;2950;São Sebastião do Passé;38.058
+BA;29;2960;Sapeaçu;16.115
+BA;29;2970;Sátiro Dias;14.102
+BA;29;2975;Saubara;8.256
+BA;29;2980;Saúde;12.683
+BA;29;2990;Seabra;42.330
+BA;29;3000;Sebastião Laranjeiras;10.069
+BA;29;3010;Senhor do Bonfim;93.274
+BA;29;3020;Sento Sé;27.829
+BA;29;3015;Serra do Ramalho;35.258
+BA;29;3030;Serra Dourada;18.004
+BA;29;3040;Serra Preta;17.112
+BA;29;3050;Serrinha;80.812
+BA;29;3060;Serrolândia;11.405
+BA;29;3070;Simões Filho;81.092
+BA;29;3075;Sítio do Mato;8.431
+BA;29;3076;Sítio do Quinto;12.782
+BA;29;3077;Sobradinho;20.555
+BA;29;3080;Souto Soares;20.252
+BA;29;3090;Tabocas do Brejo Velho;11.630
+BA;29;3100;Tanhaçu;19.482
+BA;29;3105;Tanque Novo;14.100
+BA;29;3110;Tanquinho;10.588
+BA;29;3120;Taperoá;18.807
+BA;29;3130;Tapiramutá;15.247
+BA;29;3135;Teixeira de Freitas;95.770
+BA;29;3140;Teodoro Sampaio;9.305
+BA;29;3150;Teofilândia;23.799
+BA;29;3160;Teolândia;13.846
+BA;29;3170;Terra Nova;11.816
+BA;29;3180;Tremedal;22.423
+BA;29;3190;Tucano;49.561
+BA;29;3200;Uauá;25.880
+BA;29;3210;Ubaíra;21.441
+BA;29;3220;Ubaitaba;22.410
+BA;29;3230;Ubatã;26.767
+BA;29;3240;Uibaí;14.443
+BA;29;3245;Umburanas;12.851
+BA;29;3250;Una;24.479
+BA;29;3260;Urandi;16.944
+BA;29;3270;Uruçuca;34.396
+BA;29;3280;Utinga;18.809
+BA;29;3290;Valença;71.156
+BA;29;3300;Valente;18.372
+BA;29;3305;Várzea da Roça;13.531
+BA;29;3310;Várzea do Poço;9.336
+BA;29;3315;Várzea Nova;18.241
+BA;29;3317;Varzedo;9.595
+BA;29;3320;Vera Cruz;24.423
+BA;29;3325;Vereda;8.639
+BA;29;3330;Vitória da Conquista;242.647
+BA;29;3340;Wagner;8.678
+BA;29;3345;Wanderley;14.465
+BA;29;3350;Wenceslau Guimarães;17.689
+BA;29;3360;Xique-Xique;42.922
+MG;31;10;Abadia dos Dourados;6.230
+MG;31;20;Abaeté;21.430
+MG;31;30;Abre Campo;19.150
+MG;31;40;Acaiaca;3.707
+MG;31;50;Açucena;24.156
+MG;31;60;Água Boa;15.209
+MG;31;70;Água Comprida;1.719
+MG;31;80;Aguanil;3.231
+MG;31;90;Águas Formosas;22.033
+MG;31;100;Águas Vermelhas;20.634
+MG;31;110;Aimorés;25.703
+MG;31;120;Aiuruoca;6.349
+MG;31;130;Alagoa;2.621
+MG;31;140;Albertina;2.650
+MG;31;150;Além Paraíba;32.041
+MG;31;160;Alfenas;56.681
+MG;31;163;Alfredo Vasconcelos;4.877
+MG;31;170;Almenara;34.898
+MG;31;180;Alpercata;6.991
+MG;31;190;Alpinópolis;20.633
+MG;31;200;Alterosa;12.032
+MG;31;5350;Alto Jequitibá;7.698
+MG;31;210;Alto Rio Doce;13.657
+MG;31;220;Alvarenga;5.971
+MG;31;230;Alvinópolis;15.493
+MG;31;240;Alvorada de Minas;3.873
+MG;31;250;Amparo do Serra;6.301
+MG;31;260;Andradas;30.521
+MG;31;280;Andrelândia;12.053
+MG;31;290;Antônio Carlos;9.920
+MG;31;300;Antônio Dias;9.425
+MG;31;310;Antônio Prado de Minas;2.279
+MG;31;320;Araçaí;2.043
+MG;31;330;Aracitaba;2.282
+MG;31;340;Araçuaí;35.038
+MG;31;350;Araguari;94.555
+MG;31;360;Arantina;2.508
+MG;31;370;Araponga;8.420
+MG;31;375;Araporã;4.415
+MG;31;380;Arapuá;2.960
+MG;31;390;Araújos;5.889
+MG;31;400;Araxá;75.193
+MG;31;410;Arceburgo;7.340
+MG;31;420;Arcos;29.489
+MG;31;430;Areado;11.606
+MG;31;440;Argirita;2.939
+MG;31;450;Arinos;18.374
+MG;31;460;Astolfo Dutra;11.822
+MG;31;470;Ataléia;17.391
+MG;31;480;Augusto de Lima;5.495
+MG;31;490;Baependi;17.241
+MG;31;500;Baldim;8.680
+MG;31;510;Bambuí;20.778
+MG;31;520;Bandeira;5.578
+MG;31;530;Bandeira do Sul;4.370
+MG;31;540;Barão de Cocais;21.824
+MG;31;550;Barão de Monte Alto;5.961
+MG;31;560;Barbacena;103.536
+MG;31;570;Barra Longa;9.000
+MG;31;590;Barroso;18.255
+MG;31;600;Bela Vista de Minas;9.253
+MG;31;610;Belmiro Braga;4.017
+MG;31;620;Belo Horizonte;2.097.311
+MG;31;630;Belo Oriente;17.938
+MG;31;640;Belo Vale;7.001
+MG;31;650;Berilo;17.922
+MG;31;660;Bertópolis;10.690
+MG;31;670;Betim;198.896
+MG;31;680;Bias Fortes;4.656
+MG;31;690;Bicas;11.643
+MG;31;700;Biquinhas;2.905
+MG;31;710;Boa Esperança;35.509
+MG;31;720;Bocaina de Minas;4.744
+MG;31;730;Bocaiúva;48.731
+MG;31;740;Bom Despacho;37.999
+MG;31;750;Bom Jardim de Minas;5.984
+MG;31;760;Bom Jesus da Penha;2.953
+MG;31;770;Bom Jesus do Amparo;5.126
+MG;31;780;Bom Jesus do Galho;17.693
+MG;31;790;Bom Repouso;9.550
+MG;31;800;Bom Sucesso;16.654
+MG;31;810;Bonfim;7.263
+MG;31;820;Bonfinópolis de Minas;13.950
+MG;31;830;Borda da Mata;15.963
+MG;31;840;Botelhos;14.404
+MG;31;850;Botumirim;7.309
+MG;31;870;Brás Pires;5.600
+MG;31;860;Brasília de Minas;46.591
+MG;31;890;Brasópolis;13.224
+MG;31;880;Braúnas;6.252
+MG;31;900;Brumadinho;20.000
+MG;31;910;Bueno Brandão;10.906
+MG;31;920;Buenópolis;9.887
+MG;31;930;Buritis;19.808
+MG;31;940;Buritizeiro;26.326
+MG;31;950;Cabo Verde;12.358
+MG;31;960;Cachoeira da Prata;3.897
+MG;31;970;Cachoeira de Minas;9.658
+MG;31;270;Cachoeira de Pajeú;8.871
+MG;31;980;Cachoeira Dourada;2.272
+MG;31;990;Caetanópolis;7.917
+MG;31;1000;Caeté;34.443
+MG;31;1010;Caiana;4.901
+MG;31;1020;Cajuri;3.538
+MG;31;1030;Caldas;11.933
+MG;31;1040;Camacho;3.939
+MG;31;1050;Camanducaia;18.162
+MG;31;1060;Cambuí;19.589
+MG;31;1070;Cambuquira;11.921
+MG;31;1080;Campanário;3.058
+MG;31;1090;Campanha;12.700
+MG;31;1100;Campestre;17.632
+MG;31;1110;Campina Verde;19.520
+MG;31;1120;Campo Belo;47.891
+MG;31;1130;Campo do Meio;11.677
+MG;31;1140;Campo Florido;4.297
+MG;31;1150;Campos Altos;11.235
+MG;31;1160;Campos Gerais;24.804
+MG;31;1190;Cana Verde;5.800
+MG;31;1170;Canaã;5.471
+MG;31;1180;Canápolis;17.157
+MG;31;1200;Candeias;13.759
+MG;31;1210;Caparaó;8.473
+MG;31;1220;Capela Nova;4.932
+MG;31;1230;Capelinha;32.630
+MG;31;1240;Capetinga;7.559
+MG;31;1250;Capim Branco;6.784
+MG;31;1260;Capinópolis;15.601
+MG;31;1265;Capitão Andrade;4.332
+MG;31;1270;Capitão Enéas;12.587
+MG;31;1280;Capitólio;7.296
+MG;31;1290;Caputira;8.103
+MG;31;1300;Caraí;23.423
+MG;31;1310;Caranaíba;3.291
+MG;31;1320;Carandaí;20.256
+MG;31;1330;Carangola;33.365
+MG;31;1340;Caratinga;89.554
+MG;31;1350;Carbonita;8.150
+MG;31;1360;Careaçu;5.568
+MG;31;1370;Carlos Chagas;22.638
+MG;31;1380;Carmésia;2.132
+MG;31;1390;Carmo da Cachoeira;11.029
+MG;31;1400;Carmo da Mata;10.598
+MG;31;1410;Carmo de Minas;11.697
+MG;31;1420;Carmo do Cajuru;14.933
+MG;31;1430;Carmo do Paranaíba;28.338
+MG;31;1440;Carmo do Rio Claro;18.745
+MG;31;1450;Carmópolis de Minas;14.630
+MG;31;1455;Carneirinho;9.532
+MG;31;1460;Carrancas;4.576
+MG;31;1470;Carvalhópolis;2.660
+MG;31;1480;Carvalhos;4.491
+MG;31;1490;Casa Grande;1.990
+MG;31;1500;Cascalho Rico;2.715
+MG;31;1510;Cássia;15.256
+MG;31;1530;Cataguases;62.530
+MG;31;1540;Catas Altas da Noruega;3.490
+MG;31;1545;Catuji;7.119
+MG;31;1550;Caxambu;20.190
+MG;31;1560;Cedro do Abaeté;1.333
+MG;31;1570;Central de Minas;6.183
+MG;31;1580;Centralina;14.789
+MG;31;1590;Chácara;3.291
+MG;31;1600;Chalé;5.590
+MG;31;1610;Chapada do Norte;15.964
+MG;31;1620;Chiador;2.758
+MG;31;1630;Cipotânea;6.206
+MG;31;1640;Claraval;3.242
+MG;31;1650;Claro dos Poções;8.329
+MG;31;1660;Cláudio;19.143
+MG;31;1670;Coimbra;5.671
+MG;31;1680;Coluna;10.713
+MG;31;1690;Comendador Gomes;2.818
+MG;31;1700;Comercinho;10.608
+MG;31;1710;Conceição da Aparecida;9.487
+MG;31;1520;Conceição da Barra de Minas;4.026
+MG;31;1730;Conceição das Alagoas;14.209
+MG;31;1720;Conceição das Pedras;2.575
+MG;31;1740;Conceição de Ipanema;4.954
+MG;31;1750;Conceição do Mato Dentro;18.199
+MG;31;1760;Conceição do Pará;4.027
+MG;31;1770;Conceição do Rio Verde;10.588
+MG;31;1780;Conceição dos Ouros;7.968
+MG;31;1790;Congonhal;7.586
+MG;31;1800;Congonhas;36.631
+MG;31;1810;Congonhas do Norte;4.581
+MG;31;1820;Conquista;7.009
+MG;31;1830;Conselheiro Lafaiete;95.787
+MG;31;1840;Conselheiro Pena;29.717
+MG;31;1850;Consolação;1.764
+MG;31;1860;Contagem;504.098
+MG;31;1870;Coqueiral;9.545
+MG;31;1880;Coração de Jesus;33.860
+MG;31;1890;Cordisburgo;8.545
+MG;31;1900;Cordislândia;3.130
+MG;31;1910;Corinto;25.346
+MG;31;1920;Coroaci;10.919
+MG;31;1930;Coromandel;26.839
+MG;31;1940;Coronel Fabriciano;90.573
+MG;31;1950;Coronel Murta;9.521
+MG;31;1960;Coronel Pacheco;3.236
+MG;31;1970;Coronel Xavier Chaves;2.841
+MG;31;1980;Córrego Danta;4.154
+MG;31;1990;Córrego do Bom Jesus;4.058
+MG;31;2000;Córrego Novo;7.917
+MG;31;2010;Couto de Magalhães de Minas;4.276
+MG;31;2020;Cristais;9.160
+MG;31;2030;Cristália;5.059
+MG;31;2040;Cristiano Otoni;4.259
+MG;31;2050;Cristina;10.356
+MG;31;2060;Crucilândia;4.630
+MG;31;2070;Cruzeiro da Fortaleza;3.169
+MG;31;2080;Cruzília;12.093
+MG;31;2090;Curvelo;61.130
+MG;31;2100;Datas;5.028
+MG;31;2110;Delfim Moreira;8.139
+MG;31;2120;Delfinópolis;6.772
+MG;31;2130;Descoberto;4.126
+MG;31;2140;Desterro de Entre Rios;6.549
+MG;31;2150;Desterro do Melo;3.352
+MG;31;2160;Diamantina;47.646
+MG;31;2170;Diogo de Vasconcelos;3.957
+MG;31;2180;Dionísio;10.262
+MG;31;2190;Divinésia;2.861
+MG;31;2200;Divino;21.974
+MG;31;2210;Divino das Laranjeiras;5.068
+MG;31;2220;Divinolândia de Minas;6.192
+MG;31;2230;Divinópolis;162.464
+MG;31;2240;Divisa Nova;5.258
+MG;31;2245;Divisópolis;6.080
+MG;31;2250;Dom Cavati;6.132
+MG;31;2260;Dom Joaquim;4.760
+MG;31;2270;Dom Silvério;10.139
+MG;31;2280;Dom Viçoso;2.964
+MG;31;2290;Dona Eusébia;5.137
+MG;31;2300;Dores de Campos;7.512
+MG;31;2310;Dores de Guanhães;5.463
+MG;31;2320;Dores do Indaiá;13.394
+MG;31;2330;Dores do Turvo;5.099
+MG;31;2340;Doresópolis;1.186
+MG;31;2350;Douradoquara;1.505
+MG;31;2352;Durandé;5.912
+MG;31;2360;Elói Mendes;20.067
+MG;31;2370;Engenheiro Caldas;8.912
+MG;31;2380;Engenheiro Navarro;8.091
+MG;31;2385;Entre Folhas;5.027
+MG;31;2390;Entre Rios de Minas;11.820
+MG;31;2400;Ervália;16.110
+MG;31;2410;Esmeraldas;26.134
+MG;31;2420;Espera Feliz;21.019
+MG;31;2430;Espinosa;31.703
+MG;31;2440;Espírito Santo do Dourado;4.178
+MG;31;2450;Estiva;9.337
+MG;31;2460;Estrela Dalva;2.604
+MG;31;2470;Estrela do Indaiá;3.786
+MG;31;2480;Estrela do Sul;7.193
+MG;31;2490;Eugenópolis;10.178
+MG;31;2500;Ewbank da Câmara;3.394
+MG;31;2510;Extrema;15.358
+MG;31;2520;Fama;2.185
+MG;31;2530;Faria Lemos;2.951
+MG;31;2540;Felício dos Santos;6.205
+MG;31;2560;Felisburgo;6.214
+MG;31;2570;Felixlândia;12.354
+MG;31;2580;Fernandes Tourinho;3.116
+MG;31;2590;Ferros;14.058
+MG;31;2595;Fervedouro;9.714
+MG;31;2600;Florestal;5.109
+MG;31;2610;Formiga;66.421
+MG;31;2620;Formoso;7.698
+MG;31;2630;Fortaleza de Minas;3.781
+MG;31;2640;Fortuna de Minas;2.436
+MG;31;2650;Francisco Badaró;17.794
+MG;31;2660;Francisco Dumont;3.705
+MG;31;2670;Francisco Sá;25.242
+MG;31;2680;Frei Gaspar;6.724
+MG;31;2690;Frei Inocêncio;6.952
+MG;31;2700;Fronteira;8.182
+MG;31;2705;Fronteira dos Vales;4.897
+MG;31;2710;Frutal;44.554
+MG;31;2720;Funilândia;2.702
+MG;31;2730;Galiléia;10.435
+MG;31;2740;Gonçalves;3.687
+MG;31;2750;Gonzaga;6.381
+MG;31;2760;Gouveia;12.293
+MG;31;2770;Governador Valadares;241.615
+MG;31;2780;Grão Mogol;19.719
+MG;31;2790;Grupiara;1.203
+MG;31;2800;Guanhães;26.075
+MG;31;2810;Guapé;11.983
+MG;31;2820;Guaraciaba;10.489
+MG;31;2830;Guaranésia;17.437
+MG;31;2840;Guarani;8.135
+MG;31;2850;Guarará;4.065
+MG;31;2860;Guarda-Mor;6.129
+MG;31;2870;Guaxupé;42.604
+MG;31;2880;Guidoval;7.137
+MG;31;2890;Guimarânia;5.803
+MG;31;2900;Guiricema;10.246
+MG;31;2910;Gurinhatã;7.331
+MG;31;2920;Heliodora;5.442
+MG;31;2930;Iapu;13.782
+MG;31;2940;Ibertioga;4.908
+MG;31;2950;Ibiá;18.973
+MG;31;2960;Ibiaí;7.589
+MG;31;2970;Ibiraci;8.617
+MG;31;2980;Ibirité;99.677
+MG;31;2990;Ibitiúra de Minas;2.719
+MG;31;3000;Ibituruna;2.559
+MG;31;3005;Icaraí de Minas;10.070
+MG;31;3010;Igarapé;29.470
+MG;31;3020;Igaratinga;6.401
+MG;31;3030;Iguatama;8.942
+MG;31;3040;Ijaci;4.768
+MG;31;3050;Ilicínea;9.424
+MG;31;3060;Inconfidentes;6.441
+MG;31;3070;Indianópolis;5.198
+MG;31;3080;Ingaí;2.280
+MG;31;3090;Inhapim;34.122
+MG;31;3100;Inhaúma;5.097
+MG;31;3110;Inimutaba;6.246
+MG;31;3115;Ipaba;12.281
+MG;31;3120;Ipanema;18.409
+MG;31;3130;Ipatinga;189.657
+MG;31;3140;Ipiaçu;3.920
+MG;31;3150;Ipuiúna;8.026
+MG;31;3160;Iraí de Minas;4.771
+MG;31;3170;Itabira;92.074
+MG;31;3180;Itabirinha de Mantena;9.847
+MG;31;3190;Itabirito;34.515
+MG;31;3200;Itacambira;6.532
+MG;31;3210;Itacarambi;23.420
+MG;31;3220;Itaguara;11.054
+MG;31;3230;Itaipé;8.738
+MG;31;3240;Itajubá;80.681
+MG;31;3250;Itamarandiba;33.671
+MG;31;3260;Itamarati de Minas;3.552
+MG;31;3270;Itambacuri;20.604
+MG;31;3280;Itambé do Mato Dentro;2.620
+MG;31;3290;Itamogi;9.365
+MG;31;3300;Itamonte;10.759
+MG;31;3310;Itanhandu;11.678
+MG;31;3320;Itanhomi;12.024
+MG;31;3330;Itaobim;21.088
+MG;31;3340;Itapagipe;11.147
+MG;31;3350;Itapecerica;22.579
+MG;31;3360;Itapeva;5.725
+MG;31;3370;Itatiaiuçu;7.877
+MG;31;3375;Itaú de Minas;11.346
+MG;31;3380;Itaúna;71.411
+MG;31;3390;Itaverava;6.411
+MG;31;3400;Itinga;21.982
+MG;31;3410;Itueta;6.191
+MG;31;3420;Ituiutaba;87.608
+MG;31;3430;Itumirim;6.552
+MG;31;3440;Iturama;28.002
+MG;31;3450;Itutinga;4.447
+MG;31;3460;Jaboticatubas;13.173
+MG;31;3470;Jacinto;12.303
+MG;31;3480;Jacuí;6.689
+MG;31;3490;Jacutinga;18.860
+MG;31;3500;Jaguaraçu;2.926
+MG;31;3505;Jaíba;18.949
+MG;31;3507;Jampruca;4.536
+MG;31;3510;Janaúba;57.116
+MG;31;3520;Januária;85.160
+MG;31;3530;Japaraíba;3.424
+MG;31;3540;Jeceaba;7.201
+MG;31;3550;Jequeri;14.589
+MG;31;3560;Jequitaí;9.682
+MG;31;3570;Jequitibá;5.104
+MG;31;3580;Jequitinhonha;22.612
+MG;31;3590;Jesuânia;4.391
+MG;31;3600;Joaíma;18.202
+MG;31;3610;Joanésia;6.661
+MG;31;3620;João Monlevade;63.823
+MG;31;3630;João Pinheiro;51.746
+MG;31;3640;Joaquim Felício;4.223
+MG;31;3650;Jordânia;9.866
+MG;31;3665;Juatuba;10.171
+MG;31;3670;Juiz de Fora;411.290
+MG;31;3680;Juramento;6.131
+MG;31;3690;Juruaia;7.034
+MG;31;3700;Ladainha;16.784
+MG;31;3710;Lagamar;7.801
+MG;31;3720;Lagoa da Prata;33.144
+MG;31;3730;Lagoa dos Patos;4.164
+MG;31;3740;Lagoa Dourada;10.481
+MG;31;3750;Lagoa Formosa;15.383
+MG;31;3753;Lagoa Grande;5.880
+MG;31;3760;Lagoa Santa;32.077
+MG;31;3770;Lajinha;17.850
+MG;31;3780;Lambari;16.648
+MG;31;3790;Lamim;3.610
+MG;31;3800;Laranjal;5.708
+MG;31;3810;Lassance;6.713
+MG;31;3820;Lavras;70.871
+MG;31;3830;Leandro Ferreira;2.959
+MG;31;3840;Leopoldina;48.106
+MG;31;3850;Liberdade;5.801
+MG;31;3860;Lima Duarte;14.803
+MG;31;3862;Limeira do Oeste;6.891
+MG;31;3865;Lontra;6.221
+MG;31;3870;Luminárias;4.983
+MG;31;3880;Luz;17.022
+MG;31;3890;Machacalis;7.113
+MG;31;3900;Machado;31.810
+MG;31;3910;Madre de Deus de Minas;3.776
+MG;31;3920;Malacacheta;34.173
+MG;31;3925;Mamonas;7.238
+MG;31;3930;Manga;30.931
+MG;31;3940;Manhuaçu;73.527
+MG;31;3950;Manhumirim;21.647
+MG;31;3960;Mantena;33.116
+MG;31;3980;Mar de Espanha;10.418
+MG;31;3970;Maravilhas;5.598
+MG;31;3990;Maria da Fé;14.623
+MG;31;4000;Mariana;41.065
+MG;31;4010;Marilac;4.464
+MG;31;4020;Maripá de Minas;2.311
+MG;31;4030;Marliéria;3.366
+MG;31;4040;Marmelópolis;2.975
+MG;31;4050;Martinho Campos;12.721
+MG;31;4055;Mata Verde;6.066
+MG;31;4060;Materlândia;4.437
+MG;31;4070;Mateus Leme;18.904
+MG;31;7150;Mathias Lobato;3.899
+MG;31;4080;Matias Barbosa;11.348
+MG;31;4085;Matias Cardoso;11.890
+MG;31;4090;Matipó;15.398
+MG;31;4100;Mato Verde;21.446
+MG;31;4110;Matozinhos;25.389
+MG;31;4120;Matutina;3.573
+MG;31;4130;Medeiros;2.818
+MG;31;4140;Medina;21.153
+MG;31;4150;Mendes Pimentel;10.634
+MG;31;4160;Mercês;10.024
+MG;31;4170;Mesquita;7.405
+MG;31;4180;Minas Novas;36.172
+MG;31;4190;Minduri;3.684
+MG;31;4200;Mirabela;17.500
+MG;31;4210;Miradouro;10.594
+MG;31;4220;Miraí;14.862
+MG;31;4230;Moeda;3.865
+MG;31;4240;Moema;5.700
+MG;31;4250;Monjolos;2.797
+MG;31;4260;Monsenhor Paulo;7.540
+MG;31;4270;Montalvânia;15.965
+MG;31;4280;Monte Alegre de Minas;19.273
+MG;31;4290;Monte Azul;31.485
+MG;31;4300;Monte Belo;14.271
+MG;31;4310;Monte Carmelo;37.327
+MG;31;4320;Monte Santo de Minas;19.483
+MG;31;4340;Monte Sião;18.592
+MG;31;4330;Montes Claros;273.513
+MG;31;4345;Montezuma;6.722
+MG;31;4350;Morada Nova de Minas;6.895
+MG;31;4360;Morro da Garça;3.255
+MG;31;4370;Morro do Pilar;3.683
+MG;31;4380;Munhoz;6.044
+MG;31;4390;Muriaé;90.975
+MG;31;4400;Mutum;27.308
+MG;31;4410;Muzambinho;18.528
+MG;31;4420;Nacip Raydan;3.806
+MG;31;4430;Nanuque;43.519
+MG;31;4440;Natércia;4.407
+MG;31;4450;Nazareno;7.166
+MG;31;4460;Nepomuceno;24.932
+MG;31;4470;Nova Era;18.935
+MG;31;4480;Nova Lima;56.359
+MG;31;4490;Nova Módica;4.202
+MG;31;4500;Nova Ponte;10.887
+MG;31;4510;Nova Resende;12.599
+MG;31;4520;Nova Serrana;19.266
+MG;31;3660;Nova União;5.203
+MG;31;4530;Novo Cruzeiro;30.577
+MG;31;4540;Olaria;2.307
+MG;31;4550;Olímpio Noronha;1.749
+MG;31;4560;Oliveira;33.377
+MG;31;4570;Oliveira Fortes;2.206
+MG;31;4580;Onça de Pitangui;3.121
+MG;31;4590;Ouro Branco;29.495
+MG;31;4600;Ouro Fino;32.904
+MG;31;4610;Ouro Preto;67.237
+MG;31;4620;Ouro Verde de Minas;7.603
+MG;31;4630;Padre Paraíso;17.949
+MG;31;4640;Paineiras;5.023
+MG;31;4650;Pains;8.021
+MG;31;4660;Paiva;1.346
+MG;31;4670;Palma;6.769
+MG;31;4675;Palmópolis;7.142
+MG;31;4690;Papagaios;10.857
+MG;31;4710;Pará de Minas;65.816
+MG;31;4700;Paracatu;67.517
+MG;31;4720;Paraguaçu;17.091
+MG;31;4730;Paraisópolis;14.775
+MG;31;4740;Paraopeba;18.256
+MG;31;4760;Passa Quatro;13.890
+MG;31;4770;Passa Tempo;8.242
+MG;31;4780;Passa-Vinte;2.295
+MG;31;4750;Passabém;1.600
+MG;31;4790;Passos;91.015
+MG;31;4800;Patos de Minas;108.369
+MG;31;4810;Patrocínio;65.343
+MG;31;4820;Patrocínio do Muriaé;4.496
+MG;31;4830;Paula Cândido;8.387
+MG;31;4840;Paulistas;5.828
+MG;31;4850;Pavão;16.065
+MG;31;4860;Peçanha;20.332
+MG;31;4870;Pedra Azul;22.859
+MG;31;4880;Pedra do Anta;4.204
+MG;31;4890;Pedra do Indaiá;3.790
+MG;31;4900;Pedra Dourada;1.735
+MG;31;4910;Pedralva;11.394
+MG;31;4915;Pedras de Maria da Cruz;8.588
+MG;31;4920;Pedrinópolis;4.680
+MG;31;4930;Pedro Leopoldo;44.736
+MG;31;4940;Pedro Teixeira;1.610
+MG;31;4950;Pequeri;2.745
+MG;31;4960;Pequi;3.292
+MG;31;4970;Perdigão;4.594
+MG;31;4980;Perdizes;11.121
+MG;31;4990;Perdões;16.885
+MG;31;5000;Pescador;4.395
+MG;31;5010;Piau;2.874
+MG;31;5020;Piedade de Ponte Nova;4.159
+MG;31;5030;Piedade do Rio Grande;4.832
+MG;31;5040;Piedade dos Gerais;4.365
+MG;31;5050;Pimenta;7.200
+MG;31;5060;Piracema;5.815
+MG;31;5070;Pirajuba;3.145
+MG;31;5080;Piranga;16.512
+MG;31;5090;Piranguçu;4.556
+MG;31;5100;Piranguinho;6.596
+MG;31;5110;Pirapetinga;9.647
+MG;31;5120;Pirapora;49.853
+MG;31;5130;Piraúba;8.817
+MG;31;5140;Pitangui;21.697
+MG;31;5150;Piumhi;26.822
+MG;31;5160;Planura;7.014
+MG;31;5170;Poço Fundo;14.313
+MG;31;5180;Poços de Caldas;117.585
+MG;31;5190;Pocrane;10.802
+MG;31;5200;Pompéu;21.887
+MG;31;5210;Ponte Nova;58.709
+MG;31;5220;Porteirinha;57.979
+MG;31;5230;Porto Firme;9.543
+MG;31;5240;Poté;14.155
+MG;31;5250;Pouso Alegre;88.019
+MG;31;5260;Pouso Alto;6.091
+MG;31;5270;Prados;7.453
+MG;31;5280;Prata;26.499
+MG;31;5290;Pratápolis;9.499
+MG;31;5300;Pratinha;2.529
+MG;31;5310;Presidente Bernardes;6.161
+MG;31;5320;Presidente Juscelino;4.081
+MG;31;5330;Presidente Kubitschek;3.125
+MG;31;5340;Presidente Olegário;16.620
+MG;31;5360;Prudente de Morais;7.292
+MG;31;5370;Quartel Geral;2.807
+MG;31;5380;Queluzito;1.643
+MG;31;5390;Raposos;15.281
+MG;31;5400;Raul Soares;28.674
+MG;31;5410;Recreio;10.525
+MG;31;5420;Resende Costa;10.055
+MG;31;5430;Resplendor;17.011
+MG;31;5440;Ressaquinha;4.607
+MG;31;5445;Riachinho;7.787
+MG;31;5450;Riacho dos Machados;10.567
+MG;31;5460;Ribeirão das Neves;168.542
+MG;31;5470;Ribeirão Vermelho;3.652
+MG;31;5480;Rio Acima;7.556
+MG;31;5490;Rio Casca;15.291
+MG;31;5510;Rio do Prado;6.192
+MG;31;5500;Rio Doce;2.500
+MG;31;5520;Rio Espera;7.159
+MG;31;5530;Rio Manso;4.508
+MG;31;5540;Rio Novo;11.580
+MG;31;5550;Rio Paranaíba;9.117
+MG;31;5560;Rio Pardo de Minas;43.834
+MG;31;5570;Rio Piracicaba;14.167
+MG;31;5580;Rio Pomba;15.048
+MG;31;5590;Rio Preto;6.977
+MG;31;5600;Rio Vermelho;16.037
+MG;31;5610;Ritápolis;5.721
+MG;31;5620;Rochedo de Minas;1.562
+MG;31;5630;Rodeiro;3.872
+MG;31;5640;Romaria;3.616
+MG;31;5650;Rubelita;9.651
+MG;31;5660;Rubim;10.390
+MG;31;5670;Sabará;96.520
+MG;31;5680;Sabinópolis;16.631
+MG;31;5690;Sacramento;21.137
+MG;31;5700;Salinas;51.355
+MG;31;5710;Salto da Divisa;7.473
+MG;31;5720;Santa Bárbara;27.890
+MG;31;5725;Santa Bárbara do Leste;6.399
+MG;31;5730;Santa Bárbara do Tugúrio;5.260
+MG;31;5740;Santa Cruz do Escalvado;6.166
+MG;31;5750;Santa Efigênia de Minas;5.164
+MG;31;5760;Santa Fé de Minas;4.890
+MG;31;5770;Santa Juliana;8.363
+MG;31;5780;Santa Luzia;162.945
+MG;31;5790;Santa Margarida;13.265
+MG;31;5800;Santa Maria de Itabira;10.808
+MG;31;5810;Santa Maria do Salto;5.500
+MG;31;5820;Santa Maria do Suaçuí;17.796
+MG;31;5920;Santa Rita de Caldas;9.360
+MG;31;5940;Santa Rita de Ibitipoca;3.864
+MG;31;5930;Santa Rita de Jacutinga;4.915
+MG;31;5935;Santa Rita de Minas;6.918
+MG;31;5950;Santa Rita do Itueto;5.849
+MG;31;5960;Santa Rita do Sapucaí;28.305
+MG;31;5970;Santa Rosa da Serra;2.897
+MG;31;5980;Santa Vitória;15.994
+MG;31;5830;Santana da Vargem;7.089
+MG;31;5840;Santana de Cataguases;3.647
+MG;31;5850;Santana de Pirapama;8.885
+MG;31;5860;Santana do Deserto;3.453
+MG;31;5870;Santana do Garambéu;1.774
+MG;31;5880;Santana do Jacaré;3.877
+MG;31;5890;Santana do Manhuaçu;9.824
+MG;31;5895;Santana do Paraíso;14.066
+MG;31;5900;Santana do Riacho;3.440
+MG;31;5910;Santana dos Montes;3.941
+MG;31;5990;Santo Antônio do Amparo;14.247
+MG;31;6000;Santo Antônio do Aventureiro;3.319
+MG;31;6010;Santo Antônio do Grama;4.402
+MG;31;6020;Santo Antônio do Itambé;4.229
+MG;31;6030;Santo Antônio do Jacinto;11.664
+MG;31;6040;Santo Antônio do Monte;19.337
+MG;31;6050;Santo Antônio do Rio Abaixo;1.998
+MG;31;6060;Santo Hipólito;3.744
+MG;31;6070;Santos Dumont;46.577
+MG;31;6080;São Bento Abade;2.724
+MG;31;6090;São Brás do Suaçuí;3.303
+MG;31;6100;São Domingos do Prata;18.929
+MG;31;6110;São Francisco;54.266
+MG;31;6120;São Francisco de Paula;6.370
+MG;31;6130;São Francisco de Sales;5.116
+MG;31;6140;São Francisco do Glória;6.591
+MG;31;6150;São Geraldo;7.947
+MG;31;6160;São Geraldo da Piedade;5.242
+MG;31;6170;São Gonçalo do Abaeté;9.399
+MG;31;6180;São Gonçalo do Pará;8.064
+MG;31;6190;São Gonçalo do Rio Abaixo;7.986
+MG;31;2550;São Gonçalo do Rio Preto;3.028
+MG;31;6200;São Gonçalo do Sapucaí;20.314
+MG;31;6210;São Gotardo;20.403
+MG;31;6220;São João Batista do Glória;5.542
+MG;31;6230;São João da Mata;2.708
+MG;31;6240;São João da Ponte;26.075
+MG;31;6250;São João del Rei;75.354
+MG;31;6255;São João do Manhuaçu;7.418
+MG;31;6257;São João do Manteninha;3.955
+MG;31;6260;São João do Oriente;7.836
+MG;31;6270;São João do Paraíso;31.104
+MG;31;6280;São João Evangelista;15.545
+MG;31;6290;São João Nepomuceno;23.051
+MG;31;6295;São José da Lapa;7.396
+MG;31;6300;São José da Safira;3.519
+MG;31;6310;São José da Varginha;2.867
+MG;31;6320;São José do Alegre;3.429
+MG;31;6330;São José do Divino;4.037
+MG;31;6340;São José do Goiabal;5.921
+MG;31;6350;São José do Jacuri;10.586
+MG;31;6360;São José do Mantimento;2.115
+MG;31;6370;São Lourenço;32.127
+MG;31;6380;São Miguel do Anta;6.539
+MG;31;6390;São Pedro da União;5.128
+MG;31;6410;São Pedro do Suaçuí;9.388
+MG;31;6400;São Pedro dos Ferros;9.908
+MG;31;6420;São Romão;7.837
+MG;31;6430;São Roque de Minas;6.288
+MG;31;6440;São Sebastião da Bela Vista;4.121
+MG;31;6450;São Sebastião do Maranhão;12.961
+MG;31;6460;São Sebastião do Oeste;5.113
+MG;31;6470;São Sebastião do Paraíso;52.759
+MG;31;6480;São Sebastião do Rio Preto;2.012
+MG;31;6490;São Sebastião do Rio Verde;1.862
+MG;31;6520;São Thomé das Letras;5.902
+MG;31;6500;São Tiago;9.988
+MG;31;6510;São Tomás de Aquino;6.664
+MG;31;6530;São Vicente de Minas;5.377
+MG;31;6540;Sapucaí-Mirim;4.415
+MG;31;6550;Sardoá;4.409
+MG;31;6557;Senador Amaral;4.398
+MG;31;6560;Senador Cortes;1.867
+MG;31;6570;Senador Firmino;5.989
+MG;31;6580;Senador José Bento;1.914
+MG;31;6590;Senador Modestino Gonçalves;5.094
+MG;31;6600;Senhora de Oliveira;5.145
+MG;31;6610;Senhora do Porto;3.520
+MG;31;6620;Senhora dos Remédios;10.074
+MG;31;6630;Sericita;6.825
+MG;31;6640;Seritinga;1.741
+MG;31;6650;Serra Azul de Minas;3.915
+MG;31;6660;Serra da Saudade;810
+MG;31;6680;Serra do Salitre;8.538
+MG;31;6670;Serra dos Aimorés;10.970
+MG;31;6690;Serrania;7.459
+MG;31;6700;Serranos;1.936
+MG;31;6710;Serro;20.034
+MG;31;6720;Sete Lagoas;157.999
+MG;31;6730;Silveirânia;2.037
+MG;31;6740;Silvianópolis;5.890
+MG;31;6750;Simão Pereira;2.440
+MG;31;6760;Simonésia;16.887
+MG;31;6770;Sobrália;6.562
+MG;31;6780;Soledade de Minas;4.984
+MG;31;6790;Tabuleiro;4.147
+MG;31;6800;Taiobeiras;28.688
+MG;31;6810;Tapira;3.071
+MG;31;6820;Tapiraí;2.130
+MG;31;6830;Taquaraçu de Minas;3.366
+MG;31;6840;Tarumirim;17.553
+MG;31;6850;Teixeiras;10.384
+MG;31;6860;Teófilo Otoni;144.703
+MG;31;6870;Timóteo;60.387
+MG;31;6880;Tiradentes;10.983
+MG;31;6890;Tiros;8.340
+MG;31;6900;Tocantins;12.772
+MG;31;6910;Toledo;4.829
+MG;31;6920;Tombos;9.875
+MG;31;6930;Três Corações;61.355
+MG;31;6935;Três Marias;23.016
+MG;31;6940;Três Pontas;49.295
+MG;31;6950;Tumiritinga;5.193
+MG;31;6960;Tupaciguara;22.376
+MG;31;6970;Turmalina;20.105
+MG;31;6980;Turvolândia;3.699
+MG;31;6990;Ubá;71.536
+MG;31;7000;Ubaí;14.480
+MG;31;7005;Ubaporanga;10.552
+MG;31;7010;Uberaba;215.892
+MG;31;7020;Uberlândia;407.707
+MG;31;7030;Umburatiba;2.976
+MG;31;7040;Unaí;70.305
+MG;31;7050;Urucânia;10.891
+MG;31;7052;Urucuia;13.621
+MG;31;7060;Vargem Bonita;2.203
+MG;31;7070;Varginha;94.672
+MG;31;7080;Várzea da Palma;31.753
+MG;31;7090;Varzelândia;28.052
+MG;31;7100;Vazante;20.219
+MG;31;7110;Veríssimo;2.907
+MG;31;7120;Vespasiano;51.617
+MG;31;7130;Viçosa;55.561
+MG;31;7140;Vieiras;3.610
+MG;31;7160;Virgem da Lapa;14.079
+MG;31;7170;Virgínia;8.634
+MG;31;7180;Virginópolis;12.971
+MG;31;7190;Virgolândia;6.546
+MG;31;7200;Visconde do Rio Branco;29.471
+MG;31;7210;Volta Grande;4.309
+MG;31;7220;Wenceslau Braz;2.474
+ES;32;10;Afonso Cláudio;40.560
+ES;32;16;Água Doce do Norte;12.425
+ES;32;13;Águia Branca;9.634
+ES;32;20;Alegre;31.800
+ES;32;30;Alfredo Chaves;13.285
+ES;32;35;Alto Rio Novo;7.551
+ES;32;40;Anchieta;16.507
+ES;32;50;Apiacá;7.190
+ES;32;60;Aracruz;58.230
+ES;32;70;Atilio Vivacqua;6.852
+ES;32;80;Baixo Guandu;27.500
+ES;32;90;Barra de São Francisco;35.248
+ES;32;100;Boa Esperança;13.188
+ES;32;110;Bom Jesus do Norte;8.419
+ES;32;120;Cachoeiro de Itapemirim;153.097
+ES;32;130;Cariacica;302.073
+ES;32;140;Castelo;30.990
+ES;32;150;Colatina;101.647
+ES;32;160;Conceição da Barra;24.628
+ES;32;170;Conceição do Castelo;11.064
+ES;32;180;Divino de São Lourenço;4.324
+ES;32;190;Domingos Martins;28.958
+ES;32;200;Dores do Rio Preto;5.883
+ES;32;210;Ecoporanga;23.099
+ES;32;220;Fundão;10.472
+ES;32;230;Guaçuí;22.791
+ES;32;240;Guarapari;68.543
+ES;32;245;Ibatiba;17.196
+ES;32;250;Ibiraçu;9.668
+ES;32;255;Ibitirama;7.869
+ES;32;260;Iconha;10.754
+ES;32;265;Irupi;9.968
+ES;32;270;Itaguaçu;13.434
+ES;32;280;Itapemirim;49.411
+ES;32;290;Itarana;10.918
+ES;32;300;Iúna;24.013
+ES;32;305;Jaguaré;18.845
+ES;32;310;Jerônimo Monteiro;9.147
+ES;32;313;João Neiva;14.152
+ES;32;316;Laranja da Terra;10.914
+ES;32;320;Linhares;124.036
+ES;32;330;Mantenópolis;14.079
+ES;32;334;Marechal Floriano;10.576
+ES;32;335;Marilândia;8.833
+ES;32;340;Mimoso do Sul;24.290
+ES;32;350;Montanha;18.321
+ES;32;360;Mucurici;11.085
+ES;32;370;Muniz Freire;20.537
+ES;32;380;Muqui;13.976
+ES;32;390;Nova Venécia;40.060
+ES;32;400;Pancas;19.858
+ES;32;405;Pedro Canário;23.596
+ES;32;410;Pinheiros;21.710
+ES;32;420;Piúma;10.536
+ES;32;430;Presidente Kennedy;9.254
+ES;32;435;Rio Bananal;14.586
+ES;32;440;Rio Novo do Sul;10.284
+ES;32;450;Santa Leopoldina;11.683
+ES;32;455;Santa Maria de Jetibá;25.718
+ES;32;460;Santa Teresa;30.686
+ES;32;465;São Domingos do Norte;6.578
+ES;32;470;São Gabriel da Palha;29.735
+ES;32;480;São José do Calçado;10.476
+ES;32;490;São Mateus;82.074
+ES;32;500;Serra;267.148
+ES;32;503;Vargem Alta;13.742
+ES;32;506;Venda Nova do Imigrante;13.188
+ES;32;510;Viana;48.716
+ES;32;515;Vila Pavão;8.229
+ES;32;520;Vila Velha;285.628
+ES;32;530;Vitória;275.227
+RJ;33;10;Angra dos Reis;94.225
+RJ;33;15;Aperibé;6.611
+RJ;33;20;Araruama;62.136
+RJ;33;22;Areal;8.644
+RJ;33;25;Arraial do Cabo;21.363
+RJ;33;30;Barra do Piraí;81.791
+RJ;33;40;Barra Mansa;168.797
+RJ;33;45;Belford Roxo;378.877
+RJ;33;50;Bom Jardim;21.167
+RJ;33;60;Bom Jesus do Itabapoana;30.279
+RJ;33;70;Cabo Frio;93.503
+RJ;33;80;Cachoeiras de Macacu;41.524
+RJ;33;90;Cambuci;21.003
+RJ;33;100;Campos dos Goytacazes;392.931
+RJ;33;110;Cantagalo;19.828
+RJ;33;115;Cardoso Moreira;13.369
+RJ;33;120;Carmo;15.297
+RJ;33;130;Casimiro de Abreu;17.122
+RJ;33;95;Comendador Levy Gasparian;7.449
+RJ;33;140;Conceição de Macabu;18.241
+RJ;33;150;Cordeiro;22.347
+RJ;33;160;Duas Barras;10.411
+RJ;33;170;Duque de Caxias;697.478
+RJ;33;180;Engenheiro Paulo de Frontin;11.855
+RJ;33;185;Guapimirim;29.262
+RJ;33;190;Itaboraí;178.279
+RJ;33;200;Itaguaí;120.446
+RJ;33;205;Italva;12.868
+RJ;33;210;Itaocara;23.512
+RJ;33;220;Itaperuna;82.113
+RJ;33;225;Itatiaia;17.284
+RJ;33;227;Japeri;69.099
+RJ;33;230;Laje do Muriaé;7.336
+RJ;33;240;Macaé;112.068
+RJ;33;250;Magé;170.573
+RJ;33;260;Mangaratiba;19.276
+RJ;33;270;Maricá;51.252
+RJ;33;280;Mendes;17.030
+RJ;33;290;Miguel Pereira;20.911
+RJ;33;300;Miracema;26.278
+RJ;33;310;Natividade;15.008
+RJ;33;320;Nilópolis;160.188
+RJ;33;330;Niterói;448.736
+RJ;33;340;Nova Friburgo;181.170
+RJ;33;350;Nova Iguaçu;811.326
+RJ;33;360;Paracambi;38.150
+RJ;33;370;Paraíba do Sul;35.527
+RJ;33;380;Parati;25.060
+RJ;33;385;Paty do Alferes;22.685
+RJ;33;390;Petrópolis;263.838
+RJ;33;400;Piraí;35.380
+RJ;33;410;Porciúncula;14.997
+RJ;33;412;Quatis;9.052
+RJ;33;414;Queimados;103.803
+RJ;33;415;Quissamã;10.781
+RJ;33;420;Resende;96.596
+RJ;33;430;Rio Bonito;46.639
+RJ;33;440;Rio Claro;13.776
+RJ;33;450;Rio das Flores;6.341
+RJ;33;452;Rio das Ostras;19.973
+RJ;33;455;Rio de Janeiro;5.606.497
+RJ;33;460;Santa Maria Madalena;10.664
+RJ;33;470;Santo Antônio de Pádua;34.862
+RJ;33;480;São Fidélis;34.454
+RJ;33;490;São Gonçalo;832.849
+RJ;33;500;São João da Barra;61.510
+RJ;33;510;São João de Meriti;434.458
+RJ;33;515;São José do Vale do Rio Preto;16.428
+RJ;33;520;São Pedro da Aldeia;55.579
+RJ;33;530;São Sebastião do Alto;7.969
+RJ;33;540;Sapucaia;15.554
+RJ;33;550;Saquarema;41.526
+RJ;33;560;Silva Jardim;18.613
+RJ;33;570;Sumidouro;13.366
+RJ;33;580;Teresópolis;127.802
+RJ;33;590;Trajano de Morais;10.726
+RJ;33;600;Três Rios;69.439
+RJ;33;610;Valença;62.795
+RJ;33;615;Varre-Sai;7.306
+RJ;33;620;Vassouras;29.038
+RJ;33;630;Volta Redonda;232.123
+SP;35;10;Adamantina;32.106
+SP;35;20;Adolfo;3.132
+SP;35;30;Aguaí;25.909
+SP;35;40;Águas da Prata;6.893
+SP;35;50;Águas de Lindóia;12.741
+SP;35;55;Águas de Santa Bárbara;4.140
+SP;35;60;Águas de São Pedro;1.876
+SP;35;70;Agudos;33.776
+SP;35;75;Alambari;3.511
+SP;35;80;Alfredo Marcondes;3.343
+SP;35;90;Altair;3.580
+SP;35;100;Altinópolis;14.019
+SP;35;110;Alto Alegre;4.581
+SP;35;115;Alumínio;15.385
+SP;35;120;Álvares Florence;4.893
+SP;35;130;Álvares Machado;20.087
+SP;35;140;Álvaro de Carvalho;2.998
+SP;35;150;Alvinlândia;2.432
+SP;35;160;Americana;164.102
+SP;35;170;Américo Brasiliense;22.254
+SP;35;180;Américo de Campos;5.416
+SP;35;190;Amparo;54.113
+SP;35;200;Analândia;3.215
+SP;35;210;Andradina;54.301
+SP;35;220;Angatuba;18.334
+SP;35;230;Anhembi;3.627
+SP;35;240;Anhumas;3.103
+SP;35;250;Aparecida;34.447
+SP;35;260;Aparecida d'Oeste;4.941
+SP;35;270;Apiaí;28.274
+SP;35;275;Araçariguama;7.376
+SP;35;280;Araçatuba;161.876
+SP;35;290;Araçoiaba da Serra;16.129
+SP;35;300;Aramina;4.326
+SP;35;310;Arandu;6.221
+SP;35;315;Arapeí;2.358
+SP;35;320;Araraquara;175.635
+SP;35;330;Araras;97.810
+SP;35;340;Arealva;6.924
+SP;35;350;Areias;3.143
+SP;35;360;Areiópolis;11.059
+SP;35;370;Ariranha;6.021
+SP;35;380;Artur Nogueira;21.581
+SP;35;390;Arujá;42.075
+SP;35;395;Aspásia;1.875
+SP;35;400;Assis;80.765
+SP;35;410;Atibaia;96.554
+SP;35;420;Auriflama;13.118
+SP;35;430;Avaí;4.445
+SP;35;440;Avanhandava;8.478
+SP;35;450;Avaré;65.089
+SP;35;460;Bady Bassitt;6.328
+SP;35;470;Balbinos;1.252
+SP;35;480;Bálsamo;7.200
+SP;35;490;Bananal;9.324
+SP;35;500;Barão de Antonina;2.898
+SP;35;510;Barbosa;5.212
+SP;35;520;Bariri;26.144
+SP;35;530;Barra Bonita;34.491
+SP;35;535;Barra do Chapéu;5.238
+SP;35;540;Barra do Turvo;7.885
+SP;35;550;Barretos;101.642
+SP;35;560;Barrinha;20.908
+SP;35;570;Barueri;148.676
+SP;35;580;Bastos;20.354
+SP;35;590;Batatais;46.985
+SP;35;600;Bauru;285.109
+SP;35;610;Bebedouro;75.783
+SP;35;620;Bento de Abreu;2.458
+SP;35;630;Bernardino de Campos;10.351
+SP;35;635;Bertioga;11.577
+SP;35;640;Bilac;5.624
+SP;35;650;Birigui;84.016
+SP;35;660;Biritiba-Mirim;19.777
+SP;35;670;Boa Esperança do Sul;13.160
+SP;35;680;Bocaina;7.472
+SP;35;690;Bofete;6.025
+SP;35;700;Boituva;25.662
+SP;35;710;Bom Jesus dos Perdões;10.907
+SP;35;715;Bom Sucesso de Itararé;2.411
+SP;35;720;Borá;719
+SP;35;730;Boracéia;3.311
+SP;35;740;Borborema;12.444
+SP;35;745;Borebi;1.495
+SP;35;750;Botucatu;101.503
+SP;35;760;Bragança Paulista;107.243
+SP;35;770;Braúna;4.081
+SP;35;780;Brodowski;14.681
+SP;35;790;Brotas;15.335
+SP;35;800;Buri;15.253
+SP;35;810;Buritama;13.119
+SP;35;820;Buritizal;3.634
+SP;35;830;Cabrália Paulista;3.960
+SP;35;840;Cabreúva;20.865
+SP;35;850;Caçapava;70.370
+SP;35;860;Cachoeira Paulista;23.854
+SP;35;870;Caconde;17.761
+SP;35;880;Cafelândia;14.599
+SP;35;890;Caiabu;3.952
+SP;35;900;Caieiras;43.693
+SP;35;910;Caiuá;3.426
+SP;35;920;Cajamar;37.729
+SP;35;925;Cajati;26.444
+SP;35;930;Cajobi;9.710
+SP;35;940;Cajuru;21.557
+SP;35;945;Campina do Monte Alegre;4.161
+SP;35;950;Campinas;906.593
+SP;35;960;Campo Limpo Paulista;50.759
+SP;35;970;Campos do Jordão;41.530
+SP;35;980;Campos Novos Paulista;4.117
+SP;35;990;Cananéia;10.348
+SP;35;1000;Cândido Mota;27.111
+SP;35;1010;Cândido Rodrigues;2.387
+SP;35;1015;Canitar;2.506
+SP;35;1020;Capão Bonito;48.118
+SP;35;1030;Capela do Alto;11.922
+SP;35;1040;Capivari;38.270
+SP;35;1050;Caraguatatuba;59.136
+SP;35;1060;Carapicuíba;315.199
+SP;35;1070;Cardoso;12.333
+SP;35;1080;Casa Branca;26.221
+SP;35;1090;Cássia dos Coqueiros;2.788
+SP;35;1100;Castilho;15.554
+SP;35;1110;Catanduva;96.705
+SP;35;1120;Catiguá;6.449
+SP;35;1130;Cedral;5.526
+SP;35;1140;Cerqueira César;13.684
+SP;35;1150;Cerquilho;22.233
+SP;35;1160;Cesário Lange;12.369
+SP;35;1170;Charqueada;11.415
+SP;35;5720;Chavantes;12.045
+SP;35;1190;Clementina;5.007
+SP;35;1200;Colina;17.643
+SP;35;1210;Colômbia;5.846
+SP;35;1220;Conchal;21.373
+SP;35;1230;Conchas;12.219
+SP;35;1240;Cordeirópolis;14.792
+SP;35;1250;Coroados;6.190
+SP;35;1260;Coronel Macedo;5.571
+SP;35;1270;Corumbataí;3.236
+SP;35;1280;Cosmópolis;40.268
+SP;35;1290;Cosmorama;7.586
+SP;35;1300;Cotia;124.948
+SP;35;1310;Cravinhos;24.022
+SP;35;1320;Cristais Paulista;5.819
+SP;35;1330;Cruzália;2.750
+SP;35;1340;Cruzeiro;73.124
+SP;35;1350;Cubatão;94.425
+SP;35;1360;Cunha;24.111
+SP;35;1370;Descalvado;27.431
+SP;35;1380;Diadema;329.986
+SP;35;1385;Dirce Reis;1.821
+SP;35;1390;Divinolândia;12.137
+SP;35;1400;Dobrada;7.659
+SP;35;1410;Dois Córregos;20.058
+SP;35;1420;Dolcinópolis;2.004
+SP;35;1430;Dourado;8.234
+SP;35;1440;Dracena;41.126
+SP;35;1450;Duartina;11.384
+SP;35;1460;Dumont;5.512
+SP;35;1470;Echaporã;6.508
+SP;35;1480;Eldorado;13.483
+SP;35;1490;Elias Fausto;12.900
+SP;35;1492;Elisiário;2.703
+SP;35;1495;Embaúba;2.660
+SP;35;1500;Embu;175.391
+SP;35;1510;Embu-Guaçu;40.570
+SP;35;1512;Emilianópolis;2.984
+SP;35;1515;Engenheiro Coelho;7.270
+SP;35;1518;Espírito Santo do Pinhal;38.520
+SP;35;1519;Espírito Santo do Turvo;3.084
+SP;35;5730;Estiva Gerbi;7.353
+SP;35;1520;Estrela d'Oeste;8.229
+SP;35;1530;Estrela do Norte;2.658
+SP;35;1535;Euclides da Cunha Paulista;10.697
+SP;35;1540;Fartura;14.729
+SP;35;1560;Fernando Prestes;5.331
+SP;35;1550;Fernandópolis;59.809
+SP;35;1570;Ferraz de Vasconcelos;107.547
+SP;35;1580;Flora Rica;2.278
+SP;35;1590;Floreal;3.395
+SP;35;1600;Flórida Paulista;11.971
+SP;35;1610;Florínia;3.088
+SP;35;1620;Franca;260.206
+SP;35;1630;Francisco Morato;93.813
+SP;35;1640;Franco da Rocha;95.658
+SP;35;1650;Gabriel Monteiro;2.366
+SP;35;1660;Gália;10.170
+SP;35;1670;Garça;42.990
+SP;35;1680;Gastão Vidigal;3.850
+SP;35;1690;General Salgado;11.625
+SP;35;1700;Getulina;9.806
+SP;35;1710;Glicério;4.052
+SP;35;1720;Guaiçara;6.769
+SP;35;1730;Guaimbê;4.978
+SP;35;1740;Guaíra;33.099
+SP;35;1750;Guapiaçu;11.799
+SP;35;1760;Guapiara;18.786
+SP;35;1770;Guará;17.422
+SP;35;1780;Guaraçaí;8.036
+SP;35;1790;Guaraci;8.308
+SP;35;1800;Guarani d'Oeste;6.568
+SP;35;1810;Guarantã;5.366
+SP;35;1820;Guararapes;28.431
+SP;35;1830;Guararema;19.124
+SP;35;1840;Guaratinguetá;97.334
+SP;35;1850;Guareí;9.007
+SP;35;1860;Guariba;32.333
+SP;35;1870;Guarujá;229.250
+SP;35;1880;Guarulhos;870.105
+SP;35;1885;Guatapará;6.310
+SP;35;1890;Guzolândia;5.204
+SP;35;1900;Herculândia;6.817
+SP;35;1905;Holambra;6.062
+SP;35;1907;Hortolândia;101.112
+SP;35;1910;Iacanga;7.795
+SP;35;1920;Iacri;6.819
+SP;35;1925;Iaras;2.292
+SP;35;1930;Ibaté;20.879
+SP;35;1940;Ibirá;8.975
+SP;35;1950;Ibirarema;5.689
+SP;35;1960;Ibitinga;40.738
+SP;35;1970;Ibiúna;55.008
+SP;35;1980;Icém;6.284
+SP;35;1990;Iepê;10.314
+SP;35;2000;Igaraçu do Tietê;23.144
+SP;35;2010;Igarapava;22.941
+SP;35;2020;Igaratá;6.964
+SP;35;2030;Iguape;27.265
+SP;35;2042;Ilha Comprida;2.935
+SP;35;2044;Ilha Solteira;22.496
+SP;35;2040;Ilhabela;15.014
+SP;35;2050;Indaiatuba;115.360
+SP;35;2060;Indiana;4.739
+SP;35;2070;Indiaporã;4.562
+SP;35;2080;Inúbia Paulista;3.211
+SP;35;2090;Ipaussu;11.721
+SP;35;2100;Iperó;11.705
+SP;35;2110;Ipeúna;2.982
+SP;35;2120;Iporanga;4.416
+SP;35;2130;Ipuã;10.668
+SP;35;2140;Iracemápolis;13.033
+SP;35;2150;Irapuã;5.902
+SP;35;2160;Irapuru;8.000
+SP;35;2170;Itaberá;18.394
+SP;35;2180;Itaí;18.976
+SP;35;2190;Itajobi;13.544
+SP;35;2200;Itaju;2.258
+SP;35;2210;Itanhaém;51.527
+SP;35;2215;Itaóca;3.970
+SP;35;2220;Itapecerica da Serra;95.776
+SP;35;2230;Itapetininga;108.309
+SP;35;2240;Itapeva;78.363
+SP;35;2250;Itapevi;125.554
+SP;35;2260;Itapira;60.280
+SP;35;2265;Itapirapuã Paulista;3.160
+SP;35;2270;Itápolis;35.211
+SP;35;2280;Itaporanga;13.790
+SP;35;2290;Itapuí;9.625
+SP;35;2300;Itapura;3.996
+SP;35;2310;Itaquaquecetuba;194.577
+SP;35;2320;Itararé;43.350
+SP;35;2330;Itariri;12.360
+SP;35;2340;Itatiba;68.941
+SP;35;2350;Itatinga;15.270
+SP;35;2360;Itirapina;11.017
+SP;35;2370;Itirapuã;5.067
+SP;35;2380;Itobi;7.213
+SP;35;2390;Itu;117.986
+SP;35;2400;Itupeva;20.119
+SP;35;2410;Ituverava;35.157
+SP;35;2420;Jaborandi;6.527
+SP;35;2430;Jaboticabal;62.993
+SP;35;2440;Jacareí;179.385
+SP;35;2450;Jaci;3.098
+SP;35;2460;Jacupiranga;16.138
+SP;35;2470;Jaguariúna;25.260
+SP;35;2480;Jales;45.606
+SP;35;2490;Jambeiro;3.368
+SP;35;2500;Jandira;70.117
+SP;35;2510;Jardinópolis;25.685
+SP;35;2520;Jarinu;12.064
+SP;35;2530;Jaú;100.259
+SP;35;2540;Jeriquara;3.459
+SP;35;2550;Joanópolis;8.432
+SP;35;2560;João Ramalho;3.133
+SP;35;2570;José Bonifácio;24.499
+SP;35;2580;Júlio Mesquita;3.678
+SP;35;2590;Jundiaí;299.088
+SP;35;2600;Junqueirópolis;16.944
+SP;35;2610;Juquiá;17.423
+SP;35;2620;Juquitiba;22.146
+SP;35;2630;Lagoinha;4.752
+SP;35;2640;Laranjal Paulista;20.384
+SP;35;2650;Lavínia;5.268
+SP;35;2660;Lavrinhas;4.976
+SP;35;2670;Leme;76.288
+SP;35;2680;Lençóis Paulista;47.770
+SP;35;2690;Limeira;226.211
+SP;35;2700;Lindóia;4.384
+SP;35;2710;Lins;60.721
+SP;35;2720;Lorena;77.921
+SP;35;2725;Lourdes;1.595
+SP;35;2730;Louveira;18.031
+SP;35;2740;Lucélia;19.819
+SP;35;2750;Lucianópolis;2.253
+SP;35;2760;Luís Antônio;6.464
+SP;35;2770;Luiziânia;4.262
+SP;35;2780;Lupércio;4.185
+SP;35;2790;Lutécia;2.527
+SP;35;2800;Macatuba;14.340
+SP;35;2810;Macaubal;7.602
+SP;35;2820;Macedônia;3.786
+SP;35;2830;Magda;3.772
+SP;35;2840;Mairinque;32.933
+SP;35;2850;Mairiporã;44.664
+SP;35;2860;Manduri;8.055
+SP;35;2870;Marabá Paulista;3.344
+SP;35;2880;Maracaí;13.274
+SP;35;2885;Marapoama;1.885
+SP;35;2890;Mariápolis;4.165
+SP;35;2900;Marília;173.841
+SP;35;2910;Marinópolis;2.096
+SP;35;2920;Martinópolis;19.755
+SP;35;2930;Matão;71.142
+SP;35;2940;Mauá;323.769
+SP;35;2950;Mendonça;3.351
+SP;35;2960;Meridiano;3.799
+SP;35;2965;Mesópolis;1.947
+SP;35;2970;Miguelópolis;18.534
+SP;35;2980;Mineiros do Tietê;10.479
+SP;35;3000;Mira Estrela;2.735
+SP;35;2990;Miracatu;19.494
+SP;35;3010;Mirandópolis;25.315
+SP;35;3020;Mirante do Paranapanema;14.524
+SP;35;3030;Mirassol;43.936
+SP;35;3040;Mirassolândia;3.096
+SP;35;3050;Mococa;62.184
+SP;35;3070;Mogi Guaçu;111.030
+SP;35;3060;Moji das Cruzes;297.424
+SP;35;3080;Moji-Mirim;68.980
+SP;35;3090;Mombuca;2.486
+SP;35;3100;Monções;2.017
+SP;35;3110;Mongaguá;21.100
+SP;35;3120;Monte Alegre do Sul;5.603
+SP;35;3130;Monte Alto;42.336
+SP;35;3140;Monte Aprazível;17.988
+SP;35;3150;Monte Azul Paulista;19.627
+SP;35;3160;Monte Castelo;4.515
+SP;35;3180;Monte Mor;28.584
+SP;35;3170;Monteiro Lobato;3.598
+SP;35;3190;Morro Agudo;22.629
+SP;35;3200;Morungaba;8.730
+SP;35;3205;Motuca;3.545
+SP;35;3210;Murutinga do Sul;3.620
+SP;35;3220;Narandiba;3.003
+SP;35;3230;Natividade da Serra;6.257
+SP;35;3240;Nazaré Paulista;12.943
+SP;35;3250;Neves Paulista;8.563
+SP;35;3260;Nhandeara;10.391
+SP;35;3270;Nipoã;2.867
+SP;35;3280;Nova Aliança;4.014
+SP;35;3282;Nova Campina;5.559
+SP;35;3284;Nova Canaã Paulista;2.656
+SP;35;3290;Nova Europa;5.722
+SP;35;3300;Nova Granada;15.860
+SP;35;3310;Nova Guataporanga;2.041
+SP;35;3320;Nova Independência;2.045
+SP;35;3330;Nova Luzitânia;2.925
+SP;35;3340;Nova Odessa;38.094
+SP;35;3325;Novais;3.175
+SP;35;3350;Novo Horizonte;31.545
+SP;35;3360;Nuporanga;5.963
+SP;35;3370;Ocauçu;4.126
+SP;35;3380;Óleo;2.681
+SP;35;3390;Olímpia;47.985
+SP;35;3400;Onda Verde;3.127
+SP;35;3410;Oriente;7.008
+SP;35;3420;Orindiúva;3.367
+SP;35;3430;Orlândia;33.363
+SP;35;3440;Osasco;598.422
+SP;35;3450;Oscar Bressane;2.423
+SP;35;3460;Osvaldo Cruz;29.962
+SP;35;3470;Ourinhos;82.002
+SP;35;3480;Ouro Verde;7.542
+SP;35;3490;Pacaembu;11.832
+SP;35;3500;Palestina;8.730
+SP;35;3510;Palmares Paulista;8.103
+SP;35;3520;Palmeira d'Oeste;10.478
+SP;35;3530;Palmital;19.199
+SP;35;3540;Panorama;13.688
+SP;35;3550;Paraguaçu Paulista;37.845
+SP;35;3560;Paraibuna;15.303
+SP;35;3570;Paraíso;5.039
+SP;35;3580;Paranapanema;13.150
+SP;35;3590;Paranapuã;3.650
+SP;35;3600;Parapuã;10.926
+SP;35;3610;Pardinho;3.666
+SP;35;3620;Pariquera-Açu;13.528
+SP;35;3625;Parisi;1.614
+SP;35;3630;Patrocínio Paulista;10.007
+SP;35;3640;Paulicéia;4.595
+SP;35;3650;Paulínia;41.050
+SP;35;3660;Paulo de Faria;8.846
+SP;35;3670;Pederneiras;34.111
+SP;35;3680;Pedra Bela;5.297
+SP;35;3690;Pedranópolis;2.972
+SP;35;3700;Pedregulho;14.108
+SP;35;3710;Pedreira;29.798
+SP;35;3715;Pedrinhas Paulista;2.659
+SP;35;3720;Pedro de Toledo;8.333
+SP;35;3730;Penápolis;51.437
+SP;35;3740;Pereira Barreto;26.506
+SP;35;3750;Pereiras;4.734
+SP;35;3760;Peruíbe;36.652
+SP;35;3770;Piacatu;4.344
+SP;35;3780;Piedade;46.426
+SP;35;3790;Pilar do Sul;21.612
+SP;35;3800;Pindamonhangaba;112.539
+SP;35;3810;Pindorama;13.175
+SP;35;3820;Pinhalzinho;8.967
+SP;35;3830;Piquerobi;3.128
+SP;35;3850;Piquete;15.157
+SP;35;3860;Piracaia;21.070
+SP;35;3870;Piracicaba;300.714
+SP;35;3880;Piraju;27.778
+SP;35;3890;Pirajuí;18.017
+SP;35;3900;Pirangi;10.492
+SP;35;3910;Pirapora do Bom Jesus;8.806
+SP;35;3920;Pirapozinho;21.572
+SP;35;3930;Pirassununga;60.450
+SP;35;3940;Piratininga;9.355
+SP;35;3950;Pitangueiras;32.980
+SP;35;3960;Planalto;3.388
+SP;35;3970;Platina;3.012
+SP;35;3980;Poá;85.332
+SP;35;3990;Poloni;4.332
+SP;35;4000;Pompéia;17.712
+SP;35;4010;Pongaí;3.595
+SP;35;4020;Pontal;25.291
+SP;35;4025;Pontalinda;3.350
+SP;35;4030;Pontes Gestal;3.040
+SP;35;4040;Populina;4.472
+SP;35;4050;Porangaba;5.774
+SP;35;4060;Porto Feliz;41.307
+SP;35;4070;Porto Ferreira;43.048
+SP;35;4075;Potim;10.280
+SP;35;4080;Potirendaba;11.511
+SP;35;4090;Pradópolis;10.495
+SP;35;4100;Praia Grande;142.020
+SP;35;4110;Presidente Alves;4.311
+SP;35;4120;Presidente Bernardes;13.778
+SP;35;4130;Presidente Epitácio;37.126
+SP;35;4140;Presidente Prudente;174.715
+SP;35;4150;Presidente Venceslau;38.478
+SP;35;4160;Promissão;31.293
+SP;35;4170;Quatá;12.094
+SP;35;4180;Queiroz;1.853
+SP;35;4190;Queluz;7.942
+SP;35;4200;Quintana;5.344
+SP;35;4210;Rafard;9.506
+SP;35;4220;Rancharia;27.884
+SP;35;4230;Redenção da Serra;4.024
+SP;35;4240;Regente Feijó;16.594
+SP;35;4250;Reginópolis;4.895
+SP;35;4260;Registro;52.148
+SP;35;4270;Restinga;4.692
+SP;35;4280;Ribeira;3.948
+SP;35;4290;Ribeirão Bonito;10.984
+SP;35;4300;Ribeirão Branco;21.379
+SP;35;4310;Ribeirão Corrente;3.438
+SP;35;4320;Ribeirão do Sul;4.256
+SP;35;4325;Ribeirão Grande;6.393
+SP;35;4330;Ribeirão Pires;95.155
+SP;35;4340;Ribeirão Preto;468.467
+SP;35;4360;Rifaina;2.773
+SP;35;4370;Rincão;11.463
+SP;35;4380;Rinópolis;10.687
+SP;35;4390;Rio Claro;147.278
+SP;35;4400;Rio das Pedras;21.186
+SP;35;4410;Rio Grande da Serra;33.440
+SP;35;4420;Riolândia;7.994
+SP;35;4350;Riversul;9.106
+SP;35;4425;Rosana;23.185
+SP;35;4430;Roseira;6.611
+SP;35;4440;Rubiácea;2.809
+SP;35;4450;Rubinéia;2.140
+SP;35;4460;Sabino;4.375
+SP;35;4470;Sagres;2.539
+SP;35;4480;Sales;3.597
+SP;35;4490;Sales Oliveira;8.116
+SP;35;4500;Salesópolis;11.673
+SP;35;4510;Salmourão;4.270
+SP;35;4515;Saltinho;5.476
+SP;35;4520;Salto;80.894
+SP;35;4530;Salto de Pirapora;28.343
+SP;35;4540;Salto Grande;7.607
+SP;35;4550;Sandovalina;2.300
+SP;35;4560;Santa Adélia;13.432
+SP;35;4570;Santa Albertina;5.687
+SP;35;4580;Santa Bárbara d'Oeste;167.392
+SP;35;4600;Santa Branca;10.959
+SP;35;4610;Santa Clara d'Oeste;2.390
+SP;35;4620;Santa Cruz da Conceição;3.011
+SP;35;4630;Santa Cruz das Palmeiras;24.197
+SP;35;4640;Santa Cruz do Rio Pardo;37.887
+SP;35;4650;Santa Ernestina;6.213
+SP;35;4660;Santa Fé do Sul;23.749
+SP;35;4670;Santa Gertrudes;11.149
+SP;35;4680;Santa Isabel;40.454
+SP;35;4690;Santa Lúcia;6.682
+SP;35;4700;Santa Maria da Serra;4.757
+SP;35;4710;Santa Mercedes;2.854
+SP;35;4740;Santa Rita d'Oeste;3.337
+SP;35;4750;Santa Rita do Passa Quatro;24.791
+SP;35;4760;Santa Rosa de Viterbo;20.438
+SP;35;4720;Santana da Ponte Pensa;2.263
+SP;35;4730;Santana de Parnaíba;42.231
+SP;35;4770;Santo Anastácio;22.171
+SP;35;4780;Santo André;637.594
+SP;35;4790;Santo Antônio da Alegria;4.994
+SP;35;4800;Santo Antônio de Posse;15.171
+SP;35;4805;Santo Antônio do Aracanguá;7.432
+SP;35;4810;Santo Antônio do Jardim;5.858
+SP;35;4820;Santo Antônio do Pinhal;5.380
+SP;35;4830;Santo Expedito;2.127
+SP;35;4840;Santópolis do Aguapeí;3.942
+SP;35;4850;Santos;421.292
+SP;35;4860;São Bento do Sapucaí;8.424
+SP;35;4870;São Bernardo do Campo;612.435
+SP;35;4880;São Caetano do Sul;145.147
+SP;35;4890;São Carlos;170.688
+SP;35;4900;São Francisco;2.433
+SP;35;4910;São João da Boa Vista;73.662
+SP;35;4920;São João das Duas Pontes;2.671
+SP;35;4925;São João de Iracema;1.643
+SP;35;4930;São João do Pau d'Alho;2.693
+SP;35;4940;São Joaquim da Barra;38.312
+SP;35;4950;São José da Bela Vista;7.333
+SP;35;4960;São José do Barreiro;3.764
+SP;35;4970;São José do Rio Pardo;47.489
+SP;35;4980;São José do Rio Preto;314.434
+SP;35;4990;São José dos Campos;492.285
+SP;35;4995;São Lourenço da Serra;8.394
+SP;35;5000;São Luís do Paraitinga;9.968
+SP;35;5010;São Manuel;37.751
+SP;35;5020;São Miguel Arcanjo;28.386
+SP;35;5030;São Paulo;10.017.821
+SP;35;5040;São Pedro;22.375
+SP;35;5050;São Pedro do Turvo;6.504
+SP;35;5060;São Roque;60.695
+SP;35;5070;São Sebastião;37.901
+SP;35;5080;São Sebastião da Grama;12.136
+SP;35;5090;São Simão;12.318
+SP;35;5100;São Vicente;292.991
+SP;35;5110;Sarapuí;6.887
+SP;35;5120;Sarutaiá;3.035
+SP;35;5130;Sebastianópolis do Sul;2.580
+SP;35;5140;Serra Azul;6.563
+SP;35;5160;Serra Negra;23.110
+SP;35;5150;Serrana;25.750
+SP;35;5170;Sertãozinho;88.099
+SP;35;5180;Sete Barras;12.873
+SP;35;5190;Severínia;10.931
+SP;35;5200;Silveiras;5.225
+SP;35;5210;Socorro;32.771
+SP;35;5220;Sorocaba;414.197
+SP;35;5230;Sud Mennucci;7.975
+SP;35;5240;Sumaré;166.061
+SP;35;5255;Suzanápolis;2.732
+SP;35;5250;Suzano;177.464
+SP;35;5260;Tabapuã;10.237
+SP;35;5270;Tabatinga;11.946
+SP;35;5280;Taboão da Serra;180.207
+SP;35;5290;Taciba;4.870
+SP;35;5300;Taguaí;6.621
+SP;35;5310;Taiaçu;5.551
+SP;35;5320;Taiúva;5.549
+SP;35;5330;Tambaú;21.143
+SP;35;5340;Tanabi;22.108
+SP;35;5350;Tapiraí;5.907
+SP;35;5360;Tapiratiba;12.563
+SP;35;5370;Taquaritinga;49.985
+SP;35;5380;Taquarituba;19.049
+SP;35;5385;Taquarivaí;3.279
+SP;35;5390;Tarabai;5.018
+SP;35;5395;Tarumã;10.200
+SP;35;5400;Tatuí;85.907
+SP;35;5410;Taubaté;219.117
+SP;35;5420;Tejupá;4.529
+SP;35;5430;Teodoro Sampaio;21.181
+SP;35;5440;Terra Roxa;6.835
+SP;35;5450;Tietê;28.218
+SP;35;5460;Timburi;2.728
+SP;35;5465;Torre de Pedra;1.273
+SP;35;5470;Torrinha;7.729
+SP;35;5480;Tremembé;30.835
+SP;35;5490;Três Fronteiras;4.958
+SP;35;5495;Tuiuti;4.396
+SP;35;5500;Tupã;63.515
+SP;35;5510;Tupi Paulista;13.439
+SP;35;5520;Turiúba;1.996
+SP;35;5530;Turmalina;2.632
+SP;35;5535;Ubarana;2.945
+SP;35;5540;Ubatuba;53.008
+SP;35;5550;Ubirajara;4.011
+SP;35;5560;Uchoa;8.586
+SP;35;5570;União Paulista;1.353
+SP;35;5580;Urânia;9.694
+SP;35;5590;Uru;1.291
+SP;35;5600;Urupês;10.536
+SP;35;5610;Valentim Gentil;6.083
+SP;35;5620;Valinhos;75.920
+SP;35;5630;Valparaíso;17.622
+SP;35;5635;Vargem;5.377
+SP;35;5640;Vargem Grande do Sul;34.615
+SP;35;5645;Vargem Grande Paulista;17.600
+SP;35;5650;Várzea Paulista;77.078
+SP;35;5660;Vera Cruz;10.566
+SP;35;5670;Vinhedo;37.590
+SP;35;5680;Viradouro;13.939
+SP;35;5690;Vista Alegre do Alto;3.847
+SP;35;5700;Votorantim;90.282
+SP;35;5710;Votuporanga;68.871
+SP;35;5715;Zacarias;1.900
+PR;41;10;Abatiá;10.364
+PR;41;20;Adrianópolis;7.718
+PR;41;30;Agudos do Sul;6.446
+PR;41;40;Almirante Tamandaré;71.038
+PR;41;45;Altamira do Paraná;6.424
+PR;41;60;Alto Paraná;11.458
+PR;41;70;Alto Piquiri;11.131
+PR;41;50;Altônia;21.267
+PR;41;80;Alvorada do Sul;8.366
+PR;41;90;Amaporã;4.189
+PR;41;100;Ampére;12.567
+PR;41;105;Anahy;3.368
+PR;41;110;Andirá;21.028
+PR;41;115;Ângulo;2.278
+PR;41;120;Antonina;17.325
+PR;41;130;Antônio Olinto;8.297
+PR;41;140;Apucarana;102.074
+PR;41;150;Arapongas;69.317
+PR;41;160;Arapoti;22.474
+PR;41;170;Araruna;11.781
+PR;41;180;Araucária;66.263
+PR;41;190;Assaí;19.505
+PR;41;200;Assis Chateaubriand;38.133
+PR;41;210;Astorga;22.768
+PR;41;220;Atalaia;3.920
+PR;41;230;Balsa Nova;8.063
+PR;41;240;Bandeirantes;34.783
+PR;41;250;Barbosa Ferraz;16.245
+PR;41;270;Barra do Jacaré;2.739
+PR;41;260;Barracão;13.578
+PR;41;280;Bela Vista do Paraíso;15.323
+PR;41;290;Bituruna;13.603
+PR;41;300;Boa Esperança;6.606
+PR;41;302;Boa Esperança do Iguaçu;3.796
+PR;41;305;Boa Vista da Aparecida;10.215
+PR;41;310;Bocaiúva do Sul;7.398
+PR;41;320;Bom Sucesso;6.147
+PR;41;322;Bom Sucesso do Sul;4.098
+PR;41;330;Borrazópolis;9.917
+PR;41;335;Braganey;7.665
+PR;41;337;Brasilândia do Sul;4.090
+PR;41;340;Cafeara;2.085
+PR;41;345;Cafelândia;8.683
+PR;41;347;Cafezal do Sul;5.021
+PR;41;350;Califórnia;6.962
+PR;41;360;Cambará;21.070
+PR;41;370;Cambé;79.287
+PR;41;380;Cambira;6.034
+PR;41;390;Campina da Lagoa;19.679
+PR;41;400;Campina Grande do Sul;20.474
+PR;41;405;Campo Bonito;4.803
+PR;41;410;Campo do Tenente;5.560
+PR;41;420;Campo Largo;77.871
+PR;41;430;Campo Mourão;83.682
+PR;41;440;Cândido de Abreu;23.200
+PR;41;442;Candói;19.977
+PR;41;445;Cantagalo;27.377
+PR;41;450;Capanema;17.110
+PR;41;460;Capitão Leônidas Marques;11.368
+PR;41;470;Carlópolis;11.753
+PR;41;480;Cascavel;209.843
+PR;41;490;Castro;68.782
+PR;41;500;Catanduvas;8.483
+PR;41;510;Centenário do Sul;13.571
+PR;41;520;Cerro Azul;16.294
+PR;41;530;Céu Azul;10.056
+PR;41;540;Chopinzinho;19.245
+PR;41;550;Cianorte;50.533
+PR;41;560;Cidade Gaúcha;8.576
+PR;41;570;Clevelândia;18.327
+PR;41;580;Colombo;135.458
+PR;41;590;Colorado;20.081
+PR;41;600;Congonhinhas;7.656
+PR;41;610;Conselheiro Mairinck;3.451
+PR;41;620;Contenda;12.063
+PR;41;630;Corbélia;15.629
+PR;41;640;Cornélio Procópio;50.084
+PR;41;650;Coronel Vivida;24.818
+PR;41;655;Corumbataí do Sul;5.737
+PR;41;680;Cruz Machado;17.537
+PR;41;657;Cruzeiro do Iguaçu;5.176
+PR;41;660;Cruzeiro do Oeste;22.705
+PR;41;670;Cruzeiro do Sul;4.753
+PR;41;690;Curitiba;1.408.534
+PR;41;700;Curiúva;10.633
+PR;41;715;Diamante D'Oeste;7.993
+PR;41;710;Diamante do Norte;7.223
+PR;41;712;Diamante do Sul;4.332
+PR;41;720;Dois Vizinhos;30.779
+PR;41;725;Douradina;5.682
+PR;41;730;Doutor Camargo;5.641
+PR;41;2863;Doutor Ulysses;5.070
+PR;41;740;Enéas Marques;7.088
+PR;41;750;Engenheiro Beltrão;14.475
+PR;41;753;Entre Rios do Oeste;2.807
+PR;41;755;Farol;4.706
+PR;41;760;Faxinal;17.234
+PR;41;765;Fazenda Rio Grande;26.840
+PR;41;770;Fênix;5.202
+PR;41;775;Figueira;9.703
+PR;41;785;Flor da Serra do Sul;5.213
+PR;41;780;Floraí;5.222
+PR;41;790;Floresta;4.596
+PR;41;800;Florestópolis;11.838
+PR;41;810;Flórida;2.128
+PR;41;820;Formosa do Oeste;10.342
+PR;41;830;Foz do Iguaçu;211.182
+PR;41;832;Francisco Alves;7.951
+PR;41;840;Francisco Beltrão;65.790
+PR;41;850;General Carneiro;12.110
+PR;41;855;Godoy Moreira;4.603
+PR;41;860;Goioerê;39.324
+PR;41;870;Grandes Rios;10.739
+PR;41;880;Guaíra;30.414
+PR;41;890;Guairaçá;4.830
+PR;41;900;Guapirama;4.038
+PR;41;910;Guaporema;2.174
+PR;41;920;Guaraci;5.482
+PR;41;930;Guaraniaçu;20.630
+PR;41;940;Guarapuava;150.577
+PR;41;950;Guaraqueçaba;7.858
+PR;41;960;Guaratuba;19.050
+PR;41;965;Honório Serpa;8.283
+PR;41;970;Ibaiti;24.976
+PR;41;975;Ibema;6.478
+PR;41;980;Ibiporã;37.761
+PR;41;990;Icaraíma;10.575
+PR;41;1000;Iguaraçu;3.125
+PR;41;1005;Iguatu;2.895
+PR;41;1010;Imbituva;26.317
+PR;41;1020;Inácio Martins;14.581
+PR;41;1030;Inajá;2.610
+PR;41;1040;Indianópolis;3.774
+PR;41;1050;Ipiranga;13.326
+PR;41;1060;Iporã;17.494
+PR;41;1065;Iracema do Oeste;3.083
+PR;41;1070;Irati;52.576
+PR;41;1080;Iretama;13.971
+PR;41;1090;Itaguajé;4.993
+PR;41;1095;Itaipulândia;3.615
+PR;41;1100;Itambaracá;10.426
+PR;41;1110;Itambé;6.094
+PR;41;1120;Itapejara d'Oeste;8.592
+PR;41;1125;Itaperuçu;11.548
+PR;41;1130;Itaúna do Sul;4.832
+PR;41;1140;Ivaí;11.595
+PR;41;1150;Ivaiporã;39.407
+PR;41;1155;Ivaté;7.039
+PR;41;1160;Ivatuba;2.478
+PR;41;1170;Jaboti;4.155
+PR;41;1180;Jacarezinho;41.421
+PR;41;1190;Jaguapitã;10.081
+PR;41;1200;Jaguariaíva;26.652
+PR;41;1210;Jandaia do Sul;18.851
+PR;41;1220;Janiópolis;9.168
+PR;41;1230;Japira;4.589
+PR;41;1240;Japurá;7.010
+PR;41;1250;Jardim Alegre;11.783
+PR;41;1260;Jardim Olinda;1.426
+PR;41;1270;Jataizinho;10.557
+PR;41;1275;Jesuítas;11.344
+PR;41;1280;Joaquim Távora;9.727
+PR;41;1290;Jundiaí do Sul;3.671
+PR;41;1295;Juranda;8.664
+PR;41;1300;Jussara;6.138
+PR;41;1310;Kaloré;5.710
+PR;41;1320;Lapa;40.831
+PR;41;1325;Laranjal;6.783
+PR;41;1330;Laranjeiras do Sul;31.077
+PR;41;1340;Leópolis;4.520
+PR;41;1342;Lidianópolis;5.900
+PR;41;1345;Lindoeste;5.940
+PR;41;1350;Loanda;16.888
+PR;41;1360;Lobato;3.991
+PR;41;1370;Londrina;418.590
+PR;41;1373;Luiziana;8.148
+PR;41;1375;Lunardelli;6.504
+PR;41;1380;Lupionópolis;4.233
+PR;41;1390;Mallet;12.498
+PR;41;1400;Mamborê;16.271
+PR;41;1410;Mandaguaçu;14.916
+PR;41;1420;Mandaguari;30.157
+PR;41;1430;Mandirituba;14.323
+PR;41;1440;Mangueirinha;19.209
+PR;41;1450;Manoel Ribas;10.562
+PR;41;1460;Marechal Cândido Rondon;33.688
+PR;41;1470;Maria Helena;7.290
+PR;41;1480;Marialva;24.293
+PR;41;1490;Marilândia do Sul;9.114
+PR;41;1500;Marilena;6.624
+PR;41;1510;Mariluz;10.499
+PR;41;1520;Maringá;263.517
+PR;41;1530;Mariópolis;6.375
+PR;41;1535;Maripá;6.512
+PR;41;1540;Marmeleiro;15.723
+PR;41;1550;Marumbi;4.353
+PR;41;1560;Matelândia;12.026
+PR;41;1570;Matinhos;12.151
+PR;41;1573;Mato Rico;6.231
+PR;41;1575;Mauá da Serra;4.466
+PR;41;1580;Medianeira;39.198
+PR;41;1585;Mercedes;4.036
+PR;41;1590;Mirador;2.479
+PR;41;1600;Miraselva;5.056
+PR;41;1605;Missal;9.852
+PR;41;1610;Moreira Sales;16.172
+PR;41;1620;Morretes;12.959
+PR;41;1630;Munhoz de Melo;3.154
+PR;41;1640;Nossa Senhora das Graças;3.304
+PR;41;1650;Nova Aliança do Ivaí;1.279
+PR;41;1660;Nova América da Colina;3.897
+PR;41;1670;Nova Aurora;14.736
+PR;41;1680;Nova Cantu;11.091
+PR;41;1690;Nova Esperança;24.523
+PR;41;1695;Nova Esperança do Sudoeste;5.132
+PR;41;1700;Nova Fátima;8.488
+PR;41;1705;Nova Laranjeiras;12.262
+PR;41;1710;Nova Londrina;13.046
+PR;41;1720;Nova Olímpia;5.124
+PR;41;1725;Nova Prata do Iguaçu;10.033
+PR;41;1721;Nova Santa Bárbara;3.538
+PR;41;1722;Nova Santa Rosa;7.129
+PR;41;1727;Nova Tebas;16.727
+PR;41;1729;Novo Itacolomi;3.268
+PR;41;1730;Ortigueira;23.788
+PR;41;1740;Ourizona;3.260
+PR;41;1745;Ouro Verde do Oeste;5.503
+PR;41;1750;Paiçandu;23.834
+PR;41;1760;Palmas;37.862
+PR;41;1770;Palmeira;31.188
+PR;41;1780;Palmital;17.869
+PR;41;1790;Palotina;24.616
+PR;41;1800;Paraíso do Norte;9.522
+PR;41;1810;Paranacity;8.633
+PR;41;1820;Paranaguá;115.959
+PR;41;1830;Paranapoema;2.605
+PR;41;1840;Paranavaí;72.032
+PR;41;1845;Pato Bragado;3.394
+PR;41;1850;Pato Branco;55.683
+PR;41;1860;Paula Freitas;4.736
+PR;41;1870;Paulo Frontin;6.958
+PR;41;1880;Peabiru;13.468
+PR;41;1890;Pérola;13.292
+PR;41;1900;Pérola d'Oeste;10.826
+PR;41;1910;Piên;8.310
+PR;41;1915;Pinhais;83.770
+PR;41;1925;Pinhal de São Bento;2.732
+PR;41;1920;Pinhalão;4.980
+PR;41;1930;Pinhão;35.493
+PR;41;1940;Piraí do Sul;20.549
+PR;41;1950;Piraquara;34.794
+PR;41;1960;Pitanga;45.475
+PR;41;1965;Pitangueiras;2.328
+PR;41;1970;Planaltina do Paraná;3.604
+PR;41;1980;Planalto;13.333
+PR;41;1990;Ponta Grossa;249.242
+PR;41;2000;Porecatu;15.109
+PR;41;2010;Porto Amazonas;3.797
+PR;41;2020;Porto Rico;2.792
+PR;41;2030;Porto Vitória;3.829
+PR;41;2035;Pranchita;7.432
+PR;41;2040;Presidente Castelo Branco;3.158
+PR;41;2050;Primeiro de Maio;11.327
+PR;41;2060;Prudentópolis;50.481
+PR;41;2070;Quatiguá;5.853
+PR;41;2080;Quatro Barras;10.737
+PR;41;2085;Quatro Pontes;3.510
+PR;41;2090;Quedas do Iguaçu;31.943
+PR;41;2100;Querência do Norte;11.141
+PR;41;2110;Quinta do Sol;4.868
+PR;41;2120;Quitandinha;15.261
+PR;41;2125;Ramilândia;3.283
+PR;41;2130;Rancho Alegre;4.281
+PR;41;2135;Rancho Alegre D'Oeste;3.986
+PR;41;2140;Realeza;15.147
+PR;41;2150;Rebouças;13.705
+PR;41;2160;Renascença;7.433
+PR;41;2170;Reserva;25.430
+PR;41;2180;Ribeirão Claro;10.815
+PR;41;2190;Ribeirão do Pinhal;13.656
+PR;41;2200;Rio Azul;13.131
+PR;41;2210;Rio Bom;3.985
+PR;41;2215;Rio Bonito do Iguaçu;5.150
+PR;41;2220;Rio Branco do Sul;29.572
+PR;41;2230;Rio Negro;28.256
+PR;41;2240;Rolândia;42.052
+PR;41;2250;Roncador;17.013
+PR;41;2260;Rondon;7.469
+PR;41;2265;Rosário do Ivaí;8.558
+PR;41;2270;Sabáudia;5.373
+PR;41;2280;Salgado Filho;10.725
+PR;41;2290;Salto do Itararé;6.038
+PR;41;2300;Salto do Lontra;13.168
+PR;41;2310;Santa Amélia;4.698
+PR;41;2320;Santa Cecília do Pavão;4.671
+PR;41;2330;Santa Cruz de Monte Castelo;10.335
+PR;41;2340;Santa Fé;8.272
+PR;41;2350;Santa Helena;16.662
+PR;41;2360;Santa Inês;1.777
+PR;41;2370;Santa Isabel do Ivaí;8.552
+PR;41;2380;Santa Izabel do Oeste;11.052
+PR;41;2382;Santa Lúcia;4.395
+PR;41;2385;Santa Maria do Oeste;13.698
+PR;41;2390;Santa Mariana;14.514
+PR;41;2395;Santa Mônica;2.807
+PR;41;2402;Santa Tereza do Oeste;5.808
+PR;41;2405;Santa Terezinha de Itaipu;14.976
+PR;41;2400;Santana do Itararé;5.242
+PR;41;2410;Santo Antônio da Platina;39.248
+PR;41;2420;Santo Antônio do Caiuá;2.705
+PR;41;2430;Santo Antônio do Paraíso;2.163
+PR;41;2440;Santo Antônio do Sudoeste;16.739
+PR;41;2450;Santo Inácio;5.447
+PR;41;2460;São Carlos do Ivaí;5.047
+PR;41;2470;São Jerônimo da Serra;12.626
+PR;41;2480;São João;12.069
+PR;41;2490;São João do Caiuá;5.704
+PR;41;2500;São João do Ivaí;15.848
+PR;41;2510;São João do Triunfo;13.040
+PR;41;2520;São Jorge d'Oeste;8.915
+PR;41;2530;São Jorge do Ivaí;5.292
+PR;41;2535;São Jorge do Patrocínio;8.679
+PR;41;2540;São José da Boa Vista;8.081
+PR;41;2545;São José das Palmeiras;4.865
+PR;41;2550;São José dos Pinhais;145.770
+PR;41;2555;São Manoel do Paraná;2.050
+PR;41;2560;São Mateus do Sul;35.582
+PR;41;2570;São Miguel do Iguaçu;17.766
+PR;41;2575;São Pedro do Iguaçu;9.266
+PR;41;2580;São Pedro do Ivaí;8.865
+PR;41;2590;São Pedro do Paraná;2.823
+PR;41;2600;São Sebastião da Amoreira;8.522
+PR;41;2610;São Tomé;4.447
+PR;41;2620;Sapopema;6.740
+PR;41;2625;Sarandi;51.519
+PR;41;2627;Saudade do Iguaçu;4.350
+PR;41;2630;Sengés;15.872
+PR;41;2640;Sertaneja;6.607
+PR;41;2650;Sertanópolis;13.592
+PR;41;2660;Siqueira Campos;13.530
+PR;41;2665;Sulina;4.540
+PR;41;2670;Tamboara;4.347
+PR;41;2680;Tapejara;11.896
+PR;41;2690;Tapira;7.366
+PR;41;2700;Teixeira Soares;14.230
+PR;41;2710;Telêmaco Borba;69.754
+PR;41;2720;Terra Boa;13.552
+PR;41;2730;Terra Rica;13.229
+PR;41;2740;Terra Roxa;17.142
+PR;41;2750;Tibagi;17.628
+PR;41;2760;Tijucas do Sul;10.970
+PR;41;2770;Toledo;92.610
+PR;41;2780;Tomazina;10.523
+PR;41;2785;Três Barras do Paraná;13.236
+PR;41;2788;Tunas do Paraná;2.725
+PR;41;2790;Tuneiras do Oeste;10.886
+PR;41;2795;Tupãssi;8.387
+PR;41;2796;Turvo;14.357
+PR;41;2800;Ubiratã;26.484
+PR;41;2810;Umuarama;88.803
+PR;41;2820;União da Vitória;47.253
+PR;41;2830;Uniflor;2.527
+PR;41;2840;Uraí;13.121
+PR;41;2853;Ventania;6.809
+PR;41;2855;Vera Cruz do Oeste;10.800
+PR;41;2860;Verê;9.700
+PR;41;2862;Vila Alta;4.312
+PR;41;2865;Virmond;3.430
+PR;41;2870;Vitorino;6.399
+PR;41;2850;Wenceslau Braz;19.154
+PR;41;2880;Xambrê;7.576
+SC;42;5;Abdon Batista;3.144
+SC;42;10;Abelardo Luz;13.633
+SC;42;20;Agrolândia;7.503
+SC;42;30;Agronômica;3.654
+SC;42;40;Água Doce;6.943
+SC;42;50;Águas de Chapecó;6.271
+SC;42;55;Águas Frias;3.163
+SC;42;60;Águas Mornas;4.607
+SC;42;70;Alfredo Wagner;9.910
+SC;42;80;Anchieta;9.343
+SC;42;90;Angelina;6.101
+SC;42;100;Anita Garibaldi;10.308
+SC;42;110;Anitápolis;3.453
+SC;42;120;Antônio Carlos;5.684
+SC;42;125;Apiúna;7.525
+SC;42;127;Arabutã;3.926
+SC;42;130;Araquari;13.807
+SC;42;140;Araranguá;53.162
+SC;42;150;Armazém;6.158
+SC;42;160;Arroio Trinta;3.466
+SC;42;165;Arvoredo;2.791
+SC;42;170;Ascurra;6.438
+SC;42;180;Atalanta;3.749
+SC;42;190;Aurora;6.338
+SC;42;205;Balneário Barra do Sul;3.842
+SC;42;200;Balneário Camboriú;44.260
+SC;42;210;Barra Velha;10.995
+SC;42;215;Belmonte;3.306
+SC;42;220;Benedito Novo;8.471
+SC;42;230;Biguaçu;37.403
+SC;42;240;Blumenau;229.678
+SC;42;250;Bom Jardim da Serra;4.023
+SC;42;260;Bom Retiro;7.059
+SC;42;245;Bombinhas;5.212
+SC;42;270;Botuverá;4.455
+SC;42;280;Braço do Norte;18.212
+SC;42;285;Braço do Trombudo;2.630
+SC;42;290;Brusque;63.655
+SC;42;300;Caçador;55.739
+SC;42;310;Caibi;7.504
+SC;42;315;Calmon;2.757
+SC;42;320;Camboriú;28.336
+SC;42;330;Campo Alegre;10.518
+SC;42;340;Campo Belo do Sul;7.756
+SC;42;350;Campo Erê;26.689
+SC;42;360;Campos Novos;35.050
+SC;42;370;Canelinha;8.531
+SC;42;380;Canoinhas;57.627
+SC;42;390;Capinzal;15.079
+SC;42;395;Capivari de Baixo;17.442
+SC;42;400;Catanduvas;6.826
+SC;42;410;Caxambu do Sul;5.807
+SC;42;415;Celso Ramos;3.349
+SC;42;417;Cerro Negro;4.992
+SC;42;420;Chapecó;122.852
+SC;42;425;Cocal do Sul;13.069
+SC;42;430;Concórdia;63.027
+SC;42;435;Cordilheira Alta;3.190
+SC;42;440;Coronel Freitas;10.529
+SC;42;445;Coronel Martins;3.599
+SC;42;455;Correia Pinto;18.820
+SC;42;450;Corupá;10.847
+SC;42;460;Criciúma;160.806
+SC;42;470;Cunha Porã;11.251
+SC;42;480;Curitibanos;37.370
+SC;42;490;Descanso;10.297
+SC;42;500;Dionísio Cerqueira;13.274
+SC;42;510;Dona Emma;3.662
+SC;42;515;Doutor Pedrinho;3.035
+SC;42;520;Erval Velho;4.482
+SC;42;530;Faxinal dos Guedes;9.681
+SC;42;540;Florianópolis;277.156
+SC;42;543;Formosa do Sul;2.933
+SC;42;545;Forquilhinha;15.481
+SC;42;550;Fraiburgo;29.262
+SC;42;560;Galvão;6.880
+SC;42;570;Garopaba;10.355
+SC;42;580;Garuva;9.528
+SC;42;590;Gaspar;39.106
+SC;42;600;Governador Celso Ramos;10.460
+SC;42;610;Grão Pará;5.219
+SC;42;620;Gravatal;8.357
+SC;42;630;Guabiruba;10.907
+SC;42;640;Guaraciaba;12.580
+SC;42;650;Guaramirim;19.424
+SC;42;660;Guarujá do Sul;4.627
+SC;42;665;Guatambú;5.130
+SC;42;670;Herval d'Oeste;18.557
+SC;42;680;Ibicaré;3.813
+SC;42;690;Ibirama;13.777
+SC;42;700;Içara;41.830
+SC;42;710;Ilhota;9.871
+SC;42;720;Imaruí;14.929
+SC;42;730;Imbituba;33.976
+SC;42;740;Imbuia;5.764
+SC;42;750;Indaial;33.115
+SC;42;760;Ipira;4.616
+SC;42;765;Iporã do Oeste;7.797
+SC;42;768;Ipuaçu;6.237
+SC;42;770;Ipumirim;7.327
+SC;42;775;Iraceminha;5.548
+SC;42;780;Irani;8.101
+SC;42;785;Irati;2.597
+SC;42;790;Irineópolis;10.192
+SC;42;800;Itá;8.512
+SC;42;810;Itaiópolis;17.884
+SC;42;820;Itajaí;130.323
+SC;42;830;Itapema;13.407
+SC;42;840;Itapiranga;15.342
+SC;42;845;Itapoá;4.402
+SC;42;850;Ituporanga;23.226
+SC;42;860;Jaborá;4.270
+SC;42;870;Jacinto Machado;11.139
+SC;42;880;Jaguaruna;13.917
+SC;42;890;Jaraguá do Sul;84.515
+SC;42;895;Jardinópolis;2.181
+SC;42;900;Joaçaba;29.283
+SC;42;910;Joinville;389.538
+SC;42;915;José Boiteux;4.560
+SC;42;920;Lacerdópolis;2.015
+SC;42;930;Lages;157.964
+SC;42;940;Laguna;46.685
+SC;42;945;Lajeado Grande;1.596
+SC;42;950;Laurentino;4.381
+SC;42;960;Lauro Muller;14.099
+SC;42;970;Lebon Régis;11.896
+SC;42;980;Leoberto Leal;4.322
+SC;42;985;Lindóia do Sul;5.345
+SC;42;990;Lontras;7.656
+SC;42;1000;Luiz Alves;6.430
+SC;42;1005;Macieira;2.111
+SC;42;1010;Mafra;48.954
+SC;42;1020;Major Gercino;3.667
+SC;42;1030;Major Vieira;7.654
+SC;42;1040;Maracajá;4.824
+SC;42;1050;Maravilha;22.358
+SC;42;1055;Marema;5.780
+SC;42;1060;Massaranduba;10.805
+SC;42;1070;Matos Costa;2.434
+SC;42;1080;Meleiro;7.131
+SC;42;1085;Mirim Doce;2.956
+SC;42;1090;Modelo;5.733
+SC;42;1100;Mondaí;9.803
+SC;42;1105;Monte Carlo;6.101
+SC;42;1110;Monte Castelo;8.985
+SC;42;1120;Morro da Fumaça;13.624
+SC;42;1125;Morro Grande;2.806
+SC;42;1130;Navegantes;25.982
+SC;42;1140;Nova Erechim;3.017
+SC;42;1145;Nova Itaberaba;4.604
+SC;42;1150;Nova Trento;9.215
+SC;42;1160;Nova Veneza;10.334
+SC;42;1165;Novo Horizonte;3.553
+SC;42;1170;Orleans;20.856
+SC;42;1175;Otacílio Costa;14.747
+SC;42;1180;Ouro;7.290
+SC;42;1185;Ouro Verde;3.382
+SC;42;1190;Palhoça;75.139
+SC;42;1200;Palma Sola;9.254
+SC;42;1210;Palmitos;17.749
+SC;42;1220;Papanduva;16.947
+SC;42;1223;Paraíso;6.242
+SC;42;1225;Passo de Torres;2.859
+SC;42;1227;Passos Maia;3.220
+SC;42;1230;Paulo Lopes;5.600
+SC;42;1240;Pedras Grandes;4.904
+SC;42;1250;Penha;14.433
+SC;42;1260;Peritiba;3.314
+SC;42;1270;Petrolândia;7.139
+SC;42;1280;Piçarras;8.620
+SC;42;1290;Pinhalzinho;10.798
+SC;42;1300;Pinheiro Preto;2.467
+SC;42;1310;Piratuba;4.971
+SC;42;1315;Planalto Alegre;2.497
+SC;42;1320;Pomerode;20.611
+SC;42;1330;Ponte Alta;4.604
+SC;42;1335;Ponte Alta do Norte;2.723
+SC;42;1340;Ponte Serrada;9.020
+SC;42;1350;Porto Belo;7.659
+SC;42;1360;Porto União;30.358
+SC;42;1370;Pouso Redondo;11.599
+SC;42;1380;Praia Grande;7.567
+SC;42;1390;Presidente Castelo Branco;1.819
+SC;42;1400;Presidente Getúlio;11.873
+SC;42;1410;Presidente Nereu;2.688
+SC;42;1420;Quilombo;13.519
+SC;42;1430;Rancho Queimado;2.285
+SC;42;1440;Rio das Antas;5.812
+SC;42;1450;Rio do Campo;7.196
+SC;42;1460;Rio do Oeste;6.780
+SC;42;1480;Rio do Sul;50.158
+SC;42;1470;Rio dos Cedros;8.731
+SC;42;1490;Rio Fortuna;4.227
+SC;42;1500;Rio Negrinho;31.250
+SC;42;1505;Rio Rufino;1.915
+SC;42;1507;Riqueza;6.271
+SC;42;1510;Rodeio;9.791
+SC;42;1520;Romelândia;9.404
+SC;42;1530;Salete;7.744
+SC;42;1540;Salto Veloso;3.555
+SC;42;1545;Sangão;6.317
+SC;42;1550;Santa Cecília;12.759
+SC;42;1555;Santa Helena;2.871
+SC;42;1560;Santa Rosa de Lima;1.970
+SC;42;1565;Santa Rosa do Sul;7.851
+SC;42;1567;Santa Terezinha;8.773
+SC;42;1570;Santo Amaro da Imperatriz;13.982
+SC;42;1580;São Bento do Sul;55.263
+SC;42;1590;São Bonifácio;3.268
+SC;42;1600;São Carlos;12.373
+SC;42;1605;São Cristovão do Sul;3.858
+SC;42;1610;São Domingos;10.659
+SC;42;1620;São Francisco do Sul;25.963
+SC;42;1630;São João Batista;13.328
+SC;42;1635;São João do Itaperiú;2.819
+SC;42;1625;São João do Oeste;6.752
+SC;42;1640;São João do Sul;6.529
+SC;42;1650;São Joaquim;22.649
+SC;42;1660;São José;156.150
+SC;42;1670;São José do Cedro;17.387
+SC;42;1680;São José do Cerrito;11.218
+SC;42;1690;São Lourenço do Oeste;19.254
+SC;42;1700;São Ludgero;6.526
+SC;42;1710;São Martinho;3.510
+SC;42;1715;São Miguel da Boa Vista;2.729
+SC;42;1720;São Miguel do Oeste;37.717
+SC;42;1730;Saudades;8.830
+SC;42;1740;Schroeder;7.177
+SC;42;1750;Seara;16.037
+SC;42;1755;Serra Alta;3.910
+SC;42;1760;Siderópolis;13.978
+SC;42;1770;Sombrio;24.435
+SC;42;1775;Sul Brasil;3.746
+SC;42;1780;Taió;16.721
+SC;42;1790;Tangará;11.972
+SC;42;1800;Tijucas;21.577
+SC;42;1810;Timbé do Sul;5.527
+SC;42;1820;Timbó;26.140
+SC;42;1825;Timbó Grande;5.155
+SC;42;1830;Três Barras;17.217
+SC;42;1840;Treze de Maio;6.035
+SC;42;1850;Treze Tílias;4.185
+SC;42;1860;Trombudo Central;6.135
+SC;42;1870;Tubarão;86.941
+SC;42;1875;Tunápolis;5.310
+SC;42;1880;Turvo;12.641
+SC;42;1885;União do Oeste;3.405
+SC;42;1890;Urubici;9.434
+SC;42;1895;Urupema;2.571
+SC;42;1900;Urussanga;19.743
+SC;42;1910;Vargeão;3.650
+SC;42;1915;Vargem;3.400
+SC;42;1917;Vargem Bonita;6.046
+SC;42;1920;Vidal Ramos;6.688
+SC;42;1930;Videira;39.444
+SC;42;1935;Vitor Meireles;5.730
+SC;42;1940;Witmarsum;3.792
+SC;42;1950;Xanxerê;37.616
+SC;42;1960;Xavantina;4.806
+SC;42;1970;Xaxim;21.726
+RS;43;5;Água Santa;3.763
+RS;43;10;Agudo;17.047
+RS;43;20;Ajuricaba;10.969
+RS;43;30;Alecrim;9.659
+RS;43;40;Alegrete;80.673
+RS;43;45;Alegria;5.985
+RS;43;50;Alpestre;12.950
+RS;43;55;Alto Alegre;2.000
+RS;43;57;Alto Feliz;3.025
+RS;43;60;Alvorada;158.377
+RS;43;63;Amaral Ferrador;6.022
+RS;43;64;Ametista do Sul;6.400
+RS;43;66;André da Rocha;1.034
+RS;43;70;Anta Gorda;6.881
+RS;43;80;Antônio Prado;11.935
+RS;43;85;Arambaré;3.119
+RS;43;90;Aratiba;7.581
+RS;43;100;Arroio do Meio;16.008
+RS;43;105;Arroio do Sal;3.275
+RS;43;120;Arroio do Tigre;15.455
+RS;43;110;Arroio dos Ratos;12.842
+RS;43;130;Arroio Grande;18.507
+RS;43;140;Arvorezinha;10.000
+RS;43;150;Augusto Pestana;8.184
+RS;43;155;Áurea;4.126
+RS;43;160;Bagé;113.619
+RS;43;165;Barão;6.023
+RS;43;170;Barão de Cotegipe;7.093
+RS;43;175;Barão do Triunfo;6.027
+RS;43;185;Barra do Guarita;3.416
+RS;43;190;Barra do Ribeiro;10.960
+RS;43;192;Barra do Rio Azul;2.645
+RS;43;195;Barra Funda;2.025
+RS;43;180;Barracão;5.972
+RS;43;200;Barros Cassal;12.209
+RS;43;210;Bento Gonçalves;80.347
+RS;43;215;Boa Vista das Missões;2.090
+RS;43;220;Boa Vista do Buricá;9.247
+RS;43;230;Bom Jesus;13.179
+RS;43;235;Bom Princípio;7.158
+RS;43;237;Bom Progresso;2.708
+RS;43;240;Bom Retiro do Sul;12.458
+RS;43;245;Boqueirão do Leão;7.489
+RS;43;250;Bossoroca;8.075
+RS;43;260;Braga;4.604
+RS;43;265;Brochier;4.016
+RS;43;270;Butiá;20.311
+RS;43;280;Caçapava do Sul;35.491
+RS;43;290;Cacequi;16.145
+RS;43;300;Cachoeira do Sul;89.979
+RS;43;310;Cachoeirinha;95.781
+RS;43;320;Cacique Doble;4.951
+RS;43;330;Caibaté;7.502
+RS;43;340;Caiçara;5.942
+RS;43;350;Camaquã;60.450
+RS;43;355;Camargo;2.362
+RS;43;360;Cambará do Sul;7.218
+RS;43;367;Campestre da Serra;3.132
+RS;43;370;Campina das Missões;7.980
+RS;43;380;Campinas do Sul;8.473
+RS;43;390;Campo Bom;51.994
+RS;43;400;Campo Novo;6.915
+RS;43;410;Campos Borges;3.962
+RS;43;420;Candelária;28.348
+RS;43;430;Cândido Godói;7.539
+RS;43;435;Candiota;5.833
+RS;43;440;Canela;26.934
+RS;43;450;Canguçu;48.906
+RS;43;460;Canoas;287.505
+RS;43;463;Capão da Canoa;21.148
+RS;43;466;Capão do Leão;20.521
+RS;43;468;Capela de Santana;8.273
+RS;43;469;Capitão;2.353
+RS;43;470;Carazinho;55.181
+RS;43;480;Carlos Barbosa;17.745
+RS;43;485;Carlos Gomes;2.371
+RS;43;490;Casca;8.001
+RS;43;495;Caseiros;2.936
+RS;43;500;Catuípe;10.427
+RS;43;510;Caxias do Sul;313.210
+RS;43;511;Centenário;3.319
+RS;43;513;Cerro Branco;5.270
+RS;43;515;Cerro Grande;3.195
+RS;43;517;Cerro Grande do Sul;7.620
+RS;43;520;Cerro Largo;13.170
+RS;43;530;Chapada;10.401
+RS;43;535;Charqueadas;26.885
+RS;43;537;Charrua;3.944
+RS;43;540;Chiapetta;4.854
+RS;43;545;Cidreira;9.923
+RS;43;550;Ciríaco;5.800
+RS;43;558;Colinas;2.778
+RS;43;560;Colorado;4.342
+RS;43;570;Condor;6.440
+RS;43;580;Constantina;11.746
+RS;43;585;Coqueiros do Sul;2.963
+RS;43;587;Coronel Barros;2.479
+RS;43;590;Coronel Bicaco;9.787
+RS;43;595;Cotiporã;4.109
+RS;43;597;Coxilha;3.197
+RS;43;600;Crissiumal;17.356
+RS;43;605;Cristal;5.820
+RS;43;610;Cruz Alta;70.527
+RS;43;620;Cruzeiro do Sul;11.557
+RS;43;630;David Canabarro;4.612
+RS;43;632;Derrubadas;4.346
+RS;43;635;Dezesseis de Novembro;3.719
+RS;43;640;Dois Irmãos;15.962
+RS;43;642;Dois Irmãos das Missões;2.688
+RS;43;645;Dois Lajeados;3.009
+RS;43;650;Dom Feliciano;12.651
+RS;43;660;Dom Pedrito;39.013
+RS;43;670;Dona Francisca;3.875
+RS;43;673;Doutor Maurício Cardoso;6.906
+RS;43;676;Eldorado do Sul;19.227
+RS;43;680;Encantado;19.719
+RS;43;690;Encruzilhada do Sul;21.281
+RS;43;692;Engenho Velho;2.632
+RS;43;695;Entre Rios do Sul;3.778
+RS;43;693;Entre-Ijuís;9.874
+RS;43;697;Erebango;3.287
+RS;43;700;Erechim;78.539
+RS;43;705;Ernestina;3.803
+RS;43;720;Erval Grande;6.967
+RS;43;730;Erval Seco;9.740
+RS;43;740;Esmeralda;5.557
+RS;43;750;Espumoso;17.086
+RS;43;755;Estação;5.976
+RS;43;760;Estância Velha;30.615
+RS;43;770;Esteio;76.615
+RS;43;780;Estrela;26.580
+RS;43;783;Eugênio de Castro;3.499
+RS;43;786;Fagundes Varela;2.522
+RS;43;790;Farroupilha;48.813
+RS;43;800;Faxinal do Soturno;6.740
+RS;43;805;Faxinalzinho;2.884
+RS;43;810;Feliz;9.856
+RS;43;820;Flores da Cunha;19.078
+RS;43;830;Fontoura Xavier;12.330
+RS;43;840;Formigueiro;7.623
+RS;43;845;Fortaleza dos Valos;5.035
+RS;43;850;Frederico Westphalen;25.564
+RS;43;860;Garibaldi;27.813
+RS;43;865;Garruchos;3.418
+RS;43;870;Gaurama;6.518
+RS;43;880;General Câmara;11.454
+RS;43;885;Gentil;2.073
+RS;43;890;Getúlio Vargas;20.157
+RS;43;900;Giruá;25.653
+RS;43;905;Glorinha;4.698
+RS;43;910;Gramado;23.996
+RS;43;912;Gramado dos Loureiros;2.630
+RS;43;915;Gramado Xavier;3.704
+RS;43;920;Gravataí;206.085
+RS;43;925;Guabiju;1.624
+RS;43;930;Guaíba;85.521
+RS;43;940;Guaporé;17.776
+RS;43;950;Guarani das Missões;11.552
+RS;43;955;Harmonia;3.321
+RS;43;710;Herval;7.101
+RS;43;960;Horizontina;17.099
+RS;43;965;Hulha Negra;7.741
+RS;43;970;Humaitá;5.734
+RS;43;975;Ibarama;5.124
+RS;43;980;Ibiaçá;5.646
+RS;43;990;Ibiraiaras;8.166
+RS;43;995;Ibirapuitã;5.517
+RS;43;1000;Ibirubá;18.166
+RS;43;1010;Igrejinha;22.279
+RS;43;1020;Ijuí;74.922
+RS;43;1030;Ilópolis;3.953
+RS;43;1033;Imbé;8.136
+RS;43;1036;Imigrante;3.914
+RS;43;1040;Independência;7.177
+RS;43;1041;Inhacorá;2.588
+RS;43;1043;Ipê;5.478
+RS;43;1046;Ipiranga do Sul;2.354
+RS;43;1050;Iraí;10.280
+RS;43;1055;Itacurubi;3.330
+RS;43;1057;Itapuca;2.885
+RS;43;1060;Itaqui;43.503
+RS;43;1070;Itatiba do Sul;6.594
+RS;43;1075;Ivorá;2.532
+RS;43;1080;Ivoti;12.139
+RS;43;1085;Jaboticaba;4.853
+RS;43;1090;Jacutinga;4.232
+RS;43;1100;Jaguarão;30.142
+RS;43;1110;Jaguari;12.646
+RS;43;1112;Jaquirana;4.005
+RS;43;1115;Jóia;8.307
+RS;43;1120;Júlio de Castilhos;20.207
+RS;43;1127;Lagoa dos Três Cantos;1.806
+RS;43;1130;Lagoa Vermelha;29.457
+RS;43;1125;Lagoão;6.681
+RS;43;1140;Lajeado;61.693
+RS;43;1142;Lajeado do Bugre;2.522
+RS;43;1150;Lavras do Sul;8.746
+RS;43;1160;Liberato Salzano;8.299
+RS;43;1162;Lindolfo Collor;3.395
+RS;43;1164;Linha Nova;1.584
+RS;43;1170;Machadinho;7.030
+RS;43;1175;Manoel Viana;5.911
+RS;43;1177;Maquiné;7.392
+RS;43;1179;Maratá;2.238
+RS;43;1180;Marau;23.958
+RS;43;1190;Marcelino Ramos;6.783
+RS;43;1198;Mariana Pimentel;3.257
+RS;43;1200;Mariano Moro;2.961
+RS;43;1210;Mata;5.215
+RS;43;1213;Mato Castelhano;2.346
+RS;43;1215;Mato Leitão;2.942
+RS;43;1220;Maximiliano de Almeida;6.570
+RS;43;1225;Minas do Leão;7.419
+RS;43;1230;Miraguaí;5.748
+RS;43;1235;Montauri;1.670
+RS;43;1238;Monte Belo do Sul;3.172
+RS;43;1240;Montenegro;50.056
+RS;43;1242;Mormaço;2.473
+RS;43;1244;Morrinhos do Sul;3.614
+RS;43;1245;Morro Redondo;6.012
+RS;43;1247;Morro Reuter;4.584
+RS;43;1250;Mostardas;10.058
+RS;43;1260;Muçum;6.828
+RS;43;1262;Muliterno;1.924
+RS;43;1265;Não-Me-Toque;13.536
+RS;43;1267;Nicolau Vergueiro;1.958
+RS;43;1270;Nonoai;12.516
+RS;43;1275;Nova Alvorada;2.480
+RS;43;1280;Nova Araçá;3.099
+RS;43;1290;Nova Bassano;6.882
+RS;43;1295;Nova Boa Vista;2.449
+RS;43;1300;Nova Bréscia;4.438
+RS;43;1303;Nova Esperança do Sul;3.878
+RS;43;1306;Nova Hartz;10.875
+RS;43;1308;Nova Pádua;2.500
+RS;43;1310;Nova Palma;6.120
+RS;43;1320;Nova Petrópolis;14.491
+RS;43;1330;Nova Prata;16.374
+RS;43;1335;Nova Roma do Sul;2.767
+RS;43;1337;Nova Santa Rita;10.543
+RS;43;1349;Novo Barreiro;3.906
+RS;43;1340;Novo Hamburgo;227.962
+RS;43;1342;Novo Machado;5.206
+RS;43;1344;Novo Tiradentes;2.273
+RS;43;1350;Osório;32.635
+RS;43;1360;Paim Filho;5.408
+RS;43;1365;Palmares do Sul;12.217
+RS;43;1370;Palmeira das Missões;37.776
+RS;43;1380;Palmitinho;6.495
+RS;43;1390;Panambi;31.906
+RS;43;1395;Pantano Grande;10.214
+RS;43;1400;Paraí;5.234
+RS;43;1402;Paraíso do Sul;6.681
+RS;43;1403;Pareci Novo;3.020
+RS;43;1405;Parobé;34.747
+RS;43;1407;Passo do Sobrado;5.575
+RS;43;1410;Passo Fundo;151.147
+RS;43;1415;Paverama;7.223
+RS;43;1420;Pedro Osório;14.742
+RS;43;1430;Pejuçara;4.137
+RS;43;1440;Pelotas;307.213
+RS;43;1442;Picada Café;3.819
+RS;43;1445;Pinhal;2.747
+RS;43;1447;Pinhal Grande;4.182
+RS;43;1449;Pinheirinho do Vale;4.643
+RS;43;1450;Pinheiro Machado;13.543
+RS;43;1455;Pirapó;3.571
+RS;43;1460;Piratini;16.852
+RS;43;1470;Planalto;12.372
+RS;43;1475;Poço das Antas;1.982
+RS;43;1477;Pontão;4.595
+RS;43;1478;Ponte Preta;2.222
+RS;43;1480;Portão;21.165
+RS;43;1490;Porto Alegre;1.295.940
+RS;43;1500;Porto Lucena;6.808
+RS;43;1505;Porto Mauá;2.821
+RS;43;1507;Porto Vera Cruz;2.738
+RS;43;1510;Porto Xavier;10.436
+RS;43;1513;Pouso Novo;2.071
+RS;43;1514;Presidente Lucena;2.094
+RS;43;1515;Progresso;6.633
+RS;43;1517;Protásio Alves;2.188
+RS;43;1520;Putinga;4.902
+RS;43;1530;Quaraí;22.640
+RS;43;1532;Quevedos;2.841
+RS;43;1535;Quinze de Novembro;3.389
+RS;43;1540;Redentora;8.791
+RS;43;1545;Relvado;2.399
+RS;43;1550;Restinga Seca;15.542
+RS;43;1555;Rio dos Índios;5.590
+RS;43;1560;Rio Grande;180.902
+RS;43;1570;Rio Pardo;38.431
+RS;43;1575;Riozinho;3.169
+RS;43;1580;Roca Sales;9.346
+RS;43;1590;Rodeio Bonito;8.044
+RS;43;1600;Rolante;14.576
+RS;43;1610;Ronda Alta;10.769
+RS;43;1620;Rondinha;6.827
+RS;43;1630;Roque Gonzales;8.439
+RS;43;1640;Rosário do Sul;41.484
+RS;43;1642;Sagrada Família;2.754
+RS;43;1643;Saldanha Marinho;3.113
+RS;43;1645;Salto do Jacuí;11.090
+RS;43;1647;Salvador das Missões;2.748
+RS;43;1650;Salvador do Sul;6.954
+RS;43;1660;Sananduva;14.732
+RS;43;1670;Santa Bárbara do Sul;10.137
+RS;43;1675;Santa Clara do Sul;4.454
+RS;43;1680;Santa Cruz do Sul;96.069
+RS;43;1690;Santa Maria;226.787
+RS;43;1695;Santa Maria do Herval;5.510
+RS;43;1720;Santa Rosa;59.756
+RS;43;1725;Santa Tereza;2.265
+RS;43;1730;Santa Vitória do Palmar;37.426
+RS;43;1700;Santana da Boa Vista;8.328
+RS;43;1710;Santana do Livramento;87.155
+RS;43;1740;Santiago;53.060
+RS;43;1750;Santo Ângelo;74.003
+RS;43;1760;Santo Antônio da Patrulha;40.232
+RS;43;1770;Santo Antônio das Missões;13.210
+RS;43;1755;Santo Antônio do Palma;2.277
+RS;43;1775;Santo Antônio do Planalto;2.059
+RS;43;1780;Santo Augusto;15.279
+RS;43;1790;Santo Cristo;14.746
+RS;43;1795;Santo Expedito do Sul;2.886
+RS;43;1800;São Borja;66.160
+RS;43;1805;São Domingos do Sul;2.623
+RS;43;1810;São Francisco de Assis;21.663
+RS;43;1820;São Francisco de Paula;19.326
+RS;43;1830;São Gabriel;60.271
+RS;43;1840;São Jerônimo;21.156
+RS;43;1842;São João da Urtiga;5.150
+RS;43;1843;São João do Polêsine;2.505
+RS;43;1844;São Jorge;2.881
+RS;43;1845;São José das Missões;3.137
+RS;43;1846;São José do Herval;2.515
+RS;43;1848;São José do Hortêncio;2.825
+RS;43;1849;São José do Inhacorá;2.555
+RS;43;1850;São José do Norte;22.157
+RS;43;1860;São José do Ouro;6.770
+RS;43;1862;São José dos Ausentes;2.880
+RS;43;1870;São Leopoldo;190.249
+RS;43;1880;São Lourenço do Sul;42.464
+RS;43;1890;São Luiz Gonzaga;41.833
+RS;43;1900;São Marcos;17.222
+RS;43;1910;São Martinho;7.247
+RS;43;1912;São Martinho da Serra;3.261
+RS;43;1915;São Miguel das Missões;7.435
+RS;43;1920;São Nicolau;6.809
+RS;43;1930;São Paulo das Missões;8.166
+RS;43;1935;São Pedro da Serra;2.328
+RS;43;1937;São Pedro do Butiá;2.830
+RS;43;1940;São Pedro do Sul;20.193
+RS;43;1950;São Sebastião do Caí;17.732
+RS;43;1960;São Sepé;25.104
+RS;43;1970;São Valentim;7.636
+RS;43;1971;São Valentim do Sul;2.241
+RS;43;1973;São Valério do Sul;2.668
+RS;43;1975;São Vendelino;1.493
+RS;43;1980;São Vicente do Sul;7.710
+RS;43;1990;Sapiranga;63.722
+RS;43;2000;Sapucaia do Sul;113.110
+RS;43;2010;Sarandi;16.400
+RS;43;2020;Seberi;12.834
+RS;43;2023;Sede Nova;3.824
+RS;43;2026;Segredo;6.659
+RS;43;2030;Selbach;4.690
+RS;43;2035;Sentinela do Sul;4.969
+RS;43;2040;Serafina Corrêa;8.608
+RS;43;2045;Sério;3.299
+RS;43;2050;Sertão;8.212
+RS;43;2055;Sertão Santana;5.204
+RS;43;2060;Severiano de Almeida;4.537
+RS;43;2065;Silveira Martins;2.225
+RS;43;2067;Sinimbu;14.666
+RS;43;2070;Sobradinho;20.648
+RS;43;2080;Soledade;28.847
+RS;43;2090;Tapejara;15.705
+RS;43;2100;Tapera;9.999
+RS;43;2110;Tapes;15.243
+RS;43;2120;Taquara;46.120
+RS;43;2130;Taquari;25.655
+RS;43;2132;Taquaruçu do Sul;2.861
+RS;43;2135;Tavares;5.014
+RS;43;2140;Tenente Portela;15.225
+RS;43;2143;Terra de Areia;11.303
+RS;43;2145;Teutônia;19.081
+RS;43;2147;Tiradentes do Sul;8.782
+RS;43;2150;Torres;31.465
+RS;43;2160;Tramandaí;21.862
+RS;43;2162;Travesseiro;2.752
+RS;43;2163;Três Arroios;3.249
+RS;43;2166;Três Cachoeiras;8.852
+RS;43;2170;Três Coroas;16.386
+RS;43;2180;Três de Maio;24.083
+RS;43;2183;Três Forquilhas;3.340
+RS;43;2185;Três Palmeiras;4.970
+RS;43;2190;Três Passos;30.233
+RS;43;2195;Trindade do Sul;6.637
+RS;43;2200;Triunfo;19.466
+RS;43;2210;Tucunduva;6.413
+RS;43;2215;Tunas;4.336
+RS;43;2218;Tupanci do Sul;1.971
+RS;43;2220;Tupanciretã;23.826
+RS;43;2225;Tupandi;2.174
+RS;43;2230;Tuparendi;9.440
+RS;43;2235;União da Serra;2.549
+RS;43;2240;Uruguaiana;125.823
+RS;43;2250;Vacaria;56.956
+RS;43;2253;Vale do Sol;10.994
+RS;43;2254;Vale Real;3.718
+RS;43;2255;Vanini;1.804
+RS;43;2260;Venâncio Aires;57.481
+RS;43;2270;Vera Cruz;19.454
+RS;43;2280;Veranópolis;18.373
+RS;43;2290;Viadutos;6.544
+RS;43;2300;Viamão;197.783
+RS;43;2310;Vicente Dutra;6.346
+RS;43;2320;Victor Graeff;3.620
+RS;43;2330;Vila Flores;2.714
+RS;43;2340;Vila Maria;4.157
+RS;43;2345;Vila Nova do Sul;3.936
+RS;43;2350;Vista Alegre;2.943
+RS;43;2360;Vista Alegre do Prata;1.762
+RS;43;2370;Vista Gaúcha;2.570
+RS;43;2375;Vitória das Missões;4.520
+RS;43;2380;Xangri-lá;5.736
+MS;50;20;Água Clara;7.503
+MS;50;25;Alcinópolis;6.481
+MS;50;60;Amambaí;27.473
+MS;50;70;Anastácio;21.909
+MS;50;80;Anaurilândia;7.417
+MS;50;85;Angélica;8.109
+MS;50;90;Antônio João;6.984
+MS;50;100;Aparecida do Taboado;15.476
+MS;50;110;Aquidauana;41.650
+MS;50;124;Aral Moreira;7.402
+MS;50;150;Bandeirantes;5.739
+MS;50;190;Bataguassu;12.081
+MS;50;200;Batayporã;8.132
+MS;50;210;Bela Vista;20.296
+MS;50;215;Bodoquena;8.284
+MS;50;220;Bonito;17.146
+MS;50;230;Brasilândia;11.508
+MS;50;240;Caarapó;23.059
+MS;50;260;Camapuã;17.099
+MS;50;270;Campo Grande;601.661
+MS;50;280;Caracol;3.995
+MS;50;290;Cassilândia;19.271
+MS;50;295;Chapadão do Sul;6.446
+MS;50;310;Corguinho;3.674
+MS;50;315;Coronel Sapucaia;12.909
+MS;50;320;Corumbá;90.638
+MS;50;325;Costa Rica;15.414
+MS;50;330;Coxim;29.036
+MS;50;345;Deodápolis;12.216
+MS;50;348;Dois Irmãos do Buriti;9.231
+MS;50;350;Douradina;4.411
+MS;50;370;Dourados;147.265
+MS;50;375;Eldorado;10.120
+MS;50;380;Fátima do Sul;20.752
+MS;50;400;Glória de Dourados;10.592
+MS;50;410;Guia Lopes da Laguna;9.672
+MS;50;430;Iguatemi;10.189
+MS;50;440;Inocência;6.683
+MS;50;450;Itaporã;16.255
+MS;50;460;Itaquiraí;13.352
+MS;50;470;Ivinhema;26.186
+MS;50;480;Japorã;4.231
+MS;50;490;Jaraguari;4.183
+MS;50;500;Jardim;21.317
+MS;50;510;Jateí;4.639
+MS;50;515;Juti;4.906
+MS;50;520;Ladário;13.216
+MS;50;525;Laguna Carapã;5.097
+MS;50;540;Maracaju;25.270
+MS;50;560;Miranda;21.359
+MS;50;568;Mundo Novo;16.767
+MS;50;570;Naviraí;31.443
+MS;50;580;Nioaque;11.666
+MS;50;600;Nova Alvorada do Sul;7.948
+MS;50;620;Nova Andradina;32.795
+MS;50;625;Novo Horizonte do Sul;9.441
+MS;50;630;Paranaíba;37.707
+MS;50;635;Paranhos;10.543
+MS;50;640;Pedro Gomes;8.777
+MS;50;660;Ponta Porã;55.928
+MS;50;690;Porto Murtinho;13.065
+MS;50;710;Ribas do Rio Pardo;14.238
+MS;50;720;Rio Brilhante;17.551
+MS;50;730;Rio Negro;5.214
+MS;50;740;Rio Verde de Mato Grosso;14.927
+MS;50;750;Rochedo;3.277
+MS;50;755;Santa Rita do Pardo;5.626
+MS;50;769;São Gabriel do Oeste;13.275
+MS;50;780;Selvíria;6.280
+MS;50;770;Sete Quedas;15.295
+MS;50;790;Sidrolândia;16.564
+MS;50;793;Sonora;6.187
+MS;50;795;Tacuru;6.729
+MS;50;797;Taquarussu;4.217
+MS;50;800;Terenos;10.549
+MS;50;830;Três Lagoas;72.160
+MS;50;840;Vicentina;6.685
+MT;51;10;Acorizal;5.663
+MT;51;20;Água Boa;20.700
+MT;51;25;Alta Floresta;79.591
+MT;51;30;Alto Araguaia;11.607
+MT;51;35;Alto Boa Vista;2.968
+MT;51;40;Alto Garças;8.862
+MT;51;50;Alto Paraguai;14.931
+MT;51;60;Alto Taquari;3.524
+MT;51;80;Apiacás;7.597
+MT;51;100;Araguaiana;3.463
+MT;51;120;Araguainha;1.448
+MT;51;125;Araputanga;11.934
+MT;51;130;Arenápolis;15.623
+MT;51;140;Aripuanã;17.016
+MT;51;160;Barão de Melgaço;10.517
+MT;51;170;Barra do Bugres;20.489
+MT;51;180;Barra do Garças;49.522
+MT;51;190;Brasnorte;7.790
+MT;51;250;Cáceres;79.594
+MT;51;260;Campinápolis;14.772
+MT;51;263;Campo Novo do Parecis;8.665
+MT;51;267;Campo Verde;6.987
+MT;51;269;Canabrava do Norte;3.437
+MT;51;270;Canarana;11.786
+MT;51;285;Castanheira;11.242
+MT;51;300;Chapada dos Guimarães;13.890
+MT;51;305;Cláudia;10.523
+MT;51;310;Cocalinho;6.381
+MT;51;320;Colíder;34.397
+MT;51;330;Comodoro;11.919
+MT;51;335;Confresa;3.929
+MT;51;337;Cotriguaçu;3.057
+MT;51;340;Cuiabá;465.107
+MT;51;345;Denise;4.828
+MT;51;350;Diamantino;18.452
+MT;51;360;Dom Aquino;8.098
+MT;51;380;Figueirópolis D'Oeste;4.810
+MT;51;390;General Carneiro;4.404
+MT;51;395;Glória D'Oeste;4.850
+MT;51;410;Guarantã do Norte;29.790
+MT;51;420;Guiratinga;15.012
+MT;51;450;Indiavaí;1.798
+MT;51;455;Itaúba;8.524
+MT;51;460;Itiquira;8.540
+MT;51;480;Jaciara;21.672
+MT;51;490;Jangada;5.577
+MT;51;500;Jauru;14.277
+MT;51;510;Juara;26.871
+MT;51;515;Juína;45.437
+MT;51;517;Juruena;4.389
+MT;51;520;Juscimeira;10.402
+MT;51;523;Lambari D'Oeste;6.343
+MT;51;525;Lucas do Rio Verde;8.367
+MT;51;530;Luciára;3.298
+MT;51;558;Marcelândia;11.138
+MT;51;560;Matupá;12.807
+MT;51;562;Mirassol d'Oeste;25.141
+MT;51;590;Nobres;15.204
+MT;51;600;Nortelândia;9.308
+MT;51;610;Nossa Senhora do Livramento;10.557
+MT;51;615;Nova Bandeirantes;3.897
+MT;51;620;Nova Brasilândia;6.760
+MT;51;621;Nova Canaã do Norte;14.226
+MT;51;880;Nova Guarita;7.406
+MT;51;885;Nova Marilândia;2.151
+MT;51;890;Nova Maringá;4.233
+MT;51;895;Nova Monte Verde;5.213
+MT;51;622;Nova Mutum;8.077
+MT;51;623;Nova Olímpia;8.083
+MT;51;625;Nova Xavantina;18.852
+MT;51;627;Novo Horizonte do Norte;3.792
+MT;51;628;Novo São Joaquim;8.557
+MT;51;629;Paranaíta;15.255
+MT;51;630;Paranatinga;20.660
+MT;51;637;Pedra Preta;10.666
+MT;51;642;Peixoto de Azevedo;47.009
+MT;51;645;Planalto da Serra;2.665
+MT;51;650;Poconé;32.388
+MT;51;665;Pontal do Araguaia;2.673
+MT;51;670;Ponte Branca;2.347
+MT;51;675;Pontes e Lacerda;39.903
+MT;51;677;Porto Alegre do Norte;8.932
+MT;51;680;Porto dos Gaúchos;5.570
+MT;51;682;Porto Esperidião;9.160
+MT;51;685;Porto Estrela;6.005
+MT;51;700;Poxoréo;24.321
+MT;51;704;Primavera do Leste;14.610
+MT;51;706;Querência;3.402
+MT;51;715;Reserva do Cabaçal;3.080
+MT;51;718;Ribeirão Cascalheira;9.843
+MT;51;719;Ribeirãozinho;1.461
+MT;51;720;Rio Branco;5.835
+MT;51;760;Rondonópolis;137.980
+MT;51;770;Rosário Oeste;20.422
+MT;51;775;Salto do Céu;6.851
+MT;51;724;Santa Carmem;3.261
+MT;51;777;Santa Terezinha;6.694
+MT;51;726;Santo Afonso;4.758
+MT;51;780;Santo Antônio do Leverger;16.585
+MT;51;785;São Félix do Araguaia;11.875
+MT;51;729;São José do Povo;3.280
+MT;51;730;São José do Rio Claro;12.189
+MT;51;735;São José do Xingu;2.681
+MT;51;710;São José dos Quatro Marcos;23.877
+MT;51;740;São Pedro da Cipa;3.763
+MT;51;790;Sinop;45.541
+MT;51;792;Sorriso;20.132
+MT;51;794;Tabaporã;3.113
+MT;51;795;Tangará da Serra;44.103
+MT;51;800;Tapurah;9.176
+MT;51;805;Terra Nova do Norte;21.019
+MT;51;810;Tesouro;4.852
+MT;51;820;Torixoréu;5.747
+MT;51;840;Várzea Grande;189.447
+MT;51;850;Vera;13.448
+MT;51;550;Vila Bela da Santíssima Trindade;15.128
+MT;51;860;Vila Rica;11.855
+GO;52;10;Abadiânia;9.472
+GO;52;13;Acreúna;15.770
+GO;52;15;Adelândia;2.356
+GO;52;17;Água Fria de Goiás;4.015
+GO;52;20;Água Limpa;1.809
+GO;52;30;Alexânia;18.476
+GO;52;50;Aloândia;1.860
+GO;52;55;Alto Horizonte;2.135
+GO;52;60;Alto Paraíso de Goiás;4.565
+GO;52;80;Alvorada do Norte;7.705
+GO;52;85;Americano do Brasil;4.795
+GO;52;90;Amorinópolis;4.157
+GO;52;110;Anápolis;258.512
+GO;52;120;Anhanguera;903
+GO;52;130;Anicuns;18.340
+GO;52;140;Aparecida de Goiânia;222.283
+GO;52;145;Aparecida do Rio Doce;1.973
+GO;52;150;Aporé;3.604
+GO;52;160;Araçu;3.641
+GO;52;170;Aragarças;15.173
+GO;52;180;Aragoiânia;5.345
+GO;52;215;Araguapaz;7.685
+GO;52;235;Arenópolis;3.893
+GO;52;250;Aruanã;5.344
+GO;52;260;Aurilândia;4.003
+GO;52;280;Avelinópolis;2.181
+GO;52;310;Baliza;4.494
+GO;52;320;Barro Alto;9.405
+GO;52;330;Bela Vista de Goiás;16.108
+GO;52;340;Bom Jardim de Goiás;8.325
+GO;52;350;Bom Jesus de Goiás;14.439
+GO;52;355;Bonfinópolis;3.628
+GO;52;360;Brazabrantes;2.351
+GO;52;380;Britânia;5.101
+GO;52;390;Buriti Alegre;8.661
+GO;52;393;Buriti de Goiás;1.948
+GO;52;396;Buritinópolis;3.371
+GO;52;400;Cabeceiras;7.037
+GO;52;410;Cachoeira Alta;8.159
+GO;52;420;Cachoeira de Goiás;1.492
+GO;52;425;Cachoeira Dourada;8.863
+GO;52;430;Caçu;11.311
+GO;52;440;Caiapônia;13.194
+GO;52;450;Caldas Novas;27.098
+GO;52;455;Caldazinha;2.031
+GO;52;460;Campestre de Goiás;2.285
+GO;52;465;Campinaçu;4.208
+GO;52;470;Campinorte;8.318
+GO;52;480;Campo Alegre de Goiás;4.580
+GO;52;490;Campos Belos;16.540
+GO;52;495;Campos Verdes;18.674
+GO;52;500;Carmo do Rio Verde;10.368
+GO;52;505;Castelândia;3.491
+GO;52;510;Catalão;61.159
+GO;52;520;Caturaí;4.299
+GO;52;530;Cavalcante;8.216
+GO;52;540;Ceres;23.042
+GO;52;545;Cezarina;6.253
+GO;52;547;Chapadão do Céu;1.816
+GO;52;549;Cidade Ocidental;34.800
+GO;52;551;Cocalzinho de Goiás;10.300
+GO;52;552;Colinas do Sul;3.774
+GO;52;570;Córrego do Ouro;3.071
+GO;52;580;Corumbá de Goiás;9.249
+GO;52;590;Corumbaíba;5.190
+GO;52;620;Cristalina;27.971
+GO;52;630;Cristianópolis;2.601
+GO;52;640;Crixás;20.145
+GO;52;650;Cromínia;3.425
+GO;52;660;Cumari;2.692
+GO;52;670;Damianópolis;3.702
+GO;52;680;Damolândia;2.696
+GO;52;690;Davinópolis;1.978
+GO;52;710;Diorama;2.462
+GO;52;830;Divinópolis de Goiás;5.225
+GO;52;725;Doverlândia;11.277
+GO;52;735;Edealina;4.397
+GO;52;740;Edéia;8.916
+GO;52;750;Estrela do Norte;3.521
+GO;52;753;Faina;7.588
+GO;52;760;Fazenda Nova;6.794
+GO;52;780;Firminópolis;9.667
+GO;52;790;Flores de Goiás;5.520
+GO;52;800;Formosa;67.459
+GO;52;810;Formoso;5.780
+GO;52;840;Goianápolis;7.987
+GO;52;850;Goiandira;5.295
+GO;52;860;Goianésia;48.832
+GO;52;870;Goiânia;989.285
+GO;52;880;Goianira;12.043
+GO;52;890;Goiás;27.987
+GO;52;910;Goiatuba;34.012
+GO;52;915;Gouvelândia;3.882
+GO;52;920;Guapó;12.285
+GO;52;929;Guaraíta;2.749
+GO;52;940;Guarani de Goiás;6.108
+GO;52;945;Guarinos;3.858
+GO;52;960;Heitoraí;2.821
+GO;52;970;Hidrolândia;10.689
+GO;52;980;Hidrolina;5.028
+GO;52;990;Iaciara;10.121
+GO;52;993;Inaciolândia;5.192
+GO;52;995;Indiara;10.868
+GO;52;1000;Inhumas;40.192
+GO;52;1010;Ipameri;20.947
+GO;52;1020;Iporá;31.099
+GO;52;1030;Israelândia;3.134
+GO;52;1040;Itaberaí;24.707
+GO;52;1056;Itaguari;3.835
+GO;52;1060;Itaguaru;6.055
+GO;52;1080;Itajá;6.058
+GO;52;1090;Itapaci;13.189
+GO;52;1100;Itapirapuã;8.583
+GO;52;1120;Itapuranga;28.696
+GO;52;1130;Itarumã;5.916
+GO;52;1140;Itauçu;8.228
+GO;52;1150;Itumbiara;78.122
+GO;52;1160;Ivolândia;2.814
+GO;52;1170;Jandaia;6.386
+GO;52;1180;Jaraguá;26.957
+GO;52;1190;Jataí;65.614
+GO;52;1200;Jaupaci;3.279
+GO;52;1205;Jesúpolis;1.986
+GO;52;1210;Joviânia;6.486
+GO;52;1220;Jussara;21.911
+GO;52;1230;Leopoldo de Bulhões;8.144
+GO;52;1250;Luziânia;214.324
+GO;52;1260;Mairipotaba;2.629
+GO;52;1270;Mambaí;4.357
+GO;52;1280;Mara Rosa;15.705
+GO;52;1290;Marzagão;1.533
+GO;52;1295;Matrinchã;4.022
+GO;52;1300;Maurilândia;8.083
+GO;52;1305;Mimoso de Goiás;3.501
+GO;52;1308;Minaçu;33.823
+GO;52;1310;Mineiros;34.933
+GO;52;1340;Moiporá;2.105
+GO;52;1350;Monte Alegre de Goiás;8.304
+GO;52;1370;Montes Claros de Goiás;8.012
+GO;52;1375;Montividiu;5.818
+GO;52;1377;Montividiu do Norte;2.312
+GO;52;1380;Morrinhos;32.832
+GO;52;1385;Morro Agudo de Goiás;2.359
+GO;52;1390;Mossâmedes;6.639
+GO;52;1400;Mozarlândia;10.506
+GO;52;1405;Mundo Novo;5.402
+GO;52;1410;Mutunópolis;3.815
+GO;52;1440;Nazário;6.493
+GO;52;1450;Nerópolis;14.339
+GO;52;1460;Niquelândia;42.688
+GO;52;1470;Nova América;1.888
+GO;52;1480;Nova Aurora;1.820
+GO;52;1483;Nova Crixás;12.258
+GO;52;1486;Nova Glória;8.065
+GO;52;1487;Nova Iguaçu de Goiás;3.327
+GO;52;1490;Nova Roma;4.903
+GO;52;1500;Nova Veneza;4.935
+GO;52;1520;Novo Brasil;4.733
+GO;52;1525;Novo Planalto;4.783
+GO;52;1530;Orizona;12.563
+GO;52;1540;Ouro Verde de Goiás;4.429
+GO;52;1550;Ouvidor;3.850
+GO;52;1560;Padre Bernardo;18.508
+GO;52;1565;Palestina de Goiás;2.964
+GO;52;1570;Palmeiras de Goiás;16.538
+GO;52;1580;Palmelo;2.207
+GO;52;1590;Palminópolis;3.388
+GO;52;1600;Panamá;2.335
+GO;52;1630;Paranaiguara;7.796
+GO;52;1640;Paraúna;9.323
+GO;52;1645;Perolândia;1.505
+GO;52;1680;Petrolina de Goiás;10.185
+GO;52;1690;Pilar de Goiás;4.548
+GO;52;1710;Piracanjuba;22.613
+GO;52;1720;Piranhas;13.353
+GO;52;1730;Pirenópolis;23.965
+GO;52;1740;Pires do Rio;23.183
+GO;52;1760;Planaltina;45.092
+GO;52;1770;Pontalina;15.551
+GO;52;1800;Porangatu;43.039
+GO;52;1810;Portelândia;3.297
+GO;52;1830;Posse;26.379
+GO;52;1839;Professor Jamil;2.846
+GO;52;1850;Quirinópolis;35.905
+GO;52;1860;Rialma;9.290
+GO;52;1870;Rianápolis;4.461
+GO;52;1878;Rio Quente;782
+GO;52;1880;Rio Verde;100.871
+GO;52;1890;Rubiataba;16.589
+GO;52;1900;Sanclerlândia;6.972
+GO;52;1910;Santa Bárbara de Goiás;4.071
+GO;52;1920;Santa Cruz de Goiás;3.390
+GO;52;1925;Santa Fé de Goiás;3.475
+GO;52;1930;Santa Helena de Goiás;37.174
+GO;52;1935;Santa Isabel;3.629
+GO;52;1940;Santa Rita do Araguaia;4.715
+GO;52;1950;Santa Rosa de Goiás;3.928
+GO;52;1960;Santa Tereza de Goiás;5.033
+GO;52;1970;Santa Terezinha de Goiás;18.532
+GO;52;1971;Santo Antônio da Barra;3.665
+GO;52;1973;Santo Antônio de Goiás;2.196
+GO;52;1975;Santo Antônio do Descoberto;39.829
+GO;52;1980;São Domingos;10.768
+GO;52;1990;São Francisco de Goiás;5.692
+GO;52;2000;São João d'Aliança;5.320
+GO;52;2005;São João da Paraúna;1.753
+GO;52;2010;São Luís de Montes Belos;24.893
+GO;52;2015;São Luíz do Norte;4.531
+GO;52;2020;São Miguel do Araguaia;19.057
+GO;52;2026;São Miguel do Passa Quatro;2.932
+GO;52;2040;São Simão;10.994
+GO;52;2045;Senador Canedo;26.814
+GO;52;2050;Serranópolis;8.673
+GO;52;2060;Silvânia;18.133
+GO;52;2068;Simolândia;6.072
+GO;52;2070;Sítio d'Abadia;2.768
+GO;52;2100;Taquaral de Goiás;3.820
+GO;52;2108;Teresina de Goiás;1.427
+GO;52;2119;Terezópolis de Goiás;3.845
+GO;52;2130;Três Ranchos;2.277
+GO;52;2140;Trindade;60.651
+GO;52;2145;Trombas;3.783
+GO;52;2150;Turvânia;5.055
+GO;52;2155;Turvelândia;2.404
+GO;52;2157;Uirapuru;3.124
+GO;52;2160;Uruaçu;38.057
+GO;52;2170;Uruana;14.341
+GO;52;2180;Urutaí;2.646
+GO;52;2190;Varjão;3.197
+GO;52;2200;Vianópolis;9.452
+GO;52;2205;Vicentinópolis;5.700
+GO;52;2220;Vila Boa;3.186
+DF;53;10;Brasília;1.737.813
